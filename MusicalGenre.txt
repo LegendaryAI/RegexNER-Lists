@@ -1,0 +1,738 @@
+Experimental music	MUSICAL_GENRE
+Noise	MUSICAL_GENRE
+Lo-fi	MUSICAL_GENRE
+Musique concr�te	MUSICAL_GENRE
+Electroacoustic	MUSICAL_GENRE
+Blues	MUSICAL_GENRE
+Main article: Blues	MUSICAL_GENRE
+African blues	MUSICAL_GENRE
+Blues rock	MUSICAL_GENRE
+Blues shouter	MUSICAL_GENRE
+British blues	MUSICAL_GENRE
+Canadian blues	MUSICAL_GENRE
+Chicago blues	MUSICAL_GENRE
+Classic female blues	MUSICAL_GENRE
+Contemporary R&B	MUSICAL_GENRE
+Country blues	MUSICAL_GENRE
+Delta blues	MUSICAL_GENRE
+Detroit blues	MUSICAL_GENRE
+Electric blues	MUSICAL_GENRE
+Gospel blues	MUSICAL_GENRE
+Hill country blues	MUSICAL_GENRE
+Hokum blues	MUSICAL_GENRE
+Jump blues	MUSICAL_GENRE
+Kansas City blues	MUSICAL_GENRE
+Louisiana blues	MUSICAL_GENRE
+Memphis blues	MUSICAL_GENRE
+Piedmont blues	MUSICAL_GENRE
+Punk blues	MUSICAL_GENRE
+Rhythm and blues	MUSICAL_GENRE
+Soul blues	MUSICAL_GENRE
+St. Louis blues	MUSICAL_GENRE
+Swamp blues	MUSICAL_GENRE
+Texas blues	MUSICAL_GENRE
+West Coast blues	MUSICAL_GENRE
+Baithak Gana	MUSICAL_GENRE
+Dancehall Music	MUSICAL_GENRE
+Bouyon	MUSICAL_GENRE
+Cadence-lypso	MUSICAL_GENRE
+Calypso	MUSICAL_GENRE
+Cha-cha-ch�	MUSICAL_GENRE
+Chutney	MUSICAL_GENRE
+Chutney soca	MUSICAL_GENRE
+Compas	MUSICAL_GENRE
+Mambo	MUSICAL_GENRE
+Merengue	MUSICAL_GENRE
+M�ringue	MUSICAL_GENRE
+Mozambique	MUSICAL_GENRE
+Punta	MUSICAL_GENRE
+Punta Rock	MUSICAL_GENRE
+Rasin	MUSICAL_GENRE
+Reggae	MUSICAL_GENRE
+Dancehall	MUSICAL_GENRE
+Dub	MUSICAL_GENRE
+Lovers rock	MUSICAL_GENRE
+Ragga	MUSICAL_GENRE
+Ragga jungle	MUSICAL_GENRE
+Reggae fusion	MUSICAL_GENRE
+Reggaeton	MUSICAL_GENRE
+Rocksteady	MUSICAL_GENRE
+Rumba	MUSICAL_GENRE
+Ska	MUSICAL_GENRE
+2 Tone	MUSICAL_GENRE
+Ska punk	MUSICAL_GENRE
+salsa	MUSICAL_GENRE
+Son cubano	MUSICAL_GENRE
+songo	MUSICAL_GENRE
+Soca	MUSICAL_GENRE
+Timba	MUSICAL_GENRE
+Twoubadou	MUSICAL_GENRE
+Zouk	MUSICAL_GENRE
+Alternative country	MUSICAL_GENRE
+Cowpunk	MUSICAL_GENRE
+Blues country	MUSICAL_GENRE
+Hokum	MUSICAL_GENRE
+Outlaw country	MUSICAL_GENRE
+Progressive country	MUSICAL_GENRE
+Zydeco	MUSICAL_GENRE
+Country rap	MUSICAL_GENRE
+Red Dirt	MUSICAL_GENRE
+Rockabilly	MUSICAL_GENRE
+Hellbilly music	MUSICAL_GENRE
+Psychobilly/Punkabilly	MUSICAL_GENRE
+Country rock	MUSICAL_GENRE
+Texas country	MUSICAL_GENRE
+Americana	MUSICAL_GENRE
+Australian country music	MUSICAL_GENRE
+Bakersfield sound	MUSICAL_GENRE
+Bluegrass	MUSICAL_GENRE
+Progressive bluegrass	MUSICAL_GENRE
+Reactionary bluegrass	MUSICAL_GENRE
+Cajun	MUSICAL_GENRE
+Cajun fiddle tunes	MUSICAL_GENRE
+Christian country music	MUSICAL_GENRE
+Classic country	MUSICAL_GENRE
+Close harmony	MUSICAL_GENRE
+Dansband music	MUSICAL_GENRE
+Franco-country	MUSICAL_GENRE
+Honky Tonk	MUSICAL_GENRE
+Instrumental country	MUSICAL_GENRE
+Nashville sound	MUSICAL_GENRE
+Neotraditional country	MUSICAL_GENRE
+Country pop	MUSICAL_GENRE
+Sertanejo	MUSICAL_GENRE
+Traditional country music	MUSICAL_GENRE
+Truck-driving country	MUSICAL_GENRE
+Western swing	MUSICAL_GENRE
+Easy listening	MUSICAL_GENRE
+Background music	MUSICAL_GENRE
+Beautiful music	MUSICAL_GENRE
+Elevator music	MUSICAL_GENRE
+Furniture music	MUSICAL_GENRE
+Lounge music	MUSICAL_GENRE
+Middle of the road	MUSICAL_GENRE
+New-age music	MUSICAL_GENRE
+Electronic music	MUSICAL_GENRE
+Ambient	MUSICAL_GENRE
+Ambient dub	MUSICAL_GENRE
+Dark ambient	MUSICAL_GENRE
+Drone music	MUSICAL_GENRE
+Space music	MUSICAL_GENRE
+Illbient	MUSICAL_GENRE
+Psybient	MUSICAL_GENRE
+Isolationism	MUSICAL_GENRE
+Lowercase	MUSICAL_GENRE
+Asian Underground	MUSICAL_GENRE
+Breakbeat	MUSICAL_GENRE
+Acid breaks	MUSICAL_GENRE
+Baltimore club	MUSICAL_GENRE
+Big beat	MUSICAL_GENRE
+Broken beat	MUSICAL_GENRE
+Florida breaks	MUSICAL_GENRE
+Nu-funk	MUSICAL_GENRE
+Miami bass	MUSICAL_GENRE
+Jersey club	MUSICAL_GENRE
+Nu skool breaks	MUSICAL_GENRE
+Disco	MUSICAL_GENRE
+Afro / Cosmic disco	MUSICAL_GENRE
+Disco polo	MUSICAL_GENRE
+Euro disco	MUSICAL_GENRE
+Italo disco	MUSICAL_GENRE
+Nu-disco	MUSICAL_GENRE
+Space disco	MUSICAL_GENRE
+Downtempo	MUSICAL_GENRE
+Acid jazz	MUSICAL_GENRE
+Chill-out	MUSICAL_GENRE
+New-age music	MUSICAL_GENRE
+Space music	MUSICAL_GENRE
+Trip hop	MUSICAL_GENRE
+Drum and bass	MUSICAL_GENRE
+Darkstep	MUSICAL_GENRE
+Drill and bass	MUSICAL_GENRE
+Drumstep	MUSICAL_GENRE
+Funkstep	MUSICAL_GENRE
+Hardstep	MUSICAL_GENRE
+Jump-up	MUSICAL_GENRE
+Liquid funk	MUSICAL_GENRE
+Neurofunk	MUSICAL_GENRE
+Neurohop	MUSICAL_GENRE
+Sambass	MUSICAL_GENRE
+Techstep	MUSICAL_GENRE
+	MUSICAL_GENRE
+Dub	MUSICAL_GENRE
+Electro music	MUSICAL_GENRE
+Freestyle music	MUSICAL_GENRE
+Electroacoustic music	MUSICAL_GENRE
+Acousmatic music	MUSICAL_GENRE
+Musique concr�te	MUSICAL_GENRE
+Electronic rock	MUSICAL_GENRE
+Alternative dance	MUSICAL_GENRE
+Indietronica	MUSICAL_GENRE
+Coldwave	MUSICAL_GENRE
+Dance-punk	MUSICAL_GENRE
+Dark wave	MUSICAL_GENRE
+Electroclash	MUSICAL_GENRE
+Electronicore	MUSICAL_GENRE
+Electropunk	MUSICAL_GENRE
+Ethereal wave	MUSICAL_GENRE
+Krautrock	MUSICAL_GENRE
+Minimal wave	MUSICAL_GENRE
+New rave	MUSICAL_GENRE
+Nu-gaze	MUSICAL_GENRE
+Space rock	MUSICAL_GENRE
+Synthpop	MUSICAL_GENRE
+Synthwave	MUSICAL_GENRE
+Electronica	MUSICAL_GENRE
+Berlin School	MUSICAL_GENRE
+Dubtronica	MUSICAL_GENRE
+Ethnic electronica	MUSICAL_GENRE
+Folktronica	MUSICAL_GENRE
+Funktronica	MUSICAL_GENRE
+Laptronica	MUSICAL_GENRE
+Livetronica	MUSICAL_GENRE
+Hardcore	MUSICAL_GENRE
+Gabba	MUSICAL_GENRE
+4-beat	MUSICAL_GENRE
+Breakbeat hardcore	MUSICAL_GENRE
+Bouncy techno	MUSICAL_GENRE
+Breakcore	MUSICAL_GENRE
+Digital hardcore	MUSICAL_GENRE
+Darkcore	MUSICAL_GENRE
+Happy hardcore	MUSICAL_GENRE
+M�kina	MUSICAL_GENRE
+Speedcore	MUSICAL_GENRE
+UK hardcore	MUSICAL_GENRE
+Doomcore	MUSICAL_GENRE
+Hardstyle	MUSICAL_GENRE
+Dubstyle	MUSICAL_GENRE
+Jumpstyle	MUSICAL_GENRE
+Lento violento	MUSICAL_GENRE
+Hi-NRG	MUSICAL_GENRE
+Eurobeat	MUSICAL_GENRE
+Eurodance	MUSICAL_GENRE
+Bubblegum dance	MUSICAL_GENRE
+Italo dance	MUSICAL_GENRE
+House music	MUSICAL_GENRE
+Acid house	MUSICAL_GENRE
+Ambient house	MUSICAL_GENRE
+Balearic beat	MUSICAL_GENRE
+Chicago house	MUSICAL_GENRE
+Deep house	MUSICAL_GENRE
+Future house	MUSICAL_GENRE
+Tropical house	MUSICAL_GENRE
+Bouncy house	MUSICAL_GENRE
+Diva house/Handbag house	MUSICAL_GENRE
+Electro house	MUSICAL_GENRE
+Big room	MUSICAL_GENRE
+Complextro	MUSICAL_GENRE
+Fidget house	MUSICAL_GENRE
+Dutch house	MUSICAL_GENRE
+Moombahton	MUSICAL_GENRE
+Moombahcore	MUSICAL_GENRE
+Electro swing	MUSICAL_GENRE
+French house	MUSICAL_GENRE
+Funky house	MUSICAL_GENRE
+Garage house	MUSICAL_GENRE
+Ghetto house	MUSICAL_GENRE
+Ghettotech	MUSICAL_GENRE
+Hardbag	MUSICAL_GENRE
+Hard house	MUSICAL_GENRE
+Hard NRG	MUSICAL_GENRE
+Nu-NRG	MUSICAL_GENRE
+Hip house	MUSICAL_GENRE
+Italo house	MUSICAL_GENRE
+Jazz house	MUSICAL_GENRE
+Kwaito	MUSICAL_GENRE
+Latin house	MUSICAL_GENRE
+Microhouse	MUSICAL_GENRE
+Minimal house	MUSICAL_GENRE
+New beat	MUSICAL_GENRE
+Outsider house	MUSICAL_GENRE
+Progressive house	MUSICAL_GENRE
+Rara tech	MUSICAL_GENRE
+Tech house	MUSICAL_GENRE
+Tribal house	MUSICAL_GENRE
+Trival	MUSICAL_GENRE
+Witch house	MUSICAL_GENRE
+Industrial music	MUSICAL_GENRE
+Aggrotech	MUSICAL_GENRE
+Cybergrind	MUSICAL_GENRE
+Electro-industrial	MUSICAL_GENRE
+Dark electro	MUSICAL_GENRE
+Electronic body music	MUSICAL_GENRE
+Futurepop	MUSICAL_GENRE
+Industrial metal	MUSICAL_GENRE
+Industrial rock	MUSICAL_GENRE
+Japanoise	MUSICAL_GENRE
+Neue Deutsche H�rte	MUSICAL_GENRE
+Power electronics	MUSICAL_GENRE
+Death industrial	MUSICAL_GENRE
+Power noise	MUSICAL_GENRE
+IDM	MUSICAL_GENRE
+Glitch	MUSICAL_GENRE
+Glitch Hop	MUSICAL_GENRE
+Wonky	MUSICAL_GENRE
+Jungle	MUSICAL_GENRE
+Darkcore jungle	MUSICAL_GENRE
+Raggacore	MUSICAL_GENRE
+Post-disco	MUSICAL_GENRE
+Boogie	MUSICAL_GENRE
+Electropop	MUSICAL_GENRE
+Chillwave	MUSICAL_GENRE
+Dance-pop	MUSICAL_GENRE
+Dance-rock	MUSICAL_GENRE
+Techno	MUSICAL_GENRE
+Acid techno	MUSICAL_GENRE
+Detroit techno	MUSICAL_GENRE
+Dub techno	MUSICAL_GENRE
+Free tekno	MUSICAL_GENRE
+Minimal techno	MUSICAL_GENRE
+Nortec	MUSICAL_GENRE
+Tecno brega	MUSICAL_GENRE
+Techdombe	MUSICAL_GENRE
+Trance music	MUSICAL_GENRE
+Acid trance	MUSICAL_GENRE
+Balearic trance	MUSICAL_GENRE
+Dream trance	MUSICAL_GENRE
+Goa trance	MUSICAL_GENRE
+Hard trance	MUSICAL_GENRE
+Nitzhonot	MUSICAL_GENRE
+Psychedelic trance	MUSICAL_GENRE
+Suomisaundi	MUSICAL_GENRE
+Full on	MUSICAL_GENRE
+Progressive trance	MUSICAL_GENRE
+Tech trance	MUSICAL_GENRE
+Uplifting trance	MUSICAL_GENRE
+Vocal trance	MUSICAL_GENRE
+UK garage	MUSICAL_GENRE
+2-step garage	MUSICAL_GENRE
+Dubstep	MUSICAL_GENRE
+Brostep	MUSICAL_GENRE
+Chillstep	MUSICAL_GENRE
+Reggaestep	MUSICAL_GENRE
+Trapstep	MUSICAL_GENRE
+Liquid dubstep	MUSICAL_GENRE
+Metalstep	MUSICAL_GENRE
+Neurohop	MUSICAL_GENRE
+Breakstep	MUSICAL_GENRE
+Future garage	MUSICAL_GENRE
+Grime	MUSICAL_GENRE
+Grindie	MUSICAL_GENRE
+Speed garage	MUSICAL_GENRE
+Bassline/4x4 garage	MUSICAL_GENRE
+UK funky	MUSICAL_GENRE
+Vaporwave	MUSICAL_GENRE
+Video game music	MUSICAL_GENRE
+Chiptune	MUSICAL_GENRE
+Bitpop	MUSICAL_GENRE
+Game Boy music	MUSICAL_GENRE
+Skweee	MUSICAL_GENRE
+Nintendocore	MUSICAL_GENRE
+American folk revival	MUSICAL_GENRE
+Anti-folk	MUSICAL_GENRE
+British folk revival	MUSICAL_GENRE
+Celtic music	MUSICAL_GENRE
+Chalga	MUSICAL_GENRE
+Contemporary folk	MUSICAL_GENRE
+Filk music	MUSICAL_GENRE
+Folktronica	MUSICAL_GENRE
+Freak folk	MUSICAL_GENRE
+Indie folk	MUSICAL_GENRE
+Industrial folk	MUSICAL_GENRE
+Neofolk	MUSICAL_GENRE
+Progressive folk	MUSICAL_GENRE
+Protest song	MUSICAL_GENRE
+Psychedelic folk	MUSICAL_GENRE
+kiffle	MUSICAL_GENRE
+Sung poetry	MUSICAL_GENRE
+Cowboy/Western music	MUSICAL_GENRE
+Hip hop	MUSICAL_GENRE
+Alternative hip hop	MUSICAL_GENRE
+Australian hip hop	MUSICAL_GENRE
+Bongo Flava	MUSICAL_GENRE
+British hip hop	MUSICAL_GENRE
+Chap hop	MUSICAL_GENRE
+Christian hip hop	MUSICAL_GENRE
+Conscious hip hop	MUSICAL_GENRE
+Crunk	MUSICAL_GENRE
+Crunkcore	MUSICAL_GENRE
+Drill	MUSICAL_GENRE
+East Coast hip hop	MUSICAL_GENRE
+Baltimore club	MUSICAL_GENRE
+Brick City club	MUSICAL_GENRE
+Hardcore hip hop	MUSICAL_GENRE
+Mafioso rap	MUSICAL_GENRE
+New Jersey hip hop	MUSICAL_GENRE
+Electro music	MUSICAL_GENRE
+Experimental hip hop	MUSICAL_GENRE
+Ghetto house	MUSICAL_GENRE
+Ghettotech	MUSICAL_GENRE
+Golden age hip hop	MUSICAL_GENRE
+Grime	MUSICAL_GENRE
+Hardcore hip hop	MUSICAL_GENRE
+Hip house	MUSICAL_GENRE
+Hiplife	MUSICAL_GENRE
+Hip pop	MUSICAL_GENRE
+Industrial hip hop	MUSICAL_GENRE
+Instrumental hip hop	MUSICAL_GENRE
+Kwaito	MUSICAL_GENRE
+Lyrical hip hop	MUSICAL_GENRE
+Low Bap	MUSICAL_GENRE
+Midwest hip hop	MUSICAL_GENRE
+Chicago hip hop	MUSICAL_GENRE
+Ghetto house	MUSICAL_GENRE
+Detroit hip hop	MUSICAL_GENRE
+Ghettotech	MUSICAL_GENRE
+St. Louis hip hop	MUSICAL_GENRE
+Twin Cities hip hop	MUSICAL_GENRE
+Horrorcore	MUSICAL_GENRE
+Merenrap	MUSICAL_GENRE
+Motswako	MUSICAL_GENRE
+Nerdcore	MUSICAL_GENRE
+New jack swing	MUSICAL_GENRE
+New school hip hop	MUSICAL_GENRE
+Old school hip hop	MUSICAL_GENRE
+Political hip hop	MUSICAL_GENRE
+Ragga	MUSICAL_GENRE
+Reggaeton	MUSICAL_GENRE
+G-funk	MUSICAL_GENRE
+Hyphy	MUSICAL_GENRE
+Jerkin'	MUSICAL_GENRE
+Jazz	MUSICAL_GENRE
+Acid jazz	MUSICAL_GENRE
+Afro-Cuban jazz	MUSICAL_GENRE
+Asian American jazz	MUSICAL_GENRE
+Avant-garde jazz	MUSICAL_GENRE
+Bebop	MUSICAL_GENRE
+Boogie-woogie	MUSICAL_GENRE
+Bossa nova	MUSICAL_GENRE
+British dance band	MUSICAL_GENRE
+Cape jazz	MUSICAL_GENRE
+Chamber jazz	MUSICAL_GENRE
+Continental jazz	MUSICAL_GENRE
+Cool jazz	MUSICAL_GENRE
+Crossover jazz	MUSICAL_GENRE
+Dixieland	MUSICAL_GENRE
+Ethno jazz	MUSICAL_GENRE
+European free jazz	MUSICAL_GENRE
+Free funk	MUSICAL_GENRE
+Free improvisation	MUSICAL_GENRE
+Free jazz	MUSICAL_GENRE
+Gypsy jazz	MUSICAL_GENRE
+Hard bop	MUSICAL_GENRE
+Jazz blues	MUSICAL_GENRE
+Jazz-funk	MUSICAL_GENRE
+Jazz fusion	MUSICAL_GENRE
+Jazz rap	MUSICAL_GENRE
+Jazz rock	MUSICAL_GENRE
+Kansas City blues	MUSICAL_GENRE
+Kansas City jazz	MUSICAL_GENRE
+Latin jazz	MUSICAL_GENRE
+Livetronica	MUSICAL_GENRE
+M-Base	MUSICAL_GENRE
+Mainstream jazz	MUSICAL_GENRE
+Modal jazz	MUSICAL_GENRE
+Neo-bop jazz	MUSICAL_GENRE
+Neo-swing	MUSICAL_GENRE
+Novelty ragtime	MUSICAL_GENRE
+Nu jazz	MUSICAL_GENRE
+Orchestral jazz	MUSICAL_GENRE
+Post-bop	MUSICAL_GENRE
+Punk jazz	MUSICAL_GENRE
+Ragtime	MUSICAL_GENRE
+Shibuya-kei	MUSICAL_GENRE
+Ska jazz	MUSICAL_GENRE
+Smooth jazz	MUSICAL_GENRE
+Soul jazz	MUSICAL_GENRE
+Stride jazz	MUSICAL_GENRE
+Straight-ahead jazz	MUSICAL_GENRE
+Swing	MUSICAL_GENRE
+Third stream	MUSICAL_GENRE
+Trad jazz	MUSICAL_GENRE
+Vocal jazz	MUSICAL_GENRE
+West Coast jazz	MUSICAL_GENRE
+Latin	MUSICAL_GENRE
+Brazilian	MUSICAL_GENRE
+Ax�	MUSICAL_GENRE
+Brazilian rock	MUSICAL_GENRE
+Brega	MUSICAL_GENRE
+Tecnobrega	MUSICAL_GENRE
+Choro	MUSICAL_GENRE
+Forr�	MUSICAL_GENRE
+Frevo	MUSICAL_GENRE
+Funk Carioca	MUSICAL_GENRE
+Lambada	MUSICAL_GENRE
+Zouk-Lambada	MUSICAL_GENRE
+Maracatu	MUSICAL_GENRE
+M�sica popular brasileira	MUSICAL_GENRE
+Tropicalia	MUSICAL_GENRE
+M�sica sertaneja	MUSICAL_GENRE
+Samba	MUSICAL_GENRE
+Pagode	MUSICAL_GENRE
+Samba rock	MUSICAL_GENRE
+Latin Christian	MUSICAL_GENRE
+Latin jazz	MUSICAL_GENRE
+Afro-Cuban jazz	MUSICAL_GENRE
+Bossa Nova	MUSICAL_GENRE
+Latin pop	MUSICAL_GENRE
+Latin ballad	MUSICAL_GENRE
+Latin swing	MUSICAL_GENRE
+Latin rock	MUSICAL_GENRE
+Latin alternative	MUSICAL_GENRE
+Rock en Espa�ol	MUSICAL_GENRE
+Reggaeton	MUSICAL_GENRE
+Regional Mexican	MUSICAL_GENRE
+Banda	MUSICAL_GENRE
+Grupera	MUSICAL_GENRE
+Mariachi	MUSICAL_GENRE
+Ranchera	MUSICAL_GENRE
+Norte�o	MUSICAL_GENRE
+Tejano	MUSICAL_GENRE
+Traditional:	MUSICAL_GENRE
+Flamenco	MUSICAL_GENRE
+Tango	MUSICAL_GENRE
+Folk	MUSICAL_GENRE
+Bullerengue	MUSICAL_GENRE
+Fado	MUSICAL_GENRE
+Huayno	MUSICAL_GENRE
+Mexican son	MUSICAL_GENRE
+M�sica criolla	MUSICAL_GENRE
+Nueva canci�n	MUSICAL_GENRE
+Tropical	MUSICAL_GENRE
+Bachata	MUSICAL_GENRE
+Bolero	MUSICAL_GENRE
+Criolla	MUSICAL_GENRE
+Cumbia	MUSICAL_GENRE
+Chicha	MUSICAL_GENRE
+Porro	MUSICAL_GENRE
+Guajira	MUSICAL_GENRE
+Mambo	MUSICAL_GENRE
+Merengue	MUSICAL_GENRE
+Rumba	MUSICAL_GENRE
+Salsa	MUSICAL_GENRE
+Salsa rom�ntica	MUSICAL_GENRE
+Son	MUSICAL_GENRE
+Timba	MUSICAL_GENRE
+Tropipop	MUSICAL_GENRE
+Vallenato	MUSICAL_GENRE
+Pop	MUSICAL_GENRE
+Adult contemporary	MUSICAL_GENRE
+Arab pop	MUSICAL_GENRE
+Baroque pop	MUSICAL_GENRE
+Brill Building	MUSICAL_GENRE
+Britpop	MUSICAL_GENRE
+Bubblegum pop	MUSICAL_GENRE
+Canci�n	MUSICAL_GENRE
+Canzone	MUSICAL_GENRE
+Chalga	MUSICAL_GENRE
+Chanson	MUSICAL_GENRE
+Christian pop	MUSICAL_GENRE
+Classical crossover	MUSICAL_GENRE
+Country pop	MUSICAL_GENRE
+C-pop	MUSICAL_GENRE
+Mandopop	MUSICAL_GENRE
+Dance-pop	MUSICAL_GENRE
+Disco polo	MUSICAL_GENRE
+Electropop	MUSICAL_GENRE
+Europop	MUSICAL_GENRE
+Austropop	MUSICAL_GENRE
+Eurobeat	MUSICAL_GENRE
+French pop	MUSICAL_GENRE
+Italo dance	MUSICAL_GENRE
+Italo disco	MUSICAL_GENRE
+La�k�	MUSICAL_GENRE
+Latin pop	MUSICAL_GENRE
+Nederpop	MUSICAL_GENRE
+Russian pop	MUSICAL_GENRE
+Fado	MUSICAL_GENRE
+Folk pop	MUSICAL_GENRE
+Iranian pop	MUSICAL_GENRE
+Indie pop	MUSICAL_GENRE
+J-pop	MUSICAL_GENRE
+Jangle pop	MUSICAL_GENRE
+K-pop	MUSICAL_GENRE
+Latin ballad	MUSICAL_GENRE
+Louisiana swamp pop	MUSICAL_GENRE
+Mexican pop	MUSICAL_GENRE
+New Romanticism	MUSICAL_GENRE
+Operatic pop	MUSICAL_GENRE
+Pop rap	MUSICAL_GENRE
+Pop rock	MUSICAL_GENRE
+Power pop	MUSICAL_GENRE
+Soft rock	MUSICAL_GENRE
+Pop soul	MUSICAL_GENRE
+Progressive pop	MUSICAL_GENRE
+Psychedelic pop	MUSICAL_GENRE
+Rebetiko	MUSICAL_GENRE
+Schlager	MUSICAL_GENRE
+Sophisti-pop	MUSICAL_GENRE
+Space age pop	MUSICAL_GENRE
+Sunshine pop	MUSICAL_GENRE
+Surf pop	MUSICAL_GENRE
+Synthpop	MUSICAL_GENRE
+Teen pop	MUSICAL_GENRE
+Traditional pop music	MUSICAL_GENRE
+Turkish pop	MUSICAL_GENRE
+Vispop	MUSICAL_GENRE
+Wonky pop	MUSICAL_GENRE
+Worldbeat	MUSICAL_GENRE
+R&B	MUSICAL_GENRE
+Rhythym and Blues	MUSICAL_GENRE
+Rhythym & Blues	MUSICAL_GENRE
+Soul	MUSICAL_GENRE
+Soul Music	MUSICAL_GENRE
+Contemporary R&B	MUSICAL_GENRE
+Disco	MUSICAL_GENRE
+Funk	MUSICAL_GENRE
+Deep funk	MUSICAL_GENRE
+Freestyle music	MUSICAL_GENRE
+Go-go	MUSICAL_GENRE
+Hip hop soul	MUSICAL_GENRE
+P-Funk	MUSICAL_GENRE
+Post-disco	MUSICAL_GENRE
+Boogie	MUSICAL_GENRE
+New jack swing	MUSICAL_GENRE
+Rhythm and blues	MUSICAL_GENRE
+Soul	MUSICAL_GENRE
+Blue-eyed soul	MUSICAL_GENRE
+Hip hop soul	MUSICAL_GENRE
+Northern soul	MUSICAL_GENRE
+Neo soul	MUSICAL_GENRE
+Southern soul	MUSICAL_GENRE
+Rock	MUSICAL_GENRE
+Rock music	MUSICAL_GENRE
+Alternative rock	MUSICAL_GENRE
+Grunge	MUSICAL_GENRE
+Post-grunge	MUSICAL_GENRE
+Indie rock	MUSICAL_GENRE
+Dunedin Sound	MUSICAL_GENRE
+Post-punk revival	MUSICAL_GENRE
+Sadcore	MUSICAL_GENRE
+Dream Pop	MUSICAL_GENRE
+Shoegaze	MUSICAL_GENRE
+Slowcore	MUSICAL_GENRE
+Beat music	MUSICAL_GENRE
+Chinese rock	MUSICAL_GENRE
+Christian rock	MUSICAL_GENRE
+Dark cabaret	MUSICAL_GENRE
+Electronicore	MUSICAL_GENRE
+Electronic rock	MUSICAL_GENRE
+Experimental rock	MUSICAL_GENRE
+Art rock	MUSICAL_GENRE
+Industrial rock	MUSICAL_GENRE
+Post-punk	MUSICAL_GENRE
+Gothic rock	MUSICAL_GENRE
+No wave	MUSICAL_GENRE
+Noise rock	MUSICAL_GENRE
+Post-rock	MUSICAL_GENRE
+Post-metal	MUSICAL_GENRE
+Folk rock	MUSICAL_GENRE
+Garage rock	MUSICAL_GENRE
+Glam rock	MUSICAL_GENRE
+Hard rock	MUSICAL_GENRE
+Heavy metal	MUSICAL_GENRE
+Alternative metal	MUSICAL_GENRE
+Avant-garde metal	MUSICAL_GENRE
+Black metal	MUSICAL_GENRE
+Symphonic black metal	MUSICAL_GENRE
+Viking metal	MUSICAL_GENRE
+War metal	MUSICAL_GENRE
+Christian metal	MUSICAL_GENRE
+Unblack metal	MUSICAL_GENRE
+Death metal	MUSICAL_GENRE
+Death 'n' roll	MUSICAL_GENRE
+Melodic death metal	MUSICAL_GENRE
+Technical death metal	MUSICAL_GENRE
+Goregrind	MUSICAL_GENRE
+Doom metal	MUSICAL_GENRE
+Death-doom	MUSICAL_GENRE
+Drone metal	MUSICAL_GENRE
+Folk metal	MUSICAL_GENRE
+Celtic metal	MUSICAL_GENRE
+Medieval metal	MUSICAL_GENRE
+Pagan metal	MUSICAL_GENRE
+Funk metal	MUSICAL_GENRE
+Glam metal	MUSICAL_GENRE
+Gothic metal	MUSICAL_GENRE
+Grindcore	MUSICAL_GENRE
+Industrial metal	MUSICAL_GENRE
+Kawaii metal	MUSICAL_GENRE
+Latin metal	MUSICAL_GENRE
+Metalcore	MUSICAL_GENRE
+Melodic metalcore	MUSICAL_GENRE
+Deathcore	MUSICAL_GENRE
+Mathcore	MUSICAL_GENRE
+Metalstep	MUSICAL_GENRE
+Neoclassical metal	MUSICAL_GENRE
+Nu metal	MUSICAL_GENRE
+Post-metal	MUSICAL_GENRE
+Power metal	MUSICAL_GENRE
+Progressive metal	MUSICAL_GENRE
+Djent	MUSICAL_GENRE
+Rap metal	MUSICAL_GENRE
+Sludge metal	MUSICAL_GENRE
+Speed metal	MUSICAL_GENRE
+Symphonic metal	MUSICAL_GENRE
+Thrash metal	MUSICAL_GENRE
+Crossover thrash	MUSICAL_GENRE
+Groove metal	MUSICAL_GENRE
+Jazz rock	MUSICAL_GENRE
+Math rock	MUSICAL_GENRE
+Neue Deutsche H�rte	MUSICAL_GENRE
+New wave	MUSICAL_GENRE
+World fusion	MUSICAL_GENRE
+Paisley Underground	MUSICAL_GENRE
+Desert rock	MUSICAL_GENRE
+Pop rock	MUSICAL_GENRE
+Soft rock	MUSICAL_GENRE
+Progressive rock	MUSICAL_GENRE
+Canterbury scene	MUSICAL_GENRE
+Krautrock	MUSICAL_GENRE
+New prog	MUSICAL_GENRE
+Rock in Opposition	MUSICAL_GENRE
+Space rock	MUSICAL_GENRE
+Psychedelic rock	MUSICAL_GENRE
+Acid rock	MUSICAL_GENRE
+Freakbeat	MUSICAL_GENRE
+Neo-psychedelia	MUSICAL_GENRE
+Raga rock	MUSICAL_GENRE
+Punk rock	MUSICAL_GENRE
+Anarcho punk	MUSICAL_GENRE
+Crust punk	MUSICAL_GENRE
+D-beat	MUSICAL_GENRE
+Art punk	MUSICAL_GENRE
+Christian punk	MUSICAL_GENRE
+Deathrock	MUSICAL_GENRE
+Digital hardcore	MUSICAL_GENRE
+Folk punk	MUSICAL_GENRE
+Celtic punk	MUSICAL_GENRE
+Cowpunk	MUSICAL_GENRE
+Gypsy punk	MUSICAL_GENRE
+Garage punk	MUSICAL_GENRE
+Grindcore	MUSICAL_GENRE
+Crustgrind	MUSICAL_GENRE
+Noisegrind	MUSICAL_GENRE
+Hardcore punk	MUSICAL_GENRE
+Post-hardcore	MUSICAL_GENRE
+Emo	MUSICAL_GENRE
+Screamo	MUSICAL_GENRE
+Thrashcore	MUSICAL_GENRE
+Crossover thrash	MUSICAL_GENRE
+Powerviolence	MUSICAL_GENRE
+Street punk	MUSICAL_GENRE
+Horror punk	MUSICAL_GENRE
+Pop punk	MUSICAL_GENRE
+Psychobilly	MUSICAL_GENRE
+Riot grrrl	MUSICAL_GENRE
+Ska punk	MUSICAL_GENRE
+Skate punk	MUSICAL_GENRE
+Rap rock	MUSICAL_GENRE
+Rapcore	MUSICAL_GENRE
+Rock and roll	MUSICAL_GENRE
+Southern rock	MUSICAL_GENRE
+Stoner rock	MUSICAL_GENRE
+Sufi rock	MUSICAL_GENRE
+Surf rock	MUSICAL_GENRE
+Visual kei	MUSICAL_GENRE
+Nagoya kei	MUSICAL_GENRE
+Worldbeat	MUSICAL_GENRE
