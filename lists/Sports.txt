@@ -1,0 +1,836 @@
+100 yard dash	SPORT
+10K run	SPORT
+16-inch softball	SPORT
+200 meters sprint	SPORT
+43-Man Squamish	SPORT
+5K run	SPORT
+Abseiling	SPORT
+Acrobatic gymnastics	SPORT
+Adventure racing	SPORT
+Aerobatics	SPORT
+Aerobic gymnastics	SPORT
+Aid climbing	SPORT
+Aikido	SPORT
+Air hockey	SPORT
+Air racing	SPORT
+Airsoft	SPORT
+Airsoft	SPORT
+Aizkolaritza	SPORT
+Alpine skiing	SPORT
+Amateur wrestling	SPORT
+American flag rugby	SPORT
+American football	SPORT
+American handball	SPORT
+Angling	SPORT
+Apnoea finswimming	SPORT
+Aquathlon	SPORT
+Archery	SPORT
+Archery	SPORT
+Arena football	SPORT
+Arm wrestling	SPORT
+Artistic billiards	SPORT
+Artistic gymnastics	SPORT
+Artistic pool	SPORT
+Association football	SPORT
+ATV racing	SPORT
+Australian football	SPORT
+Australian handball	SPORT
+Austus	SPORT
+Auto Race	SPORT
+Auto racing	SPORT
+Autocross	SPORT
+Autograss	SPORT
+Axe throwing	SPORT
+Backpacking	SPORT
+Backstroke	SPORT
+Badminton	SPORT
+Bagatelle	SPORT
+Baguazhang	SPORT
+Balance beam	SPORT
+Balkline and straight rail	SPORT
+Ball	SPORT
+Ball badminton	SPORT
+Ball hockey	SPORT
+Ballet	SPORT
+Bando	SPORT
+Bandy	SPORT
+Bandy	SPORT
+Banger racing	SPORT
+Bank pool	SPORT
+Banzai skydiving	SPORT
+Barrel Racing	SPORT
+Bartitsu	SPORT
+BASE jumping	SPORT
+Baseball	SPORT
+Basketball	SPORT
+Basque pelota	SPORT
+Bat and trap	SPORT
+Baton twirling	SPORT
+Beach basketball	SPORT
+Beach handball	SPORT
+Beach rugby	SPORT
+Beach soccer	SPORT
+Beach tennis	SPORT
+Beach ultimate	SPORT
+Beach volleyball	SPORT
+Beagling	SPORT
+Beer Pong	SPORT
+Benchrest shooting	SPORT
+Biathlon	SPORT
+Bicycle polo	SPORT
+Bifins	SPORT
+Big game hunting	SPORT
+Big-game fishing	SPORT
+billiards	SPORT
+Biribol	SPORT
+Blackball	SPORT
+BMX	SPORT
+Board track racing	SPORT
+Boardercross	SPORT
+Bobsleigh	SPORT
+Bocce	SPORT
+Bocce volo	SPORT
+Boccia	SPORT
+Bodyboarding	SPORT
+Bodybuilding	SPORT
+Boffer fighting	SPORT
+Bokator	SPORT
+Bolas criollas	SPORT
+Boli Khela	SPORT
+Bossaball	SPORT
+Bottle pool	SPORT
+Bouldering	SPORT
+Boules	SPORT
+Bowling	SPORT
+Bowlliards	SPORT
+Box lacrosse	SPORT
+Boxing	SPORT
+Brazilian jiu-jitsu	SPORT
+Breaststroke	SPORT
+Bronc Riding	SPORT
+Broomball	SPORT
+Bujinkan	SPORT
+Bullriding	SPORT
+Bumper pool	SPORT
+Bungee jumping	SPORT
+Bunnock	SPORT
+Bushwhacking	SPORT
+Butterfly stroke	SPORT
+Butts Up	SPORT
+Buzkashi	SPORT
+Calcio Fiorentino	SPORT
+Calf Roping	SPORT
+Calva	SPORT
+Calvinball	SPORT
+Cammag	SPORT
+Camogie	SPORT
+Campdrafting	SPORT
+Canadian football	SPORT
+Canoe polo	SPORT
+Canoeing	SPORT
+Canyoning	SPORT
+Capoeira	SPORT
+Capture the flag	SPORT
+Carom billiards	SPORT
+Casterboarding	SPORT
+Casting	SPORT
+Catch wrestling	SPORT
+Cestoball	SPORT
+Chariot racing	SPORT
+Charreada	SPORT
+Chess boxing	SPORT
+Chester-le-Street	SPORT
+Chilean rodeo	SPORT
+Chinese handball	SPORT
+Choi Kwang-Do	SPORT
+Cirit	SPORT
+Clay pigeon shooting	SPORT
+Cliff diving	SPORT
+Cluster ballooning	SPORT
+Cnapan	SPORT
+Coastal and ocean rowing	SPORT
+Coasteering	SPORT
+Cockfighting	SPORT
+Collar-and-elbow	SPORT
+Combat robot	SPORT
+Competitive eating	SPORT
+Contesting	SPORT
+Corkball	SPORT
+Cornhole	SPORT
+Cornish hurling	SPORT
+Cornish wrestling	SPORT
+Cowboy action shooting	SPORT
+Cowboy polo	SPORT
+Creeking	SPORT
+Cribbage	SPORT
+Cricket	SPORT
+Croquet	SPORT
+Cross country	SPORT
+Cross-country mountain biking	SPORT
+Cross-country rally	SPORT
+Cross-country running	SPORT
+Cross-country skiing	SPORT
+Curling	SPORT
+Cushion caroms	SPORT
+Cutthroat	SPORT
+Cycle polo	SPORT
+Cycle speedway	SPORT
+Cycling	SPORT
+Cyclo-cross	SPORT
+Czech handball	SPORT
+Dancing	SPORT
+Darts	SPORT
+Deaf basketball	SPORT
+Decathlon	SPORT
+Deep-water soloing	SPORT
+Deer hunting	SPORT
+Demolition derby	SPORT
+Desert racing	SPORT
+Dinghy sailing	SPORT
+Dirt jumping	SPORT
+Dirt track racing	SPORT
+Disc dog	SPORT
+Disc golf	SPORT
+Discus	SPORT
+Diving	SPORT
+Dodge disc	SPORT
+Dodgeball	SPORT
+Double disc court	SPORT
+Downhill mountain biking	SPORT
+Drag boat racing	SPORT
+Drag racing	SPORT
+Dragon boat racing	SPORT
+Dressage	SPORT
+Drifting	SPORT
+Duathlon	SPORT
+Dumog	SPORT
+Egg and spoon race	SPORT
+Egyptian stick fencing	SPORT
+Eight-ball	SPORT
+Eight-man football	SPORT
+Elephant polo	SPORT
+Endurance	SPORT
+Endurance racing	SPORT
+Endurance riding	SPORT
+Enduro	SPORT
+Enduro mountain biking	SPORT
+English billiards	SPORT
+English pleasure	SPORT
+Equestrian vaulting	SPORT
+Equitation	SPORT
+Eskrima	SPORT
+Eton College	SPORT
+Eton Fives	SPORT
+Eton wall game	SPORT
+Eventing	SPORT
+Extreme ironing	SPORT
+F1 powerboat racing	SPORT
+Fastnet	SPORT
+Fast-pitch softball	SPORT
+Fencing	SPORT
+Ferret legging	SPORT
+Field archery	SPORT
+Field handball	SPORT
+Field hockey	SPORT
+Field lacrosse	SPORT
+Field target	SPORT
+Figure skating	SPORT
+Fistball	SPORT
+Five-a-side football	SPORT
+Five-pins	SPORT
+Fives	SPORT
+Flag football	SPORT
+Flight archery	SPORT
+Floor	SPORT
+Floorball	SPORT
+Flutterguts	SPORT
+Fly fishing	SPORT
+Flyak	SPORT
+Flying trapeze	SPORT
+Folk wrestling	SPORT
+Folkrace	SPORT
+Foosball	SPORT
+Footbag 	SPORT
+Football	SPORT
+Football tennis	SPORT
+Footvolley	SPORT
+Formula Libre	SPORT
+Formula racing	SPORT
+Four square	SPORT
+Four-ball	SPORT
+Fox hunting	SPORT
+Free running	SPORT
+Freeboarding	SPORT
+Freeboating	SPORT
+Freediving	SPORT
+Freestyle	SPORT
+Freestyle BMX	SPORT
+Freestyle competition	SPORT
+Freestyle footbag	SPORT
+Freestyle football	SPORT
+Freestyle football	SPORT
+Free-style moto	SPORT
+Freestyle motocross	SPORT
+Freestyle skiing	SPORT
+Freestyle skiing	SPORT
+Freestyle slalom skating	SPORT
+Freestyle snowboarding	SPORT
+Freestyle swimming	SPORT
+Freestyle wrestling	SPORT
+Frisian handball	SPORT
+Frontenis	SPORT
+Fujian White Crane	SPORT
+Fullbore target rifle	SPORT
+Futebol de Sal�o	SPORT
+Futsal	SPORT
+Gaelic football	SPORT
+Gaelic handball	SPORT
+Ga-ga	SPORT
+Gateball	SPORT
+Gatka	SPORT
+Geo caching	SPORT
+Gig racing	SPORT
+Gliding	SPORT
+Glima	SPORT
+Goalball	SPORT
+Goaltimate	SPORT
+Goat Tying	SPORT
+Golf	SPORT
+Gouren	SPORT
+Grand Prix motorcycle racing	SPORT
+Grasstrack	SPORT
+Greco-Roman wrestling	SPORT
+Greek wrestling	SPORT
+Gridiron football	SPORT
+Gungdo	SPORT
+Guyball	SPORT
+Gymkhana	SPORT
+Gymnastics	SPORT
+Gymnastics	SPORT
+hacky sack	SPORT
+Haggis hurling	SPORT
+Half marathon	SPORT
+Hammer throw	SPORT
+Hana Ichi Monme	SPORT
+handball	SPORT
+Handball	SPORT
+Hang gliding	SPORT
+Hapkido	SPORT
+Hardball squash	SPORT
+Hardcourt Bike Polo	SPORT
+Hare coursing	SPORT
+Harness racing	SPORT
+Harrow football	SPORT
+Haxey Hood	SPORT
+Heptathlon	SPORT
+High bar	SPORT
+High jump	SPORT
+Highland games	SPORT
+Hiking	SPORT
+Hiking	SPORT
+Hillclimbing	SPORT
+Hitbal	SPORT
+Hockey	SPORT
+Hoop	SPORT
+Hooverball	SPORT
+Hopper ballooning	SPORT
+Hornussen	SPORT
+Horse polo	SPORT
+Horse racing	SPORT
+Horseball	SPORT
+Horseshoes	SPORT
+Hot air ballooning	SPORT
+Hot box	SPORT
+Human powered aircraft	SPORT
+Hunter	SPORT
+Hunter-jumpers	SPORT
+Hurdles	SPORT
+Hurling	SPORT
+Hwa Rang Do	SPORT
+Hybrid carom�pocket games	SPORT
+Hybrid codes	SPORT
+Hydroplane racing	SPORT
+Iaid	SPORT
+Iaijutsu	SPORT
+Ice climbing	SPORT
+Ice dancing	SPORT
+Ice fishing	SPORT
+Ice hockey	SPORT
+Ice racing	SPORT
+Ice skating	SPORT
+Ice speedway	SPORT
+Ice yachting	SPORT
+Icosathlon	SPORT
+Immersion finswimming	SPORT
+Individual medley	SPORT
+Indoor archery	SPORT
+Indoor field hockey	SPORT
+Indoor football	SPORT
+Indoor netball	SPORT
+Indoor soccer	SPORT
+Inline hockey	SPORT
+Inline skating	SPORT
+Inline speed skating	SPORT
+Intercrosse	SPORT
+International fronton	SPORT
+International rules football	SPORT
+Jai alai	SPORT
+Javelin	SPORT
+Jeet Kune Do	SPORT
+Jet sprint boat racing	SPORT
+Jeu de paume	SPORT
+Jeu proven�al	SPORT
+Jittejutsu	SPORT
+Jogo do pau	SPORT
+Jorkyball	SPORT
+Jousting	SPORT
+Judo	SPORT
+Jugger	SPORT
+Juggling	SPORT
+Jujutsu	SPORT
+Jumping	SPORT
+Kabaddi	SPORT
+Kajukenbo	SPORT
+Kalaripayattu	SPORT
+Karate	SPORT
+Kart racing	SPORT
+Keep away	SPORT
+Keepie uppie	SPORT
+Kelly pool	SPORT
+Kendo	SPORT
+Kenjutsu	SPORT
+Kho kho	SPORT
+Kick the can	SPORT
+Kickball	SPORT
+Kickboxing	SPORT
+Killer	SPORT
+Kin-Ball	SPORT
+Kite buggy	SPORT
+Kite fighting	SPORT
+Kite flying	SPORT
+Kite landboarding	SPORT
+Kiteboarding	SPORT
+Kitesurfing	SPORT
+Knattleikr	SPORT
+Kneeboarding	SPORT
+Knife throwing	SPORT
+Korfball	SPORT
+Krabi�krabong	SPORT
+Krav Maga	SPORT
+Kubb	SPORT
+Kuk Sool Won	SPORT
+Kumdo	SPORT
+Kung fu	SPORT
+Kurash	SPORT
+La soule	SPORT
+Lacrosse	SPORT
+Ladies' Gaelic football	SPORT
+Lancashire wrestling	SPORT
+Land sailing	SPORT
+Land speed records	SPORT
+Land windsurfing	SPORT
+Laser tag	SPORT
+Legends car racing	SPORT
+Lelo burti	SPORT
+Lethwei	SPORT
+Letterboxing	SPORT
+Logrolling	SPORT
+Long jump	SPORT
+Longboarding	SPORT
+Luge	SPORT
+Lumberjack sports	SPORT
+Malla-yuddha	SPORT
+Marathon	SPORT
+Masters Football	SPORT
+Masters Rugby League	SPORT
+Matball	SPORT
+Matkot	SPORT
+Medley relay	SPORT
+Metallic silhouette	SPORT
+Metro footy	SPORT
+Midget car racing	SPORT
+Mini rugby	SPORT
+Miniature golf	SPORT
+Mixed climbing	SPORT
+Mixed martial arts	SPORT
+MMA	SPORT
+Mob football	SPORT
+Mod league	SPORT
+Model aerobatics	SPORT
+Model aircraft	SPORT
+Model aircraft racing	SPORT
+Model yacht racing	SPORT
+Modern Arnis	SPORT
+Modern pentathlon	SPORT
+M�lkky	SPORT
+Mongolian wrestling	SPORT
+Monster truck	SPORT
+Mortal Kombat	SPORT
+Moscow broomball	SPORT
+Motocross	SPORT
+MotoGP racing	SPORT
+Motorcycle drag racing	SPORT
+Motorcycle racing	SPORT
+Motorcycle speedway	SPORT
+Mountainboarding	SPORT
+Mountaineering	SPORT
+Muay Thai	SPORT
+Mud bogging	SPORT
+Naginatajutsu	SPORT
+Neppis	SPORT
+Netball	SPORT
+Newcomb ball	SPORT
+Nguni stick-fighting	SPORT
+Nine-a-side footy	SPORT
+Nine-ball	SPORT
+Nine-man football	SPORT
+Ninjutsu	SPORT
+Noodling	SPORT
+Nordic combined	SPORT
+Nordic skiing	SPORT
+Northern Praying Mantis	SPORT
+Novuss	SPORT
+Object spinning	SPORT
+Off-road racing	SPORT
+Off-roading	SPORT
+Offshore powerboat racing	SPORT
+Olympic weightlifting	SPORT
+One-pocket	SPORT
+Orienteering	SPORT
+Outrigger canoeing	SPORT
+Oztag	SPORT
+paddling boarding	SPORT
+Padel	SPORT
+Padel	SPORT
+Padiddling	SPORT
+Paintball	SPORT
+Paleta Front�n	SPORT
+Pall mall	SPORT
+Palla	SPORT
+Pankration	SPORT
+Papi fut	SPORT
+Parachuting	SPORT
+Paragliding	SPORT
+Parallel bars	SPORT
+Paralympic football	SPORT
+Paralympic volleyball	SPORT
+Paramotoring	SPORT
+Parasailing	SPORT
+Parkour	SPORT
+Patball	SPORT
+Pato	SPORT
+Pehlwani	SPORT
+Pelota mixteca	SPORT
+Pencak Silat	SPORT
+Pentathlon	SPORT
+Personal water craft	SPORT
+P�tanque	SPORT
+Peteca	SPORT
+Pickleball	SPORT
+Pickup truck racing	SPORT
+ping pong	SPORT
+Pitch and putt	SPORT
+Plate spinning	SPORT
+Platform tennis	SPORT
+Pocket billiards 	SPORT
+Pod Racing	SPORT
+Pole climbing	SPORT
+Pole vault	SPORT
+Polo	SPORT
+Polocrosse	SPORT
+Pommel horse	SPORT
+Pond hockey	SPORT
+Popinjay	SPORT
+Power hockey	SPORT
+Powerbocking	SPORT
+Powered hang glider	SPORT
+Powered paragliding	SPORT
+Powerlifting	SPORT
+Practical shooting	SPORT
+Pradal serey	SPORT
+Production car racing	SPORT
+Professional wrestling	SPORT
+Punchball	SPORT
+Qianball	SPORT
+Quidditch	SPORT
+Race of Champions	SPORT
+Racewalking	SPORT
+Racketlon	SPORT
+Racquetball	SPORT
+Rafting	SPORT
+Rally raid	SPORT
+Rallycross	SPORT
+Rallying	SPORT
+RC racing	SPORT
+Red rover	SPORT
+Reining	SPORT
+Rhythmic gymnastics	SPORT
+Ribbon	SPORT
+Ringball	SPORT
+Ringette	SPORT
+Ringo	SPORT
+Rink bandy	SPORT
+Rink hockey	SPORT
+Rinkball	SPORT
+Riverboarding	SPORT
+Road bicycle racing	SPORT
+Road racing	SPORT
+Road running	SPORT
+Robot combat	SPORT
+Rock climbing	SPORT
+Rock fishing	SPORT
+Rodeo	SPORT
+Rogaining	SPORT
+Roller derby	SPORT
+Roller hockey	SPORT
+roller skating	SPORT
+Roller skating	SPORT
+Rope climbing	SPORT
+Rope jumping	SPORT
+Roping	SPORT
+Rossall Hockey	SPORT
+Rotation	SPORT
+Rowing	SPORT
+Royal Shrovetide Football	SPORT
+Rugby	SPORT
+Rugby Fives	SPORT
+Rugby football	SPORT
+Rugby union	SPORT
+Running	SPORT
+Russian pyramid	SPORT
+Sack race	SPORT
+Saddle Bronc Riding	SPORT
+Sailing	SPORT
+Sambo	SPORT
+Samoa rules	SPORT
+Sandboarding	SPORT
+Sanshou	SPORT
+Savate	SPORT
+Schwingen	SPORT
+Scootering	SPORT
+Scuba diving	SPORT
+Sea kayaking	SPORT
+Segway polo	SPORT
+Sepak takraw	SPORT
+Seven-ball	SPORT
+Shaolin Kung Fu	SPORT
+Karate	SPORT
+Shinty	SPORT
+Shoot boxing	SPORT
+Shootfighting	SPORT
+Shooting	SPORT
+Shorinji Kempo	SPORT
+Short track motor racing	SPORT
+Shot put	SPORT
+Shotgun start	SPORT
+Show jumping	SPORT
+Shuai jiao	SPORT
+Shuffleboard	SPORT
+Shurikenjutsu	SPORT
+Sikaran	SPORT
+Silambam	SPORT
+Silat	SPORT
+Single scull	SPORT
+Sinuca brasileira	SPORT
+Sipa	SPORT
+Six-man football	SPORT
+Six-red snooker	SPORT
+Skateboarding	SPORT
+Skater hockey	SPORT
+Skee ball	SPORT
+Skeet shooting	SPORT
+Skeleton	SPORT
+Ski flying	SPORT
+Ski jumping	SPORT
+Ski touring	SPORT
+Skiboarding	SPORT
+Skibob	SPORT
+Skibobbing	SPORT
+Skiing	SPORT
+Skijoring	SPORT
+Skimboarding	SPORT
+Skittles	SPORT
+Skydiving	SPORT
+Skysurfing	SPORT
+Slacklining	SPORT
+Slamball	SPORT
+Sledding	SPORT
+Sledge hockey	SPORT
+Slot car racing	SPORT
+Slow pitch	SPORT
+Snooker	SPORT
+Snooker plus	SPORT
+Snorkelling	SPORT
+Snow kiting	SPORT
+Snow rugby	SPORT
+Snowboarding	SPORT
+Snowkiting	SPORT
+Snowmobile racing	SPORT
+Snowshoeing	SPORT
+Soap shoes	SPORT
+Soft tennis	SPORT
+Softball	SPORT
+Spearfishing	SPORT
+Speed golf	SPORT
+Speed pool	SPORT
+Speed skating	SPORT
+Speed skiing	SPORT
+Speedball	SPORT
+Speed-ball	SPORT
+Speedminton	SPORT
+Spongee	SPORT
+Sport climbing	SPORT
+Sport diving	SPORT
+Sport fishing	SPORT
+Sporting clays	SPORT
+Sports car racing	SPORT
+Sprint car racing	SPORT
+Sprint football	SPORT
+Squash	SPORT
+Squash tennis	SPORT
+Squirt boating	SPORT
+Ssireum	SPORT
+Static trapeze	SPORT
+Steeplechase	SPORT
+Steer Wrestling	SPORT
+Steinstossen	SPORT
+Stickball	SPORT
+Stick�	SPORT
+Still rings	SPORT
+Stock car racing	SPORT
+Straight pool	SPORT
+Street football	SPORT
+Street hockey	SPORT
+Street racing	SPORT
+Street sports	SPORT
+Streetball	SPORT
+Streetboarding	SPORT
+Streetluge	SPORT
+Strongman	SPORT
+Subak	SPORT
+Sumo	SPORT
+Superbike racing	SPORT
+Supercross	SPORT
+Supermoto	SPORT
+Superside	SPORT
+Supersport racing	SPORT
+Surf fishing	SPORT
+Surf kayaking	SPORT
+Surface finswimming	SPORT
+Surfboat	SPORT
+Surfing	SPORT
+Swamp football	SPORT
+swimming	SPORT
+Swimming	SPORT
+Sword fighting	SPORT
+Synchronized skating	SPORT
+Synchronized swimming	SPORT
+Systema	SPORT
+Table football	SPORT
+Table hockey	SPORT
+Table tennis	SPORT
+Taekkyeon	SPORT
+Taekwondo	SPORT
+Tag rugby	SPORT
+T'ai chi ch'uan	SPORT
+Tang Soo Do	SPORT
+Target archery	SPORT
+Target shooting	SPORT
+Tchoukball	SPORT
+Team handball	SPORT
+Team penning	SPORT
+Team play	SPORT
+Team Roping	SPORT
+Tee-ball	SPORT
+Telemark skiing	SPORT
+Ten-ball	SPORT
+Tennikoit	SPORT
+Tennis	SPORT
+Tent pegging	SPORT
+Tetherball	SPORT
+Tetrathlon	SPORT
+Three sided football	SPORT
+Three-ball	SPORT
+Three-cushion	SPORT
+Three-legged race	SPORT
+Throwball	SPORT
+Throwing	SPORT
+Thumb wrestling	SPORT
+Time attack	SPORT
+Toboggan	SPORT
+Toe wrestling	SPORT
+Torball	SPORT
+Touch football	SPORT
+Touch rugby	SPORT
+Touring car racing	SPORT
+Tower running	SPORT
+Town ball	SPORT
+Track cycling	SPORT
+Track racing	SPORT
+Tractor pulling	SPORT
+Traditional climbing	SPORT
+Trampolining	SPORT
+Trap shooting	SPORT
+Trapeze	SPORT
+Triathlon	SPORT
+Trick shot competition	SPORT
+Triple jump	SPORT
+Truck racing	SPORT
+Trugo	SPORT
+TT racing	SPORT
+Tug-o-war	SPORT
+Tumbling	SPORT
+Ultralight aviation	SPORT
+Ultramarathon	SPORT
+Uneven bars	SPORT
+Universal football	SPORT
+Uppies and Downies	SPORT
+Vajra-mushti	SPORT
+Vale tudo	SPORT
+Valencian front�	SPORT
+Valencian pilota	SPORT
+Varzesh-e Pahlavani	SPORT
+Vault	SPORT
+Vintage racing	SPORT
+Volata	SPORT
+Volleyball	SPORT
+Vovinam	SPORT
+Wakeboarding	SPORT
+Wakesurfing	SPORT
+Wall-and-ball	SPORT
+Wallball	SPORT
+Wallyball	SPORT
+Water basketball	SPORT
+Water polo	SPORT
+Water volleyball	SPORT
+Waymarking	SPORT
+weightlifting	SPORT
+Western pleasure	SPORT
+Wheelchair basketball	SPORT
+Wheelchair racing	SPORT
+Wheelchair rugby league	SPORT
+Wheelstand competition	SPORT
+White water rafting	SPORT
+Whitewater kayaking	SPORT
+Wife-carrying	SPORT
+Wiffleball	SPORT
+Windsurfing	SPORT
+Wing Chun	SPORT
+Wingsuit flying	SPORT
+Wireball	SPORT
+Wolf hunting	SPORT
+Women's lacrosse	SPORT
+Wood chopping	SPORT
+Wood splitting	SPORT
+Woodball	SPORT
+Woodsman	SPORT
+Wrestling	SPORT
+Wushu	SPORT
+Xare	SPORT
+Xiangqi	SPORT
+Xing Yi Quan	SPORT
+Yak polo	SPORT
+Yukigassen	SPORT
+Zen Bu Kan Kempo	SPORT
+Zourkhaneh	SPORT
+Zui quan	SPORT

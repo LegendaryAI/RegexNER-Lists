@@ -1,0 +1,118 @@
+Accubita	FURNITURE
+Baker's rack	FURNITURE
+Bar Stool	FURNITURE
+Bathroom cabinet	FURNITURE
+Bean bag	FURNITURE
+Bed	FURNITURE
+Bench	FURNITURE
+Billiard table	FURNITURE
+Bookcase	FURNITURE
+Book case 	FURNITURE
+buffet	FURNITURE
+Bunk bed	FURNITURE
+Cabinetry	FURNITURE
+Canap�	FURNITURE
+Canopy bed	FURNITURE
+Cellarette	FURNITURE
+Chabudai	FURNITURE
+Chair	FURNITURE
+Chaise longue	FURNITURE
+Changing table	FURNITURE
+Chess table	FURNITURE
+Chest	FURNITURE
+Chifforobe	FURNITURE
+Closet	FURNITURE
+Coat rack	FURNITURE
+Coffee table	FURNITURE
+Computer desk	FURNITURE
+Couch	FURNITURE
+cradle	FURNITURE
+Credenza	FURNITURE
+crib	FURNITURE
+Cupboard	FURNITURE
+Curio cabinet	FURNITURE
+Curtain	FURNITURE
+Davenport	FURNITURE
+Davenport desk	FURNITURE
+Daybed	FURNITURE
+Desk	FURNITURE
+Dining table	FURNITURE
+Divan	FURNITURE
+Divider	FURNITURE
+drapes	FURNITURE
+Drawer	FURNITURE
+Drawing board	FURNITURE
+dresser	FURNITURE
+Drop-leaf table	FURNITURE
+End table	FURNITURE
+Entertainment center	FURNITURE
+Fainting couch	FURNITURE
+Fauteuil	FURNITURE
+Filing cabinet	FURNITURE
+Floating shelf	FURNITURE
+Folding screen	FURNITURE
+Folding table	FURNITURE
+Footstool	FURNITURE
+Four-poster bed	FURNITURE
+Futon	FURNITURE
+garden bench	FURNITURE
+Gateleg table	FURNITURE
+Gramophone	FURNITURE
+Hall tree	FURNITURE
+Hammock	FURNITURE
+Hatstand	FURNITURE
+Headboard	FURNITURE
+Hoosier cabinet	FURNITURE
+Hope chest	FURNITURE
+Hutch	FURNITURE
+Infant bed 	FURNITURE
+Jukebox	FURNITURE
+Kitchen cabinet	FURNITURE
+Klinai	FURNITURE
+Korsi	FURNITURE
+Kotatsu	FURNITURE
+Lift chair	FURNITURE
+Love seat	FURNITURE
+Lowboy	FURNITURE
+mats	FURNITURE
+Mattress	FURNITURE
+Monks bench	FURNITURE
+Murphy bed	FURNITURE
+Nightstand	FURNITURE
+Ottoman	FURNITURE
+Pantry	FURNITURE
+Pedestal	FURNITURE
+Pie safe	FURNITURE
+Pinball machine	FURNITURE
+Plan chest	FURNITURE
+Plant Stand	FURNITURE
+Platform bed	FURNITURE
+Poker table	FURNITURE
+Radio receiver	FURNITURE
+Radiogram	FURNITURE
+Recliner	FURNITURE
+Refectory table	FURNITURE
+rmoire	FURNITURE
+Rocking chair	FURNITURE
+Safe	FURNITURE
+Shelving	FURNITURE
+Sideboard	FURNITURE
+Sleigh bed	FURNITURE
+Sofa bed	FURNITURE
+Stool	FURNITURE
+Table	FURNITURE
+Taboret	FURNITURE
+Tatami mats	FURNITURE
+Television set	FURNITURE
+Trestle table	FURNITURE
+Tuffet	FURNITURE
+TV tray table	FURNITURE
+Umbrella stand	FURNITURE
+Video game console	FURNITURE
+Wardrobe	FURNITURE
+Washstand	FURNITURE
+Waterbed	FURNITURE
+Wine rack	FURNITURE
+Wine table	FURNITURE
+Workbench	FURNITURE
+Writing desk	FURNITURE

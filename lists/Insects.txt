@@ -1,0 +1,535 @@
+Achemon Sphinx Moth 	INSECT
+Acorn Weevil	INSECT
+Ailanthus Webworm Moth	INSECT
+Ambush Bug	INSECT
+American Bumble Bee	INSECT
+American Carrion Beetle	INSECT
+American Cockroach	INSECT
+American Dagger Moth	INSECT
+American Dog Tick 	INSECT
+American House Spider	INSECT
+American Lady Butterfly	INSECT
+American Oil Beetle	INSECT
+American Pelecinid Wasp	INSECT
+American Salmonfly	INSECT
+Angus' Datana Moth	INSECT
+Ant	INSECT
+Ant Mimic Spider	INSECT
+Antlion	INSECT
+Antlion	INSECT
+Aphids	INSECT
+Aphrodite Fritillary Butterfly	INSECT
+Arizona Desert Scorpion	INSECT
+Armed Spider	INSECT
+Arrowhead Orb Weaver	INSECT
+Arrow-shaped Micrathena Spider	INSECT
+Asian Multicolored Lady Beetle	INSECT
+Assassin Bug	INSECT
+Augochlora Sweat Bee	INSECT
+Bald-Faced Hornet	INSECT
+Banded Alder Borer Beetle	INSECT
+Banded Garden Spider	INSECT
+Banded Horntail	INSECT
+Banded Longhorn Beetle	INSECT
+Banded Tiger Moth	INSECT
+Banded Tussock Moth	INSECT
+Banded Woollybear Caterpillar Moth	INSECT
+Bark Centidpede	INSECT
+Bark Crab Spider	INSECT
+Basilica Orb Weaver	INSECT
+Beautiful Wood-Nymph Moth	INSECT
+Bed Bug	INSECT
+Beech Blight Aphid	INSECT
+Bee-Like Tachinid Fly	INSECT
+Beetle	INSECT
+Bicolored Agapostemon Sweat Bee	INSECT
+Big Dipper Firefly	INSECT
+Big Poplar Sphinx Moth	INSECT
+Black and Yellow Garden Spider	INSECT
+Black and Yellow Mud Dauber	INSECT
+Black Blister Beetle	INSECT
+Black Carpenter Ant	INSECT
+Black Caterpillar Hunter	INSECT
+Black Horse Fly	INSECT
+Black Saddlebags Skimmer	INSECT
+Black Swallowtail	INSECT
+Black Tail Crab Spider	INSECT
+Black Vine Weevil	INSECT
+Black Widow	INSECT
+Black Witch Moth	INSECT
+Black-Legged Tick	INSECT
+Black-Tailed Bee Fly	INSECT
+Blister Beetle	INSECT
+Blue Dasher	INSECT
+Blue Death-Feigning Beetle	INSECT
+Blue Morpho	INSECT
+Blue-Eyed Darner	INSECT
+Blue-fronted Dancer	INSECT
+Blue-Winged Wasp	INSECT
+Bolas Spider	INSECT
+Bold Jumping Spider	INSECT
+Boll Weevil	INSECT
+Bordered Plant Bug	INSECT
+Bowl and Doily Weaver Spider	INSECT
+Boxelder Bug	INSECT
+Broad-Necked Root Borer	INSECT
+Brown Dog Tick	INSECT
+Brown Mantidfly	INSECT
+Brown Marmorated Stink Bug	INSECT
+Brown Recluse	INSECT
+Brown Widow	INSECT
+Brown-Hooded Cockroach	INSECT
+Buffalo Treehopper	INSECT
+Bug	INSECT
+Burrowing Mayfly	INSECT
+Burying Beetle	INSECT
+Bush Cicada	INSECT
+Butterfly	INSECT
+Cabbage White Butterfly	INSECT
+California Timema	INSECT
+California Trapdoor Spider	INSECT
+Calligrapha Beetle	INSECT
+Camel Cricket	INSECT
+Candy-Striped Leafhopper	INSECT
+Carolina Locust	INSECT
+Carolina Mantis	INSECT
+Carolina Tiger Beetle	INSECT
+Carolina Wolf Spider	INSECT
+Carpenter Ant	INSECT
+Cassius Blue	INSECT
+Caterpillar	INSECT
+Cat-Faced Spider	INSECT
+Cecropia Silk Moth	INSECT
+Cedar Beetle	INSECT
+Checkered Beetle	INSECT
+Chigger	INSECT
+Chinese Mantis	INSECT
+Cicada	INSECT
+Cicada Killer	INSECT
+Click Beetle	INSECT
+Clouded Sulphur	INSECT
+Cloudless Sulphur Butterfly	INSECT
+Clymene Haploa Moth	INSECT
+Coconut Rhinoceros Beetle	INSECT
+Coffinfly	INSECT
+Comb-Clawed Spider	INSECT
+Common Buckeye Butterfly	INSECT
+Common Coneheads	INSECT
+Common Eastern Bumble Bee	INSECT
+Common Green Darner	INSECT
+Common Pillbug	INSECT
+Common Sanddragon	INSECT
+Common Thread Waisted Wasp	INSECT
+Common Whitetail Skimmer	INSECT
+Convergent Lady Beetle	INSECT
+Cottonwood Borer	INSECT
+Cow Killer	INSECT
+Cranefly	INSECT
+Cribellate Orb Weaver	INSECT
+Cricket	INSECT
+Cross Spider	INSECT
+Crowned Hentzia Jumping Spider	INSECT
+Cryptopid Centipede	INSECT
+Cuban Cockroach	INSECT
+Cuckoo Bee	INSECT
+Cuckoo Wasp	INSECT
+Curve-Toothed Geometer Moth	INSECT
+Dark Brown Click Beetle	INSECT
+Dark Jerusalem Cricket	INSECT
+Darkling Beetle	INSECT
+Dentate Stink Beetle	INSECT
+Desert Tarantula	INSECT
+Devil's Coach Horse	INSECT
+Differential Grasshopper	INSECT
+Dingy Cutworm Moth	INSECT
+Dobsonfly	INSECT
+Dog Day Cicada	INSECT
+Dogbane Leaf Beetle	INSECT
+Earth-Boring Scarab Beetle	INSECT
+Eastern Amberwing	INSECT
+Eastern Carpenter Bee	INSECT
+Eastern Harvestman	INSECT
+Eastern Hercules Beetle	INSECT
+Eastern Leaf-footed Bug	INSECT
+Eastern Pondhawk	INSECT
+Eastern Tent Caterpillar Moth	INSECT
+Eastern Tiger Swallowtail	INSECT
+Eastern-Eyed Click Beetle	INSECT
+Eastern-tailed Blue Butterfly	INSECT
+Edwards Glassy Wing Moth	INSECT
+Eight-Spotted Forester Moth	INSECT
+Elderberry Borer Beetle	INSECT
+Elm Seed Bug	INSECT
+Emerald Ash Borer	INSECT
+European Earwig	INSECT
+European Hornet	INSECT
+European Mantis	INSECT
+Evergreen Bagworm Moth	INSECT
+Faint-Spotted Angle Moth	INSECT
+False Bombardier Beetle	INSECT
+False Chinch Bug	INSECT
+Familiar Bluet	INSECT
+Feather-Legged Spider	INSECT
+Field Cricket	INSECT
+Fiery Searcher Caterpillar Hunter	INSECT
+Fiery Skipper	INSECT
+Firebrat	INSECT
+Fishfly	INSECT
+Fishing Spider	INSECT
+Five-Banded Tiphiid Wasp	INSECT
+Five-Spotted Hawk Moth	INSECT
+Flea	INSECT
+Flesh Fly	INSECT
+Flower Fly	INSECT
+Flower Longhorn Beetle	INSECT
+Flower Longhorn Beetle	INSECT
+Fly	INSECT
+Forage Looper Moth	INSECT
+Fork-Tailed Bush Katydid	INSECT
+Formica Ant	INSECT
+Four-Spot Sap Beetle	INSECT
+Four-Toothed Mason Wasp	INSECT
+German Cockroach	INSECT
+Giant Crab Spider	INSECT
+Giant Darner	INSECT
+Giant Ichneumon Wasp	INSECT
+Giant Leopard Moth	INSECT
+Giant Mayfly	INSECT
+Giant Mesquite Bug	INSECT
+Giant Red Velvet Mite	INSECT
+Giant Stonefly	INSECT
+Giant Swallowtail Butterfly	INSECT
+Giant Walkingstick	INSECT
+Giant Water Bug	INSECT
+Giant Whipscorpion	INSECT
+Globemallow Leaf Beetle	INSECT
+Gold-Backed Snipe Fly	INSECT
+Golden Northern Bumble Bee	INSECT
+Golden Silk Orbweaver	INSECT
+Golden Tortoise Beetle	INSECT
+Goldenrod Crab Spider	INSECT
+Gnat	INSECT
+Grapevine Hoplia	INSECT
+Grasshopper	INSECT
+Grass Spider	INSECT
+Gray Hairstreak Butterfly	INSECT
+Gray Silverfish	INSECT
+Great Black Wasp	INSECT
+Great Blue Skimmer	INSECT
+Great Golden Digger Wasp	INSECT
+Great Spangled Fritillary	INSECT
+Great Tiger Moth	INSECT
+Greater Arid-Land Katydid	INSECT
+Green Crab Spider	INSECT
+Green June Beetle	INSECT
+Green Lynx Spider	INSECT
+Green Stink Bug	INSECT
+Green-Lacewing	INSECT
+Ground Crab Spider	INSECT
+Ground Spider	INSECT
+Gulf Fritillary Butterfly	INSECT
+Hackberry Emperor	INSECT
+Hacklemesh Weaver	INSECT
+Hag Moth	INSECT
+Halloween Pennant	INSECT
+Hardwood Stump Borer Beetle	INSECT
+Harlequin Bug	INSECT
+Harnessed Tiger Moth	INSECT
+Hawaiian Garden Spider	INSECT
+Hazelnut Lace Bug	INSECT
+Helmeted Squash Bug	INSECT
+Hentz Jumping Spider	INSECT
+Himmelman's Plume Moth	INSECT
+Hister Beetle	INSECT
+Hoary Edge Skipper	INSECT
+Holly Borer Moth	INSECT
+Honey Bee	INSECT
+Horace's Duskywing	INSECT
+Hornet	INSECT
+Horntail Wasp	INSECT
+Horse Lubber Grasshopper	INSECT
+Horse-Bean Longhorn Beetle	INSECT
+House Centipede	INSECT
+House Cricket	INSECT
+House Spider	INSECT
+Hover Fly	INSECT
+Hummingbird Moth	INSECT
+Huntsman Spider	INSECT
+Ichneumon Wasp	INSECT
+Imperial Moth	INSECT
+Io Moth	INSECT
+Iron Clad Beetle	INSECT
+Ivory Marked Beetle	INSECT
+Japanese Beetle	INSECT
+Japygid Dipluran	INSECT
+Jerusalem Cricket	INSECT
+Jewel Beetle	INSECT
+Jewel Weevil	INSECT
+Johnson Jumping Spider	INSECT
+Julia Longwing Butterfly	INSECT
+Jumping Bristletail	INSECT
+Juvenal's Duskywing	INSECT
+Katydid	INSECT
+Kudzu Bug	INSECT
+Labyrinthine Orb Weaver Spider	INSECT
+Ladybug	INSECT
+Lady bug	INSECT
+Large Flathead Pine Heartwood Borer Beetle	INSECT
+Large Tolype Moth	INSECT
+Lattice Orbweaver Spider	INSECT
+Leafcutter Ants	INSECT
+Leaf-Footed Bug	INSECT
+Least Skipper	INSECT
+Leucospid Wasp	INSECT
+Lice	INSECT
+Locust	INSECT
+Locust Borer Beetle	INSECT
+Long-bodied Cellar Spider	INSECT
+Longhorn Bee	INSECT
+Long-Jawed Orb Weaver	INSECT
+Long-legged Fly	INSECT
+Long-Legged Sac Spider	INSECT
+Long-Tailed Skipper	INSECT
+Luminescent Click Beetle	INSECT
+Luna Moth	INSECT
+Lunate Zale Moth	INSECT
+Magnolia Green Jumping Spider	INSECT
+Many-Spotted Tiger Moth	INSECT
+Marbled Orb Weaver	INSECT
+Maritime Earwig	INSECT
+Masked Hunter	INSECT
+May Beetle	INSECT
+Mealy Bug Destroyer Larvae	INSECT
+Megetra cancellata	INSECT
+Metallic Crab Spider	INSECT
+Mexican Orange-Kneed Tarantula	INSECT
+Midges	INSECT
+Milkweed Bug	INSECT
+Millipede	INSECT
+Mite	INSECT
+Mimosa Yellow Sulphur	INSECT
+Monarch Butterfly	INSECT
+Mormon Cricket	INSECT
+Mosquito	INSECT
+Moth	INSECT
+Mottled Grass Veneer Moth	INSECT
+Mottled Tortoise Beetle	INSECT
+Mourning Cloak Butterfly	INSECT
+Mutillid Wasp	INSECT
+Mydas Fly	INSECT
+Nessus Sphinx Moth	INSECT
+Net-Winged Beetle	INSECT
+North American Jumping Spider	INSECT
+Northern Caddisfly	INSECT
+Northern Mole Cricket	INSECT
+Northern Paper Wasp	INSECT
+Northern Walkingstick	INSECT
+Notch-Tipped Flower Longhorn Beetle	INSECT
+Nursery Web Spider	INSECT
+Oak Timberworm Weevil	INSECT
+Oak Treehopper	INSECT
+Oil Beetle	INSECT
+Oleander Aphids	INSECT
+Orange Assassin Bug	INSECT
+Orb Weaver	INSECT
+Ox Beetle	INSECT
+Painted Lichen Moth	INSECT
+Painted Tiger Moth	INSECT
+Pale Windscorpion	INSECT
+Pandorus Sphinx Moth	INSECT
+Paper Wasp	INSECT
+Parson Spider	INSECT
+Pearl Crescent Butterfly	INSECT
+Pennsylvania Firefly	INSECT
+Pennsylvania Leatherwing Beetle	INSECT
+Periodical Cicada	INSECT
+Picture-Winged Fly	INSECT
+Pigeon Tremex	INSECT
+Pine Sawyer Beetle	INSECT
+Pink Underwing Moth	INSECT
+Pipevine Swallowtail	INSECT
+Planthopper	INSECT
+Pleasing Fungus Beetle	INSECT
+Plume Moth	INSECT
+Polka Dot Wasp Moth	INSECT
+Polyphemus Moth	INSECT
+Potter Wasp	INSECT
+Prairie Walkingstick	INSECT
+Praying Mantis	INSECT
+Predaceous Diving Beetle	INSECT
+Predatory Stink Bug	INSECT
+Promethea Moth	INSECT
+Proturan	INSECT
+Pseudoscorpion	INSECT
+Psocid Barklice	INSECT
+Putnam Jumping Spider	INSECT
+Rabbit Bot Fly	INSECT
+Rainbow Scarab Beetle	INSECT
+Red Admiral Butterfly	INSECT
+Red Ant-Mimic Spider	INSECT
+Red Folding Door Trapdoor Spider	INSECT
+Red Headed Ash Borer	INSECT
+Red Oak Borer	INSECT
+Red Pavement Ant	INSECT
+Red Saddlebags	INSECT
+Red Spotted Ant Mimic Spider	INSECT
+Red Velvet Ant	INSECT
+Red-Banded Hairstreak Butterfly	INSECT
+Red-Bordered Emerald	INSECT
+Reddish Potato Beetle	INSECT
+Red-Legged Grasshopper	INSECT
+Red-Shouldered Ctenucha Moth	INSECT
+Red-spotted Purple Admiral	INSECT
+Regal Moth	INSECT
+Repetitive Tachinid Fly	INSECT
+Reticulated Netwinged Beetle	INSECT
+Rhinoceros Beetle	INSECT
+Ring-Legged Earwig	INSECT
+Robber Fly	INSECT
+Robinson's Annual Cicada	INSECT
+Rose Chafer	INSECT
+Rosy Apple Aphid	INSECT
+Rosy Maple Moth	INSECT
+Running Crab Spider	INSECT
+Running Spider	INSECT
+Rustic Sphinx Moth	INSECT
+Rusty-Tipped Page	INSECT
+Sac Spider	INSECT
+Sachem Skipper	INSECT
+Saddleback Caterpillar	INSECT
+Sandfly	INSECT
+Scarlet Malachite Beetle	INSECT
+Scarlet-Bodied Wasp Moth	INSECT
+Scarlet-Winged Lichen Moth	INSECT
+Scolopendrid Centipede	INSECT
+Scorpionfly	INSECT
+Seashore Springtail	INSECT
+Shamrock Spider	INSECT
+Signate Lady Beetle	INSECT
+Silver Garden Spider	INSECT
+Silverfish	INSECT
+Silver-Spotted Skipper	INSECT
+Silvery Checkerspot Butterfly	INSECT
+Six-Spotted Tiger Beetle	INSECT
+Slaty Skimmer	INSECT
+Slug Caterpillar Moth	INSECT
+Small Carpenter Bee	INSECT
+Small House Fly	INSECT
+Small Milkweed Bug	INSECT
+Small Minnow Mayfly	INSECT
+Small-Eyed Sphinx Moth	INSECT
+Sminthurid Springtail	INSECT
+Snakefly	INSECT
+Snow Mosquito	INSECT
+Snowberry Clearwing Moth	INSECT
+Soft-Winged Flower Beetle	INSECT
+Soldier Beetle	INSECT
+Soldier Beetle	INSECT
+Soldier Fly	INSECT
+Southeastern Lubber Grasshopper	INSECT
+Southeastern Wandering Spider	INSECT
+Southern Devil Scorpion	INSECT
+Southern Emerald Moth	INSECT
+Southern Green Stink Bug	INSECT
+Southern House Spider	INSECT
+Southern Sculpted Pine Borer Beetle	INSECT
+Southwestern Eyed Click Beetle	INSECT
+Southwestern Squash Vine Borer Moth	INSECT
+Sowbug	INSECT
+Sowbug Killer Spider	INSECT
+Spangled Flower Beetle	INSECT
+Spanish Moth	INSECT
+Spicebush Swallowtail Butterfly	INSECT
+Spider	INSECT
+Spider Wasp	INSECT
+Spined Micrathena Spider	INSECT
+Spiny Backed Orb Weaver	INSECT
+Spiny Oak Slug Moth	INSECT
+Spitting Spider	INSECT
+Spotted Beet Webworm Moth	INSECT
+Spotted Camel Cricket	INSECT
+Spotted Cucumber Beetle	INSECT
+Spotted Orb Weaver	INSECT
+Spotted Tree Borer Beetle	INSECT
+Spring Azure Butterfly	INSECT
+Spur-throated Grasshopper	INSECT
+Squash Bug	INSECT
+Squash Lady Beetle	INSECT
+Squash Vine Borer Moth	INSECT
+Stag Beetle	INSECT
+Stealthy Ground Spider	INSECT
+Stinkbug	INSECT
+Striped Blister Beetle	INSECT
+Striped Cucumber Beetle	INSECT
+Swamp Cicada	INSECT
+Sweat Bee	INSECT
+Sycamore Tussock Moth	INSECT
+Tachinid Fly 	INSECT
+Tailless Whipscorpion	INSECT
+Tan Jumping Spider	INSECT
+Tarantula	INSECT
+Tarantula Hawk	INSECT
+Tawny Mole Cricket	INSECT
+Tengellid Spider 	INSECT
+Ten-Lined June Beetle	INSECT
+Tersa Sphinx Moth 	INSECT
+Thin-Legged Wolf Spider	INSECT
+Thistle Down Velvet Ant	INSECT
+Three Lined Potato Beetle	INSECT
+Tick	INSECT
+Tiger Bee Fly	INSECT
+Tobacco Hornworm Moth	INSECT
+Trashline Orb Weaver	INSECT
+Treehopper	INSECT
+Triangulate Cob Web Spider	INSECT
+Tri-Colored Bumble Bee	INSECT
+True Katydid 	INSECT
+Tuft-Legged Orb Weaver 	INSECT
+Tulip-Tree Beauty Moth 	INSECT
+Tumblebug	INSECT
+Turret Spider 	INSECT
+Twice-Stabbed Lady Beetle	INSECT
+Two-Lined Spittlebug	INSECT
+Two-Striped Walkingstick	INSECT
+Varied Carpet Beetle	INSECT
+Venusta Orchard Spider	INSECT
+Vine Sphinx Moth	INSECT
+Virginia Flower Fly	INSECT
+Walnut Sphinx Moth	INSECT
+Wasp	INSECT
+Wasp Moth	INSECT
+Water Springtail	INSECT
+Wavy-Lined Emerald Moth	INSECT
+Wee Harlequin Bug	INSECT
+Weevil Wasp	INSECT
+Western Cicada Killer	INSECT
+Western Conifer Seed Bug	INSECT
+Western Flying Adder	INSECT
+Western Grapeleaf Skeletonizer Moth	INSECT
+Western Harvester Ant	INSECT
+Western Hercules Beetle	INSECT
+Western Short-horned Walkingstick	INSECT
+Western Spotted Orb Weaver	INSECT
+Western Wood Cockroach	INSECT
+Wheel Bug 	INSECT
+White Admiral Butterfly	INSECT
+White Oak Borer Beetle	INSECT
+White-lined Sphinx Moth	INSECT
+White-Margined Burrower Bug	INSECT
+White-Marked Tussock Moth	INSECT
+White-Spotted Sawyer Beetle	INSECT
+Widow Skimmer	INSECT
+Wolf Spider	INSECT
+Wood Leopard Moth	INSECT
+Woodland Jumping Spider	INSECT
+Woodrat Bot Fly	INSECT
+Yellow Jacket	INSECT
+Yellow Sac Spider	INSECT
+Yellow Velvet Ant	INSECT
+Yellow-Faced Bumble Bee	INSECT
+Yellow-Fly	INSECT
+Yellow-Striped Armyworm Moth	INSECT
+Yucca Plant Bug	INSECT
+Zabulon Skipper	INSECT
+Zebra Butterfly	INSECT
+Zig-Zag Furcula Moth	INSECT

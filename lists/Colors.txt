@@ -1,0 +1,1351 @@
+Absolute Zero	COLOR
+Acajou	COLOR
+Acid green	COLOR
+Aero	COLOR
+Aero blue	COLOR
+African violet	COLOR
+Air Force blue	COLOR
+Air superiority blue	COLOR
+Alabama crimson	COLOR
+Alabaster	COLOR
+Alice blue	COLOR
+Alien Armpit	COLOR
+Alizarin crimson	COLOR
+Alloy orange	COLOR
+Almond	COLOR
+Amaranth	COLOR
+Amaranth deep purple	COLOR
+Amaranth pink	COLOR
+Amaranth purple	COLOR
+Amaranth red	COLOR
+Amazon	COLOR
+Amazonite	COLOR
+Amber	COLOR
+American blue	COLOR
+American green	COLOR
+American orange	COLOR
+American red	COLOR
+American rose	COLOR
+Amethyst	COLOR
+Android green	COLOR
+Anti-flash white	COLOR
+Antique brass	COLOR
+Antique bronze	COLOR
+Antique fuchsia	COLOR
+Antique ruby	COLOR
+Antique white	COLOR
+Ao	COLOR
+Apple	COLOR
+Apple green	COLOR
+Apricot	COLOR
+Aqua	COLOR
+Aquamarine	COLOR
+Arctic lime	COLOR
+Army green	COLOR
+Arsenic	COLOR
+Artichoke	COLOR
+Arylide yellow	COLOR
+Ash grey	COLOR
+Asparagus	COLOR
+Atomic tangerine	COLOR
+Auburn	COLOR
+Aureolin	COLOR
+AuroMetalSaurus	COLOR
+Avocado	COLOR
+Awesome	COLOR
+Axolotl	COLOR
+Aztec Gold	COLOR
+Azure	COLOR
+Azure mist	COLOR
+Azureish white	COLOR
+B[edit]	COLOR
+Baby blue	COLOR
+Baby blue eyes	COLOR
+Baby pink	COLOR
+Baby powder	COLOR
+Baker-Miller pink	COLOR
+Ball blue	COLOR
+Banana Mania	COLOR
+Banana yellow	COLOR
+Bangladesh green	COLOR
+Barbie pink	COLOR
+Barn red	COLOR
+Battery Charged Blue	COLOR
+Battleship grey	COLOR
+Bazaar	COLOR
+Beau blue	COLOR
+Begonia	COLOR
+Beaver	COLOR
+Beige	COLOR
+B'dazzled blue	COLOR
+Big dip o’ruby	COLOR
+Big Foot Feet	COLOR
+Bisque	COLOR
+Bistre	COLOR
+Bistre brown	COLOR
+Bitter lemon	COLOR
+Bitter lime	COLOR
+Bittersweet	COLOR
+Bittersweet shimmer	COLOR
+Black	COLOR
+Black bean	COLOR
+Black Coral	COLOR
+Black leather jacket	COLOR
+Black olive	COLOR
+Black Shadows	COLOR
+Blanched almond	COLOR
+Blast-off bronze	COLOR
+Bleu de France	COLOR
+Blizzard Blue	COLOR
+Blond	COLOR
+Blood Orange	COLOR
+Blood red	COLOR
+Blue	COLOR
+Blue Bell	COLOR
+Blue Bolt	COLOR
+Blue-gray	COLOR
+Blue-green	COLOR
+Blue Jeans	COLOR
+Blue Lagoon	COLOR
+Blue-magenta violet	COLOR
+Blue sapphire	COLOR
+Blue-violet	COLOR
+Blue yonder	COLOR
+Blueberry	COLOR
+Bluebonnet	COLOR
+Blush	COLOR
+Bole	COLOR
+Bondi blue	COLOR
+Bone	COLOR
+Booger Buster	COLOR
+Boston University Red	COLOR
+Bottle green	COLOR
+Boysenberry	COLOR
+Brandeis blue	COLOR
+Brass	COLOR
+Brick red	COLOR
+Bright cerulean	COLOR
+Bright gray	COLOR
+Bright green	COLOR
+Bright lavender	COLOR
+Bright lilac	COLOR
+Bright maroon	COLOR
+Bright navy blue	COLOR
+Bright pink	COLOR
+Bright turquoise	COLOR
+Bright ube	COLOR
+Bright Yellow	COLOR
+Brilliant azure	COLOR
+Brilliant lavender	COLOR
+Brilliant rose	COLOR
+Brink pink	COLOR
+British racing green	COLOR
+Brown Chocolate	COLOR
+Brown Yellow	COLOR
+Bronze	COLOR
+Bronze	COLOR
+Brown-nose	COLOR
+Brown Sugar	COLOR
+Brown Yellow	COLOR
+Brunswick green	COLOR
+Bubble gum	COLOR
+Bubbles	COLOR
+Bud green	COLOR
+Buff	COLOR
+Bulgarian rose	COLOR
+Burgundy	COLOR
+Burlywood	COLOR
+Burnished Brown	COLOR
+Burnt orange	COLOR
+Burnt sienna	COLOR
+Burnt umber	COLOR
+Button Blue	COLOR
+Byzantine	COLOR
+Byzantium	COLOR
+Cadet	COLOR
+Cadet blue	COLOR
+Cadet grey	COLOR
+Cadmium blue	COLOR
+Cadmium green	COLOR
+Cadmium orange	COLOR
+Cadmium red	COLOR
+Cadmium yellow	COLOR
+Café au lait	COLOR
+Café noir	COLOR
+Cal Poly green	COLOR
+Cambridge Blue	COLOR
+Camel	COLOR
+Cameo pink	COLOR
+Camouflage green	COLOR
+Canary	COLOR
+Canary yellow	COLOR
+Candy apple red	COLOR
+Candy pink	COLOR
+Capri	COLOR
+Caput mortuum	COLOR
+Caramel	COLOR
+Cardinal	COLOR
+Caribbean green	COLOR
+Carmine	COLOR
+Carmine	COLOR
+Carmine pink	COLOR
+Carmine red	COLOR
+Carnation pink	COLOR
+Carnelian	COLOR
+Carolina blue	COLOR
+Carrot orange	COLOR
+Castleton green	COLOR
+Catalina blue	COLOR
+Catawba	COLOR
+Cedar Chest	COLOR
+Ceil	COLOR
+Celadon	COLOR
+Celadon blue	COLOR
+Celadon green	COLOR
+Celeste	COLOR
+Celestial blue	COLOR
+Cerise	COLOR
+Cerise pink	COLOR
+Cerulean	COLOR
+Cerulean blue	COLOR
+Cerulean frost	COLOR
+CG Blue	COLOR
+CG Red	COLOR
+Chamoisee	COLOR
+Champagne	COLOR
+Champagne pink	COLOR
+Charcoal	COLOR
+Charleston green	COLOR
+Charm	COLOR
+Charm pink	COLOR
+Chartreuse	COLOR
+Cherry	COLOR
+Cherry blossom pink	COLOR
+Chestnut	COLOR
+China pink	COLOR
+China rose	COLOR
+Chinese blue	COLOR
+Chinese brown	COLOR
+Chinese green	COLOR
+Chinese gold	COLOR
+Chinese orange	COLOR
+Chinese pink	COLOR
+Chinese purple	COLOR
+Chinese red	COLOR
+Chinese red	COLOR
+Chinese silver	COLOR
+Chinese violet	COLOR
+Chinese yellow	COLOR
+Chlorophyll green	COLOR
+Chocolate	COLOR
+Christmas blue	COLOR
+Christmas blue	COLOR
+Christmas brown	COLOR
+Christmas brown	COLOR
+Christmas green	COLOR
+Christmas green	COLOR
+Christmas gold	COLOR
+Christmas orange	COLOR
+Christmas orange	COLOR
+Christmas pink	COLOR
+Christmas pink	COLOR
+Christmas purple	COLOR
+Christmas purple	COLOR
+Christmas red	COLOR
+Christmas red	COLOR
+Christmas silver	COLOR
+Christmas yellow	COLOR
+Christmas yellow	COLOR
+Chrome yellow	COLOR
+Cinereous	COLOR
+Cinnabar	COLOR
+Cinnamon	COLOR
+Cinnamon Satin	COLOR
+Citrine	COLOR
+Citron	COLOR
+Claret	COLOR
+Classic rose	COLOR
+Cobalt Blue	COLOR
+Cocoa brown	COLOR
+Coconut	COLOR
+Coffee	COLOR
+Cola	COLOR
+Columbia Blue	COLOR
+Conditioner	COLOR
+Congo pink	COLOR
+Cool Black	COLOR
+Cool grey	COLOR
+Copper	COLOR
+Copper	COLOR
+Copper penny	COLOR
+Copper red	COLOR
+Copper rose	COLOR
+Coquelicot	COLOR
+Coral	COLOR
+Coral pink	COLOR
+Coral red	COLOR
+Coral Reef	COLOR
+Cordovan	COLOR
+Corn	COLOR
+Cornell Red	COLOR
+Cornflower blue	COLOR
+Cornsilk	COLOR
+Cosmic Cobalt	COLOR
+Cosmic latte	COLOR
+Coyote brown	COLOR
+Cotton candy	COLOR
+Cream	COLOR
+Crimson	COLOR
+Crimson glory	COLOR
+Crimson red	COLOR
+Cultured	COLOR
+Cyan	COLOR
+Cyan azure	COLOR
+Cyan-blue azure	COLOR
+Cyan cobalt blue	COLOR
+Cyan cornflower blue	COLOR
+Cyan	COLOR
+Cyber grape	COLOR
+Cyber yellow	COLOR
+Cyclamen	COLOR
+Daffodil	COLOR
+Dandelion	COLOR
+Dark blue	COLOR
+Dark blue-gray	COLOR
+Dark bronze	COLOR
+Dark brown	COLOR
+Dark brown-tangelo	COLOR
+Dark byzantium	COLOR
+Dark candy apple red	COLOR
+Dark cerulean	COLOR
+Dark charcoal	COLOR
+Dark chestnut	COLOR
+Dark chocolate	COLOR
+Dark coral	COLOR
+Dark cyan	COLOR
+Dark electric blue	COLOR
+Dark goldenrod	COLOR
+Dark gray	COLOR
+Dark green	COLOR
+Dark green	COLOR
+Dark gunmetal	COLOR
+Dark imperial blue	COLOR
+Dark imperial blue	COLOR
+Dark jungle green	COLOR
+Dark khaki	COLOR
+Dark lava	COLOR
+Dark lavender	COLOR
+Dark liver	COLOR
+Dark liver	COLOR
+Dark magenta	COLOR
+Dark medium gray	COLOR
+Dark midnight blue	COLOR
+Dark moss green	COLOR
+Dark olive green	COLOR
+Dark orange	COLOR
+Dark orchid	COLOR
+Dark pastel blue	COLOR
+Dark pastel green	COLOR
+Dark pastel purple	COLOR
+Dark pastel red	COLOR
+Dark pink	COLOR
+Dark powder blue	COLOR
+Dark puce	COLOR
+Dark purple	COLOR
+Dark raspberry	COLOR
+Dark red	COLOR
+Dark salmon	COLOR
+Dark scarlet	COLOR
+Dark sea green	COLOR
+Dark sienna	COLOR
+Dark sky blue	COLOR
+Dark slate blue	COLOR
+Dark slate gray	COLOR
+Dark spring green	COLOR
+Dark tan	COLOR
+Dark tangerine	COLOR
+Dark taupe	COLOR
+Dark terra cotta	COLOR
+Dark turquoise	COLOR
+Dark vanilla	COLOR
+Dark violet	COLOR
+Dark yellow	COLOR
+Dartmouth green	COLOR
+Davy's grey	COLOR
+Debian red	COLOR
+Deep amethyst	COLOR
+Deep aquamarine	COLOR
+Deep carmine	COLOR
+Deep carmine pink	COLOR
+Deep carrot orange	COLOR
+Deep cerise	COLOR
+Deep champagne	COLOR
+Deep chestnut	COLOR
+Deep coffee	COLOR
+Deep fuchsia	COLOR
+Deep Green	COLOR
+Deep green-cyan turquoise	COLOR
+Deep jungle green	COLOR
+Deep koamaru	COLOR
+Deep lemon	COLOR
+Deep lilac	COLOR
+Deep magenta	COLOR
+Deep maroon	COLOR
+Deep mauve	COLOR
+Deep moss green	COLOR
+Deep peach	COLOR
+Deep pink	COLOR
+Deep puce	COLOR
+Deep Red	COLOR
+Deep ruby	COLOR
+Deep saffron	COLOR
+Deep sky blue	COLOR
+Deep Space Sparkle	COLOR
+Deep spring bud	COLOR
+Deep Taupe	COLOR
+Deep Tuscan red	COLOR
+Deep violet	COLOR
+Deer	COLOR
+Denim	COLOR
+Denim Blue	COLOR
+Desaturated cyan	COLOR
+Desert	COLOR
+Desert sand	COLOR
+Desire	COLOR
+Diamond	COLOR
+Dim gray	COLOR
+Dingy Dungeon	COLOR
+Dirt	COLOR
+Dodger blue	COLOR
+Dodie yellow	COLOR
+Dogwood rose	COLOR
+Dollar bill	COLOR
+Dolphin Gray	COLOR
+Donkey brown	COLOR
+Drab	COLOR
+Duke blue	COLOR
+Dust storm	COLOR
+Dutch white	COLOR
+Earth yellow	COLOR
+Ebony	COLOR
+Ecru	COLOR
+Eerie black	COLOR
+Eggplant	COLOR
+Eggshell	COLOR
+Egyptian blue	COLOR
+Electric blue	COLOR
+Electric crimson	COLOR
+Electric cyan	COLOR
+Electric green	COLOR
+Electric indigo	COLOR
+Electric lavender	COLOR
+Electric lime	COLOR
+Electric purple	COLOR
+Electric ultramarine	COLOR
+Electric violet	COLOR
+Electric yellow	COLOR
+Emerald	COLOR
+Eminence	COLOR
+English green	COLOR
+English lavender	COLOR
+English red	COLOR
+English violet	COLOR
+English violet	COLOR
+Eton blue	COLOR
+Eucalyptus	COLOR
+Fallow	COLOR
+Falu red	COLOR
+Fandango	COLOR
+Fandango pink	COLOR
+Fashion fuchsia	COLOR
+Fawn	COLOR
+Feldgrau	COLOR
+Feldspar	COLOR
+Fern green	COLOR
+Ferrari Red	COLOR
+Field drab	COLOR
+Fiery Rose	COLOR
+Firebrick	COLOR
+Fire engine red	COLOR
+Flame	COLOR
+Flamingo pink	COLOR
+Flattery	COLOR
+Flavescent	COLOR
+Flax	COLOR
+Flirt	COLOR
+Floral white	COLOR
+Fluorescent orange	COLOR
+Fluorescent pink	COLOR
+Fluorescent yellow	COLOR
+Folly	COLOR
+Forest green	COLOR
+French beige	COLOR
+French bistre	COLOR
+French blue	COLOR
+French fuchsia	COLOR
+French lilac	COLOR
+French lime	COLOR
+French mauve	COLOR
+French pink	COLOR
+French plum	COLOR
+French puce	COLOR
+French raspberry	COLOR
+French rose	COLOR
+French sky blue	COLOR
+French violet	COLOR
+French wine	COLOR
+Fresh Air	COLOR
+Frostbite	COLOR
+Fuchsia	COLOR
+Fuchsia pink	COLOR
+Fuchsia purple	COLOR
+Fuchsia rose	COLOR
+Fulvous	COLOR
+Fuzzy Wuzzy	COLOR
+Gainsboro	COLOR
+Gamboge	COLOR
+Gamboge orange 	COLOR
+Gargoyle Gas	COLOR
+Generic viridian	COLOR
+Ghost white	COLOR
+Giant's Club	COLOR
+Giants orange	COLOR
+Ginger	COLOR
+Glaucous	COLOR
+Glitter	COLOR
+Glossy Grape	COLOR
+GO green	COLOR
+Gold	COLOR
+Gold Fusion	COLOR
+Gold foil	COLOR
+Golden brown	COLOR
+Golden poppy	COLOR
+Golden yellow	COLOR
+Goldenrod	COLOR
+Granite Gray	COLOR
+Granny Smith Apple	COLOR
+Grape	COLOR
+Gray	COLOR
+Gray-asparagus	COLOR
+Gray-blue	COLOR
+Green	COLOR
+Green-blue	COLOR
+Green-cyan	COLOR
+Green Lizard	COLOR
+Green Sheen	COLOR
+Green-yellow	COLOR
+Grizzly	COLOR
+Grullo	COLOR
+Guppie green	COLOR
+Gunmetal	COLOR
+Halayà úbe	COLOR
+Halloween orange	COLOR
+Han blue	COLOR
+Han purple	COLOR
+Hansa yellow	COLOR
+Harlequin	COLOR
+Harlequin green	COLOR
+Harvard crimson	COLOR
+Harvest gold	COLOR
+Heart Gold	COLOR
+Heat Wave	COLOR
+Heidelberg Red	COLOR
+Heliotrope	COLOR
+Heliotrope gray	COLOR
+Heliotrope magenta	COLOR
+Hollywood cerise	COLOR
+Honeydew	COLOR
+Honolulu blue	COLOR
+Hooker's green	COLOR
+Hot magenta	COLOR
+Hot pink	COLOR
+Hunter green	COLOR
+Iceberg	COLOR
+Icterine	COLOR
+Iguana Green	COLOR
+Illuminating Emerald	COLOR
+Imperial	COLOR
+Imperial blue	COLOR
+Imperial purple	COLOR
+Imperial red	COLOR
+Inchworm	COLOR
+Independence	COLOR
+India green	COLOR
+Indian red	COLOR
+Indian yellow	COLOR
+Indigo	COLOR
+Infra Red	COLOR
+Interdimensional Blue	COLOR
+International Klein Blue	COLOR
+International orange	COLOR
+Iris	COLOR
+Irresistible	COLOR
+Isabelline	COLOR
+Islamic green	COLOR
+Italian sky blue	COLOR
+Ivory	COLOR
+Jade	COLOR
+Japanese carmine	COLOR
+Japanese indigo	COLOR
+Japanese violet	COLOR
+Jasmine	COLOR
+Jasper	COLOR
+Jazzberry jam	COLOR
+Jelly Bean	COLOR
+Jet	COLOR
+Jonquil	COLOR
+Jordy blue	COLOR
+June bud	COLOR
+Jungle green	COLOR
+Kelly green	COLOR
+Kenyan copper	COLOR
+Keppel	COLOR
+Key Lime	COLOR
+Kiwi	COLOR
+Kobe	COLOR
+Kobi	COLOR
+Kobicha	COLOR
+Kombu green	COLOR
+KSU Purple	COLOR
+KU Crimson	COLOR
+L[edit]	COLOR
+La Salle Green	COLOR
+Languid lavender	COLOR
+Lapis lazuli	COLOR
+Laser Lemon	COLOR
+Laurel green	COLOR
+Lava	COLOR
+Lavender blue	COLOR
+Lavender blush	COLOR
+Lavender gray	COLOR
+Lavender indigo	COLOR
+Lavender magenta	COLOR
+Lavender mist	COLOR
+Lavender pink	COLOR
+Lavender purple	COLOR
+Lavender rose	COLOR
+Lawn green	COLOR
+Lemon	COLOR
+Lemon chiffon	COLOR
+Lemon curry	COLOR
+Lemon glacier	COLOR
+Lemon lime	COLOR
+Lemon meringue	COLOR
+Lemon yellow	COLOR
+Lenurple	COLOR
+Liberty	COLOR
+Licorice	COLOR
+Light apricot	COLOR
+Light blue	COLOR
+Light brilliant red	COLOR
+Light brown	COLOR
+Light carmine pink	COLOR
+Light cobalt blue	COLOR
+Light coral	COLOR
+Light cornflower blue	COLOR
+Light crimson	COLOR
+Light cyan	COLOR
+Light deep pink	COLOR
+Light French beige	COLOR
+Light fuchsia pink	COLOR
+Light gold	COLOR
+Light goldenrod yellow	COLOR
+Light gray	COLOR
+Light grayish magenta	COLOR
+Light green	COLOR
+Light hot pink	COLOR
+Light khaki	COLOR
+Light medium orchid	COLOR
+Light moss green	COLOR
+Light orange	COLOR
+Light orchid	COLOR
+Light pastel purple	COLOR
+Light periwinkle	COLOR
+Light pink	COLOR
+Light red	COLOR
+Light red ochre	COLOR
+Light salmon	COLOR
+Light salmon pink	COLOR
+Light sea green	COLOR
+Light silver	COLOR
+Light sky blue	COLOR
+Light slate gray	COLOR
+Light steel blue	COLOR
+Light taupe	COLOR
+Light Thulian pink	COLOR
+Light yellow	COLOR
+Lilac	COLOR
+Lilac Luster	COLOR
+Lime	COLOR
+Lime green	COLOR
+Limerick	COLOR
+Lincoln green	COLOR
+Linen	COLOR
+Lion	COLOR
+Liseran purple	COLOR
+Little boy blue	COLOR
+Liver	COLOR
+Liver chestnut	COLOR
+Livid	COLOR
+Loeen look	COLOR
+Lotion	COLOR
+Lumber	COLOR
+Lust	COLOR
+Maastricht Blue	COLOR
+Macaroni and Cheese	COLOR
+Madder Lake	COLOR
+Magenta	COLOR
+Magenta haze	COLOR
+Magenta-pink	COLOR
+Magic mint	COLOR
+Magic Potion	COLOR
+Magnolia	COLOR
+Mahogany	COLOR
+Maize	COLOR
+Majorelle Blue	COLOR
+Malachite	COLOR
+Manatee	COLOR
+Mandarin	COLOR
+Mango green	COLOR
+Mango Tango	COLOR
+Mango yellow	COLOR
+Mantis	COLOR
+Mardi Gras	COLOR
+Marigold	COLOR
+Mauve	COLOR
+Mauve taupe	COLOR
+Mauvelous	COLOR
+Maximum Blue	COLOR
+Maximum Blue Green	COLOR
+Maximum Blue Purple	COLOR
+Maximum Green	COLOR
+Maximum Green Yellow	COLOR
+Maximum Purple	COLOR
+Maximum Red	COLOR
+Maximum Red Purple	COLOR
+Maximum Yellow	COLOR
+Maximum Yellow Red	COLOR
+May green	COLOR
+Maya blue	COLOR
+Meat brown	COLOR
+Medium aquamarine	COLOR
+Medium blue	COLOR
+Medium candy apple red	COLOR
+Medium carmine	COLOR
+Medium champagne	COLOR
+Medium electric blue	COLOR
+Medium jungle green	COLOR
+Medium lavender magenta	COLOR
+Medium orchid	COLOR
+Medium Persian blue	COLOR
+Medium purple	COLOR
+Medium red-violet	COLOR
+Medium ruby	COLOR
+Medium sea green	COLOR
+Medium sky blue	COLOR
+Medium slate blue	COLOR
+Medium spring bud	COLOR
+Medium spring green	COLOR
+Medium taupe	COLOR
+Medium turquoise	COLOR
+Medium Tuscan red	COLOR
+Medium vermilion	COLOR
+Medium violet-red	COLOR
+Mellow apricot	COLOR
+Mellow yellow	COLOR
+Melon	COLOR
+Metallic blue	COLOR
+Metallic bronze	COLOR
+Metallic brown	COLOR
+Metallic gold	COLOR
+Metallic green	COLOR
+Metallic orange	COLOR
+Metallic pink	COLOR
+Metallic red	COLOR
+Metallic Seaweed	COLOR
+Metallic silver	COLOR
+Metallic Sunburst	COLOR
+Metallic violet	COLOR
+Metallic yellow	COLOR
+Mexican pink	COLOR
+Middle Blue	COLOR
+Middle Blue Green	COLOR
+Middle Blue Purple	COLOR
+Middle Grey	COLOR
+Middle Green	COLOR
+Middle Green Yellow	COLOR
+Middle Purple	COLOR
+Middle Red	COLOR
+Middle Red Purple	COLOR
+Middle Yellow	COLOR
+Middle Yellow Red	COLOR
+Midnight	COLOR
+Midnight blue	COLOR
+Midnight green	COLOR
+Mikado yellow	COLOR
+Milk	COLOR
+Milk chocolate	COLOR
+Mimi Pink	COLOR
+Mindaro	COLOR
+Ming	COLOR
+Minion Yellow	COLOR
+Mint	COLOR
+Mint cream	COLOR
+Mint green	COLOR
+Misty Moss	COLOR
+Misty rose	COLOR
+Moccasin	COLOR
+Mode beige	COLOR
+Moonstone	COLOR
+Moonstone blue	COLOR
+Morning blue	COLOR
+Moss green	COLOR
+Mountain Meadow	COLOR
+Mountbatten pink	COLOR
+MSU Green	COLOR
+Mud	COLOR
+Mughal green	COLOR
+Mulberry	COLOR
+Mummy's Tomb	COLOR
+Mustard	COLOR
+Mustard brown	COLOR
+Mustard green	COLOR
+Mustard yellow	COLOR
+Myrtle green	COLOR
+Mystic	COLOR
+Mystic Maroon	COLOR
+Mystic Red	COLOR
+N–O[edit]	COLOR
+Nadeshiko pink	COLOR
+Napier green	COLOR
+Naples yellow	COLOR
+Nates	COLOR
+Navajo white	COLOR
+Navy	COLOR
+Navy blue	COLOR
+Navy Blue	COLOR
+Navy purple	COLOR
+Neon blue	COLOR
+Neon brown	COLOR
+Neon Carrot	COLOR
+Neon cyan	COLOR
+Neon fuchsia	COLOR
+Neon gold	COLOR
+Neon gray	COLOR
+Neon green	COLOR
+Neon orange	COLOR
+Neon pink	COLOR
+Neon purple	COLOR
+neon red	COLOR
+Neon scarlet	COLOR
+Neon silver	COLOR
+Neon tangerine	COLOR
+Neon yellow	COLOR
+New car	COLOR
+New York pink	COLOR
+Nickel	COLOR
+Non-photo blue	COLOR
+North Texas Green	COLOR
+Nyanza	COLOR
+Ocean Blue	COLOR
+Ocean Boat Blue	COLOR
+Ocean Green	COLOR
+Ochre	COLOR
+Office green	COLOR
+Ogre Odor	COLOR
+Old burgundy	COLOR
+Old gold	COLOR
+Old heliotrope	COLOR
+Old lace	COLOR
+Old lavender	COLOR
+Old mauve	COLOR
+Old moss green	COLOR
+Old rose	COLOR
+Old silver	COLOR
+Olive	COLOR
+Olivine	COLOR
+Onyx	COLOR
+Opera mauve	COLOR
+Orange peel	COLOR
+Orange-red	COLOR
+Orange Soda	COLOR
+Orange-yellow	COLOR
+Orchid	COLOR
+Orchid pink	COLOR
+Orioles orange	COLOR
+Otter brown	COLOR
+Outer Space	COLOR
+Outrageous Orange	COLOR
+Oxford Blue	COLOR
+Oxley	COLOR
+OU Crimson Red	COLOR
+P[edit]	COLOR
+Pacific Blue	COLOR
+Pakistan green	COLOR
+Palatinate blue	COLOR
+Palatinate purple	COLOR
+Pale aqua	COLOR
+Pale blue	COLOR
+Pale brown	COLOR
+Pale carmine	COLOR
+Pale cerulean	COLOR
+Pale chestnut	COLOR
+Pale copper	COLOR
+Pale cornflower blue	COLOR
+Pale cyan	COLOR
+Pale gold	COLOR
+Pale goldenrod	COLOR
+Pale green	COLOR
+Pale lavender	COLOR
+Pale magenta	COLOR
+Pale magenta-pink	COLOR
+Pale pink	COLOR
+Pale plum	COLOR
+Pale red-violet	COLOR
+Pale robin egg blue	COLOR
+Pale silver	COLOR
+Pale spring bud	COLOR
+Pale taupe	COLOR
+Pale turquoise	COLOR
+Pale violet	COLOR
+Pale violet-red	COLOR
+Palm Leaf	COLOR
+Pansy purple	COLOR
+Paolo Veronese green	COLOR
+Papaya whip	COLOR
+Paradise pink	COLOR
+Paris Green	COLOR
+Parrot Pink	COLOR
+Pastel blue	COLOR
+Pastel brown	COLOR
+Pastel gray	COLOR
+Pastel green	COLOR
+Pastel magenta	COLOR
+Pastel orange	COLOR
+Pastel pink	COLOR
+Pastel purple	COLOR
+Pastel red	COLOR
+Pastel violet	COLOR
+Pastel yellow	COLOR
+Patriarch	COLOR
+Payne's grey	COLOR
+Peach	COLOR
+Peach	COLOR
+Peach-orange	COLOR
+Peach puff	COLOR
+Peach-yellow	COLOR
+Pear	COLOR
+Pearl	COLOR
+Pearl Aqua	COLOR
+Pearly purple	COLOR
+Peridot	COLOR
+Periwinkle	COLOR
+Permanent Geranium Lake	COLOR
+Persian blue	COLOR
+Persian green	COLOR
+Persian indigo	COLOR
+Persian orange	COLOR
+Persian pink	COLOR
+Persian plum	COLOR
+Persian red	COLOR
+Persian rose	COLOR
+Persimmon	COLOR
+Peru	COLOR
+Pewter Blue	COLOR
+Philippine blue	COLOR
+Philippine brown	COLOR
+Philippine gold	COLOR
+Philippine golden yellow	COLOR
+Philippine gray	COLOR
+Philippine green	COLOR
+Philippine orange	COLOR
+Philippine pink	COLOR
+Philippine red	COLOR
+Philippine silver	COLOR
+Philippine violet	COLOR
+Philippine yellow	COLOR
+Phlox	COLOR
+Phthalo blue	COLOR
+Phthalo green	COLOR
+Picton blue	COLOR
+Pictorial carmine	COLOR
+Piggy pink	COLOR
+Pine green	COLOR
+Pineapple	COLOR
+Pink	COLOR
+Pink Flamingo	COLOR
+Pink lace	COLOR
+Pink lavender	COLOR
+Pink-orange	COLOR
+Pink pearl	COLOR
+Pink raspberry	COLOR
+Pink Sherbet	COLOR
+Pistachio	COLOR
+Pixie Powder	COLOR
+Platinum	COLOR
+Plum	COLOR
+Plump Purple	COLOR
+Polished Pine	COLOR
+Pomp and Power	COLOR
+Popstar	COLOR
+Portland Orange	COLOR
+Powder blue	COLOR
+Princeton orange	COLOR
+Princess Perfume	COLOR
+Prune	COLOR
+Prussian blue	COLOR
+Psychedelic purple	COLOR
+Puce	COLOR
+Puce red	COLOR
+Pullman Brown	COLOR
+Pullman Green	COLOR
+Pumpkin	COLOR
+Purple Heart	COLOR
+Purple mountain majesty	COLOR
+Purple navy	COLOR
+Purple pizzazz	COLOR
+Purple Plum	COLOR
+Purple taupe	COLOR
+Purpureus	COLOR
+Q–R[edit]	COLOR
+Quartz	COLOR
+Queen blue	COLOR
+Queen pink	COLOR
+Quick Silver	COLOR
+Quinacridone magenta	COLOR
+Rackley	COLOR
+Radical Red	COLOR
+Raisin black	COLOR
+Rajah	COLOR
+Raspberry	COLOR
+Raspberry glace	COLOR
+Raspberry pink	COLOR
+Raspberry rose	COLOR
+Raw Sienna	COLOR
+Raw umber	COLOR
+Razzle dazzle rose	COLOR
+Razzmatazz	COLOR
+Razzmic Berry	COLOR
+Rebecca Purple	COLOR
+Red	COLOR
+Red-brown	COLOR
+Red devil	COLOR
+Red-orange	COLOR
+Red-purple	COLOR
+Red Salsa	COLOR
+Red-violet	COLOR
+Redwood	COLOR
+Regalia	COLOR
+Registration black	COLOR
+Resolution blue	COLOR
+Rhythm	COLOR
+Rich black	COLOR
+Rich brilliant lavender	COLOR
+Rich carmine	COLOR
+Rich electric blue	COLOR
+Rich lavender	COLOR
+Rich lilac	COLOR
+Rich maroon	COLOR
+Rifle green	COLOR
+Roast coffee	COLOR
+Robin egg blue	COLOR
+Rocket metallic	COLOR
+Roman silver	COLOR
+Rose	COLOR
+Rose bonbon	COLOR
+Rose Dust	COLOR
+Rose ebony	COLOR
+Rose gold	COLOR
+Rose madder	COLOR
+Rose pink	COLOR
+Rose quartz	COLOR
+Rose red	COLOR
+Rose taupe	COLOR
+Rose vale	COLOR
+Rosewood	COLOR
+Rosso corsa	COLOR
+Rosy brown	COLOR
+Royal azure	COLOR
+Royal blue	COLOR
+Royal blue	COLOR
+Royal brown	COLOR
+Royal fuchsia	COLOR
+Royal purple	COLOR
+Royal yellow	COLOR
+Ruber	COLOR
+Rubine red	COLOR
+Ruby	COLOR
+Ruby red	COLOR
+Ruddy	COLOR
+Ruddy brown	COLOR
+Ruddy pink	COLOR
+Rufous	COLOR
+Russet	COLOR
+Russian green	COLOR
+Russian violet	COLOR
+Rust	COLOR
+Rusty red	COLOR
+Sacramento State green	COLOR
+Saddle brown	COLOR
+Safety orange	COLOR
+Safety orange	COLOR
+Safety yellow	COLOR
+Saffron	COLOR
+Sage	COLOR
+St. Patrick's blue	COLOR
+Salem	COLOR
+Salmon	COLOR
+Salmon pink	COLOR
+Sand	COLOR
+Sand dune	COLOR
+Sandstorm	COLOR
+Sandy brown	COLOR
+Sandy Tan	COLOR
+Sandy taupe	COLOR
+Sangria	COLOR
+Sap green	COLOR
+Sapphire	COLOR
+Sapphire blue	COLOR
+Sash orange	COLOR
+Sasquatch Socks	COLOR
+Satin sheen gold	COLOR
+Scarlet	COLOR
+Scarlet	COLOR
+Schauss pink	COLOR
+School bus yellow	COLOR
+Screamin' Green	COLOR
+Sea blue	COLOR
+Sea Foam Green	COLOR
+Sea green	COLOR
+Sea Serpent	COLOR
+Seal brown	COLOR
+Seashell	COLOR
+Selective yellow	COLOR
+Sepia	COLOR
+Shadow	COLOR
+Shadow blue	COLOR
+Shampoo	COLOR
+Shamrock green	COLOR
+Sheen Green	COLOR
+Shimmering Blush	COLOR
+Shiny Shamrock	COLOR
+Shocking pink	COLOR
+Shocking pink	COLOR
+Sienna	COLOR
+Silver	COLOR
+Silver chalice	COLOR
+Silver foil	COLOR
+Silver Lake blue	COLOR
+Silver pink	COLOR
+Silver sand	COLOR
+Sinopia	COLOR
+Sizzling Red	COLOR
+Sizzling Sunset	COLOR
+Skobeloff	COLOR
+Sky blue	COLOR
+Sky magenta	COLOR
+Slate blue	COLOR
+Slate gray	COLOR
+Slimy Green	COLOR
+Smalt	COLOR
+Smashed Pumpkin	COLOR
+Smitten	COLOR
+Smoke	COLOR
+Smokey Topaz	COLOR
+Smoky black	COLOR
+Smoky Topaz	COLOR
+Snow	COLOR
+Soap	COLOR
+Solid pink	COLOR
+Sonic silver	COLOR
+Spartan Crimson	COLOR
+Space cadet	COLOR
+Spanish bistre	COLOR
+Spanish blue	COLOR
+Spanish carmine	COLOR
+Spanish crimson	COLOR
+Spanish gray	COLOR
+Spanish green	COLOR
+Spanish orange	COLOR
+Spanish pink	COLOR
+Spanish red	COLOR
+Spanish sky blue	COLOR
+Spanish violet	COLOR
+Spanish viridian	COLOR
+Spicy mix	COLOR
+Spiro Disco Ball	COLOR
+Spring bud	COLOR
+Spring Frost	COLOR
+Spring green	COLOR
+Star command blue	COLOR
+Steel blue	COLOR
+Steel pink	COLOR
+Steel Teal	COLOR
+Stil de grain yellow	COLOR
+Stizza	COLOR
+Stormcloud	COLOR
+Straw	COLOR
+Strawberry	COLOR
+Sugar Plum	COLOR
+Sunburnt Cyclops	COLOR
+Sunglow	COLOR
+Sunny	COLOR
+Sunray	COLOR
+Sunset	COLOR
+Sunset orange	COLOR
+Super pink	COLOR
+Sweet Brown	COLOR
+Tan	COLOR
+Tangelo	COLOR
+Tangerine	COLOR
+Tangerine yellow	COLOR
+Tango pink	COLOR
+Tart Orange	COLOR
+Taupe	COLOR
+Taupe gray	COLOR
+Tea green	COLOR
+Tea rose	COLOR
+Tea rose	COLOR
+Teal	COLOR
+Teal blue	COLOR
+Teal deer	COLOR
+Teal green	COLOR
+Telemagenta	COLOR
+Temptress	COLOR
+Tenné	COLOR
+Terra cotta	COLOR
+Thistle	COLOR
+Thulian pink	COLOR
+Tickle Me Pink	COLOR
+Tiffany Blue	COLOR
+Tiger's eye	COLOR
+Timberwolf	COLOR
+Titanium	COLOR
+Titanium yellow	COLOR
+Tomato	COLOR
+Toolbox	COLOR
+Topaz	COLOR
+Tractor red	COLOR
+Trolley Grey	COLOR
+Tropical rain forest	COLOR
+Tropical violet	COLOR
+True Blue	COLOR
+Tufts Blue	COLOR
+Tulip	COLOR
+Tumbleweed	COLOR
+Turkish rose	COLOR
+Turquoise	COLOR
+Turquoise blue	COLOR
+Turquoise green	COLOR
+Turquoise Surf	COLOR
+Turtle green	COLOR
+Tuscan	COLOR
+Tuscan brown	COLOR
+Tuscan red	COLOR
+Tuscan tan	COLOR
+Tuscany	COLOR
+Twilight lavender	COLOR
+Tyrian purple	COLOR
+UA blue	COLOR
+UA red	COLOR
+Ube	COLOR
+UCLA Blue	COLOR
+UCLA Gold	COLOR
+UFO Green	COLOR
+Ultramarine	COLOR
+Ultramarine blue	COLOR
+Ultra pink	COLOR
+Ultra red	COLOR
+Umber	COLOR
+Unbleached silk	COLOR
+United Nations blue	COLOR
+University of California Gold	COLOR
+University of Tennessee Orange	COLOR
+Unmellow yellow	COLOR
+UP Forest green	COLOR
+UP Maroon	COLOR
+Upsdell red	COLOR
+Urobilin	COLOR
+USAFA blue	COLOR
+USC Cardinal	COLOR
+USC Gold	COLOR
+Utah Crimson	COLOR
+Vampire black	COLOR
+Van Dyke Brown	COLOR
+Vanilla	COLOR
+Vanilla ice	COLOR
+Vegas gold	COLOR
+Venetian red	COLOR
+Verdigris	COLOR
+Vermilion	COLOR
+Vermilion	COLOR
+Veronica	COLOR
+Very light azure	COLOR
+Very light blue	COLOR
+Very light malachite green	COLOR
+Very light tangelo	COLOR
+Very pale orange	COLOR
+Very pale yellow	COLOR
+Violet	COLOR
+Violet-blue	COLOR
+Violet-red	COLOR
+Violin Brown	COLOR
+Viridian	COLOR
+Viridian green	COLOR
+Vista blue	COLOR
+Vivid amber	COLOR
+Vivid auburn	COLOR
+Vivid burgundy	COLOR
+Vivid cerise	COLOR
+Vivid cerulean	COLOR
+Vivid crimson	COLOR
+Vivid gamboge	COLOR
+Vivid lime green	COLOR
+Vivid malachite	COLOR
+Vivid mulberry	COLOR
+Vivid orange	COLOR
+Vivid orange peel	COLOR
+Vivid orchid	COLOR
+Vivid raspberry	COLOR
+Vivid red	COLOR
+Vivid red-tangelo	COLOR
+Vivid sky blue	COLOR
+Vivid tangelo	COLOR
+Vivid tangerine	COLOR
+Vivid vermilion	COLOR
+Vivid violet	COLOR
+Vivid yellow	COLOR
+Volt	COLOR
+Wageningen Green	COLOR
+Warm black	COLOR
+Waterspout	COLOR
+Weldon Blue	COLOR
+Wenge	COLOR
+Wheat	COLOR
+White	COLOR
+White chocolate	COLOR
+White smoke	COLOR
+Wild blue yonder	COLOR
+Wild orchid	COLOR
+Wild Strawberry	COLOR
+Wild watermelon	COLOR
+Willpower orange	COLOR
+Windsor tan	COLOR
+Wine	COLOR
+Wine dregs	COLOR
+Winter Sky	COLOR
+Winter Wizard	COLOR
+Wintergreen Dream	COLOR
+Wisteria	COLOR
+Wood brown	COLOR
+Xanadu	COLOR
+Yale Blue	COLOR
+Yankees blue	COLOR
+Yellow	COLOR
+Yellow-green	COLOR
+Yellow Orange	COLOR
+Yellow rose	COLOR
+Yellow Sunshine	COLOR
+Zaffre	COLOR
+Zinnwaldite brown	COLOR
+Zomp	COLOR

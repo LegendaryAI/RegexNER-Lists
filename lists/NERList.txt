@@ -1,0 +1,16 @@
+(a|A)lcoholic beverage	BeveragesWithAlcohol.txt
+drink	BeveragesWithoutAlcohol.txt
+board game	BoardGames.txt
+chemical element	ChemicalElements.txt
+color	Colors.txt
+fruit	Fruits.txt
+furniture	Furniture.txt
+insect	Insects.txt
+mammal	Mammal.txt
+mineral	Minerals.txt
+instrument	Musical_Instruments.txt
+genre	MusicalGenre.txt
+(profession|job)	Professions.txt
+religion	Religions.txt
+sport	Sports.txt
+vegetable	Vegetables.txt

@@ -1,0 +1,154 @@
+Aardvark	MAMMAL
+African Elephant	MAMMAL
+African Wild Dog	MAMMAL
+African Lion	MAMMAL
+Arabian Camel 	MAMMAL
+Arctic Fox	MAMMAL
+Arctic Hare	MAMMAL
+Armadillo	MAMMAL
+Asian Elephant	MAMMAL
+Asian Lion	MAMMAL
+Aye-Aye	MAMMAL
+Baboon	MAMMAL
+Bactrian Camel	MAMMAL
+Beaver	MAMMAL
+Black Bear	MAMMAL
+Beluga Whale	MAMMAL
+Bengal Tiger	MAMMAL
+Black Bear	MAMMAL
+Black-Footed Ferret	MAMMAL
+Black Rhinoceros	MAMMAL
+Blue Whale	MAMMAL
+Bobcat	MAMMAL
+Bottlenose Dolphin	MAMMAL
+Brown Bear	MAMMAL
+California Sea Lion	MAMMAL
+Caribou	MAMMAL
+Cheetah	MAMMAL
+Chimpanzee	MAMMAL
+Chipmunk	MAMMAL
+Clouded Leopard	MAMMAL
+Common Vampire Bat 	MAMMAL
+Common Wombat	MAMMAL
+Cottontail Rabbit	MAMMAL
+Cougar	MAMMAL
+Coyote	MAMMAL
+Dingo	MAMMAL
+Domestic Cat	MAMMAL
+Domestic Dog	MAMMAL
+Dugong	MAMMAL
+Eastern Gray Kangaroo	MAMMAL
+African Elephant	MAMMAL
+Asian Elephant	MAMMAL
+Elephant Seal	MAMMAL
+Fennec Fox	MAMMAL
+Fossa	MAMMAL
+"Fox, Fennec"	MAMMAL
+Fur Seal	MAMMAL
+Gelada	MAMMAL
+Giant Anteater	MAMMAL
+Giant Panda	MAMMAL
+Giant River Otter	MAMMAL
+Gibbon	MAMMAL
+Giraffe	MAMMAL
+Golden Lion Tamarin	MAMMAL
+Gray Whale	MAMMAL
+Grizzly Bear	MAMMAL
+Groundhog	MAMMAL
+Harbor Porpoise	MAMMAL
+Hare	MAMMAL
+Arctic Hare	MAMMAL
+Harp Seal	MAMMAL
+Hawaiian Monk Seal	MAMMAL
+Hedgehog	MAMMAL
+Hippopotamus	MAMMAL
+Horse	MAMMAL
+Howler Monkey	MAMMAL
+Humpback Whale	MAMMAL
+Impala	MAMMAL
+Indian Rhinoceros	MAMMAL
+Jaguar	MAMMAL
+Killer Whale	MAMMAL
+Kinkajou	MAMMAL
+Koala	MAMMAL
+Leopard	MAMMAL
+Leopard Seal	MAMMAL
+African Lion	MAMMAL
+Little Red Flying Fox	MAMMAL
+Llama	MAMMAL
+Lynx	MAMMAL
+Manatee	MAMMAL
+Mandrill	MAMMAL
+Meerkat	MAMMAL
+Mongoose	MAMMAL
+Moose	MAMMAL
+Elk	MAMMAL
+Mountain Goat	MAMMAL
+Mountain Gorilla	MAMMAL
+Mountain Lion	MAMMAL
+Mouse Lemur	MAMMAL
+Musk-Ox	MAMMAL
+Mole Rat	MAMMAL
+Narwhal	MAMMAL
+North American River Otter	MAMMAL
+Nutria	MAMMAL
+Ocelot	MAMMAL
+Opossum	MAMMAL
+Orangutan	MAMMAL
+Orca Killer Whale	MAMMAL
+Ozark Big-Eared Bat	MAMMAL
+Platypus	MAMMAL
+Polar Bear	MAMMAL
+Porcupine	MAMMAL
+Prairie Dog	MAMMAL
+Proboscis Monkey	MAMMAL
+Pronghorn	MAMMAL
+Przewalski’s Horse	MAMMAL
+Raccoon	MAMMAL
+Red Fox	MAMMAL
+Red Kangaroo	MAMMAL
+Red Leaf Monkey	MAMMAL
+Red Panda	MAMMAL
+Red Uakari	MAMMAL
+Rhesus Monkey	MAMMAL
+Right Whale	MAMMAL
+Ringed Seal	MAMMAL
+Ring-Tailed Lemur	MAMMAL
+Rocky Mountain Bighorn Sheep	MAMMAL
+Sea Otter	MAMMAL
+Siberian Tiger	MAMMAL
+Sifaka	MAMMAL
+Skunk	MAMMAL
+Sloth Bear	MAMMAL
+Snow Leopard	MAMMAL
+Snowshoe Hare	MAMMAL
+Spectacled Bear	MAMMAL
+Sperm Whale	MAMMAL
+Spider Monkey	MAMMAL
+Spotted Hyena	MAMMAL
+Squirrel	MAMMAL
+Steller Sea Lion	MAMMAL
+Sumatran Rhinoceros	MAMMAL
+Sumatran Tiger	MAMMAL
+Sun Bear	MAMMAL
+Tapir	MAMMAL
+Tasmanian Devil	MAMMAL
+Thomson’s Gazelle	MAMMAL
+Three-Toed Sloth	MAMMAL
+Two-Toed Sloth	MAMMAL
+Wallaby	MAMMAL
+Walrus	MAMMAL
+Warthog	MAMMAL
+Water Buffalo	MAMMAL
+Weddell Seal	MAMMAL
+Western Lowland Gorilla	MAMMAL
+White Rhinoceros	MAMMAL
+Whale	MAMMAL
+Humpback Whale	MAMMAL
+Blue Whale	MAMMAL
+White-Eared Kob	MAMMAL
+White-Tailed Deer	MAMMAL
+Wildebeest	MAMMAL
+Wolf	MAMMAL
+Wolverine	MAMMAL
+Zebra	MAMMAL

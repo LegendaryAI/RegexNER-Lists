@@ -1,0 +1,43 @@
+am sure	CERTAIN
+'m sure	CERTAIN
+are sure	CERTAIN
+'re sure	CERTAIN
+sure	CERTAIN
+very sure	CERTAIN
+am absolutely sure	CERTAIN
+'m absolutely sure	CERTAIN
+are absolutely sure	CERTAIN
+am completely sure	CERTAIN
+'m completely sure	CERTAIN
+am totally sure	CERTAIN
+am entirely sure	CERTAIN
+am confident	CERTAIN
+'m confident	CERTAIN
+am very confident	CERTAIN
+'m very confident	CERTAIN
+am absolutely confident	CERTAIN
+'m absolutely confident	CERTAIN
+am completely confident	CERTAIN
+'m completely confident	CERTAIN
+am totally confident	CERTAIN
+'m totally confident	CERTAIN
+am entirely confident	CERTAIN
+'m entirely confident	CERTAIN
+am certain	CERTAIN
+'m certain	CERTAIN
+am very certain	CERTAIN
+'m very certain	CERTAIN
+am absolutely certain	CERTAIN
+'m absolutely certain	CERTAIN
+am completely certain	CERTAIN
+'m completely certain	CERTAIN
+am totally certain	CERTAIN
+'m totally certain	CERTAIN
+am entirely certain	CERTAIN
+'m entirely certain	CERTAIN
+for sure	CERTAIN
+definitely	CERTAIN
+clearly	CERTAIN
+obviously	CERTAIN
+completely	CERTAIN
+fact	CERTAIN

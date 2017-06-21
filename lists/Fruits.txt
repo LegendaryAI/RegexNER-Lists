@@ -1,0 +1,90 @@
+Apple	FRUIT
+Apricot	FRUIT
+Avocado	FRUIT
+Banana	FRUIT
+Bilberry	FRUIT
+Blackberry	FRUIT
+Blackcurrant	FRUIT
+Blueberry	FRUIT
+Boysenberry	FRUIT
+Currant	FRUIT
+Cherry	FRUIT
+Cherimoya	FRUIT
+Cloudberry	FRUIT
+Coconut	FRUIT
+Cranberry	FRUIT
+Cucumber	FRUIT
+Custard apple	FRUIT
+Damson	FRUIT
+Date	FRUIT
+Dragonfruit	FRUIT
+Durian	FRUIT
+Elderberry	FRUIT
+Feijoa	FRUIT
+Fig	FRUIT
+Goji berry	FRUIT
+Gooseberry	FRUIT
+Grape	FRUIT
+Raisin	FRUIT
+Grapefruit	FRUIT
+Guava	FRUIT
+Honeyberry	FRUIT
+Huckleberry	FRUIT
+Jabuticaba	FRUIT
+Jackfruit	FRUIT
+Jambul	FRUIT
+Jujube	FRUIT
+Juniper berry	FRUIT
+Kiwifruit	FRUIT
+Kumquat	FRUIT
+Lemon	FRUIT
+Lime	FRUIT
+Loquat	FRUIT
+Longan	FRUIT
+Lychee	FRUIT
+Mango	FRUIT
+Marionberry	FRUIT
+Melon	FRUIT
+Cantaloupe	FRUIT
+Honeydew	FRUIT
+Watermelon	FRUIT
+Miracle fruit	FRUIT
+Mulberry	FRUIT
+Nectarine	FRUIT
+Nance	FRUIT
+Olive	FRUIT
+Orange	FRUIT
+Blood orange	FRUIT
+Clementine	FRUIT
+Mandarine	FRUIT
+Tangerine	FRUIT
+Papaya	FRUIT
+Passionfruit	FRUIT
+Peach	FRUIT
+Pear	FRUIT
+Persimmon	FRUIT
+Physalis	FRUIT
+Plantain	FRUIT
+Plum	FRUIT
+Prune	FRUIT
+Pineapple	FRUIT
+Plumcot	FRUIT
+Pomegranate	FRUIT
+Pomelo	FRUIT
+Purple mangosteen	FRUIT
+Quince	FRUIT
+Raspberry	FRUIT
+Salmonberry	FRUIT
+Rambutan	FRUIT
+Redcurrant	FRUIT
+Salal berry	FRUIT
+Salak	FRUIT
+Satsuma	FRUIT
+Soursop	FRUIT
+Star fruit	FRUIT
+Solanum quitoense	FRUIT
+Strawberry	FRUIT
+Tamarillo	FRUIT
+Tamarind	FRUIT
+Ugli fruit	FRUIT
+Yuzu	FRUIT

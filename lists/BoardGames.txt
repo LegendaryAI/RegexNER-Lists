@@ -1,0 +1,370 @@
+\(This Game Is\) Bonkers!	GAME.BOARD
+13 Dead End Drive	GAME.BOARD
+1313 Dead End Drive	GAME.BOARD
+18XX	GAME.BOARD
+221B Baker Street	GAME.BOARD
+30 Seconds	GAME.BOARD
+Abalone	GAME.BOARD
+About Time	GAME.BOARD
+Acquire	GAME.BOARD
+Acquire	GAME.BOARD
+Acronymble	GAME.BOARD
+Adel Verpflichtet	GAME.BOARD
+Afrikan t�hti	GAME.BOARD
+Agon	GAME.BOARD
+Agricola	GAME.BOARD
+Air Charter	GAME.BOARD
+Aksharit	GAME.BOARD
+Aladdin's Dragons	GAME.BOARD
+Alhambra	GAME.BOARD
+Alias	GAME.BOARD
+American Megafauna	GAME.BOARD
+Amun-Re	GAME.BOARD
+Anti-Monopoly	GAME.BOARD
+Arkham Horror	GAME.BOARD
+Articulate!	GAME.BOARD
+Asalto	GAME.BOARD
+Ashta Chamma	GAME.BOARD
+Attack!	GAME.BOARD
+Auf Achse	GAME.BOARD
+Australia	GAME.BOARD
+Axis & Allies	GAME.BOARD
+Backgammon	GAME.BOARD
+Bailout! The Game	GAME.BOARD
+Balderdash	GAME.BOARD
+Bang!	GAME.BOARD
+Barbarossa	GAME.BOARD
+Battle Sheep	GAME.BOARD
+Battleship	GAME.BOARD
+Battlestar Galactica	GAME.BOARD
+Battlestar Galactica: The Board Game	GAME.BOARD
+Betrayal at House on the Hill	GAME.BOARD
+Bezzerwizzer	GAME.BOARD
+Blankety Blank	GAME.BOARD
+Blockade	GAME.BOARD
+Blockhead!	GAME.BOARD
+Blokus	GAME.BOARD
+Blokus	GAME.BOARD
+Blood Bowl	GAME.BOARD
+Blood Feud in New York	GAME.BOARD
+Blue Max	GAME.BOARD
+Bookchase	GAME.BOARD
+Brain Chain	GAME.BOARD
+Brainstorm	GAME.BOARD
+Break the Safe	GAME.BOARD
+Buccaneer	GAME.BOARD
+Buckaroo	GAME.BOARD
+Bul	GAME.BOARD
+Camel Up	GAME.BOARD
+Camelot	GAME.BOARD
+Camp Granada	GAME.BOARD
+Candy Land	GAME.BOARD
+Can't Stop	GAME.BOARD
+Capitol	GAME.BOARD
+Carcassonne	GAME.BOARD
+Careers	GAME.BOARD
+Caribbean	GAME.BOARD
+Carrom	GAME.BOARD
+Cartagena	GAME.BOARD
+Castle Panic	GAME.BOARD
+Castle Risk	GAME.BOARD
+Catan Junior	GAME.BOARD
+Caylus	GAME.BOARD
+Chapayev	GAME.BOARD
+Chaturanga	GAME.BOARD
+Checkers	GAME.BOARD
+Chess	GAME.BOARD
+Chicken Cha Cha Cha	GAME.BOARD
+Chinese Chequers	GAME.BOARD
+Chromino	GAME.BOARD
+Chutes and Ladders	GAME.BOARD
+CirKis	GAME.BOARD
+Civilization	GAME.BOARD
+Clans	GAME.BOARD
+Clue	GAME.BOARD
+Clue Jr.	GAME.BOARD
+Cluedo	GAME.BOARD
+Codenames	GAME.BOARD
+Colt Express	GAME.BOARD
+Concept	GAME.BOARD
+Connect 4	GAME.BOARD
+Conspiracy	GAME.BOARD
+Coppit	GAME.BOARD
+Cosmic Encounter	GAME.BOARD
+Cranium	GAME.BOARD
+Crash! The bankrupt game	GAME.BOARD
+Crokinole	GAME.BOARD
+Cross and Circle game	GAME.BOARD
+Crosstrack	GAME.BOARD
+Dald�s	GAME.BOARD
+Dark Tower	GAME.BOARD
+Dart Wars	GAME.BOARD
+Dead of Winter	GAME.BOARD
+Diamant	GAME.BOARD
+Diamond	GAME.BOARD
+Die Macher	GAME.BOARD
+Diplomacy	GAME.BOARD
+Dixit	GAME.BOARD
+Djambi	GAME.BOARD
+Domaine	GAME.BOARD
+Dominion	GAME.BOARD
+Don't Break the Ice	GAME.BOARD
+Don't Miss The Boat	GAME.BOARD
+Don't Quote Me	GAME.BOARD
+Don't Wake Daddy	GAME.BOARD
+Doom: The Boardgame	GAME.BOARD
+Dorn	GAME.BOARD
+Downfall	GAME.BOARD
+Drunter und Dr�ber	GAME.BOARD
+Dune	GAME.BOARD
+D&D	GAME.BOARD
+Dungeons & Dragons	GAME.BOARD
+DVONN	GAME.BOARD
+Eclipse	GAME.BOARD
+El Grande	GAME.BOARD
+Elfenland	GAME.BOARD
+Enchanted Forest	GAME.BOARD
+Entdecker	GAME.BOARD
+Escape from Atlantis	GAME.BOARD
+Evo	GAME.BOARD
+Fanorona	GAME.BOARD
+Farlander	GAME.BOARD
+Fictionary	GAME.BOARD
+Figure It Out	GAME.BOARD
+Finance	GAME.BOARD
+Fireball Island	GAME.BOARD
+Focus	GAME.BOARD
+Forbidden Bridge	GAME.BOARD
+Forbidden Island	GAME.BOARD
+Freedom: The Underground Railroad	GAME.BOARD
+Fresco	GAME.BOARD
+Game For Fame	GAME.BOARD
+Game of the Generals	GAME.BOARD
+Ghettopoly	GAME.BOARD
+Ghosts	GAME.BOARD
+GiftTRAP	GAME.BOARD
+Giganten	GAME.BOARD
+Gipf	GAME.BOARD
+Girl Talk	GAME.BOARD
+Gnip Gnop	GAME.BOARD
+Go	GAME.BOARD
+Go	GAME.BOARD
+Great Train Robbery	GAME.BOARD
+GridIron Master	GAME.BOARD
+Guess Who?	GAME.BOARD
+Halma	GAME.BOARD
+Hanabi	GAME.BOARD
+Hare and Hounds	GAME.BOARD
+Heroscape	GAME.BOARD
+Hex	GAME.BOARD
+Hey, That's My Fish!	GAME.BOARD
+Hi Ho! Cherry-O	GAME.BOARD
+Hijara	GAME.BOARD
+History of the World	GAME.BOARD
+Hooop!	GAME.BOARD
+Hotels	GAME.BOARD
+Hungry Hungry Hippos	GAME.BOARD
+Husker Du?	GAME.BOARD
+I'm the Boss!	GAME.BOARD
+Imperial	GAME.BOARD
+Indigo	GAME.BOARD
+Ingenious	GAME.BOARD
+Inkan aarre	GAME.BOARD
+Isola	GAME.BOARD
+Janggi	GAME.BOARD
+Java	GAME.BOARD
+Jenga	GAME.BOARD
+Journey through Europe	GAME.BOARD
+Junta	GAME.BOARD
+Kalah	GAME.BOARD
+Kamisado	GAME.BOARD
+Kerplunk	GAME.BOARD
+Khet	GAME.BOARD
+Kill Doctor Lucky	GAME.BOARD
+King of Tokyo	GAME.BOARD
+King Oil	GAME.BOARD
+Kingdoms	GAME.BOARD
+K�benhavn	GAME.BOARD
+Kolejka	GAME.BOARD
+Krazy Maze	GAME.BOARD
+Landslide	GAME.BOARD
+Las Vegas	GAME.BOARD
+Le Havre	GAME.BOARD
+Le Jeu de la Guerre	GAME.BOARD
+Life	GAME.BOARD
+Liu po	GAME.BOARD
+Logo Board Game	GAME.BOARD
+Lord of the Rings	GAME.BOARD
+Lords of Waterdeep	GAME.BOARD
+Lost Cities	GAME.BOARD
+L�wenherz	GAME.BOARD
+Luck of the Draw	GAME.BOARD
+Ludo	GAME.BOARD
+Ludo	GAME.BOARD
+Mad Gab	GAME.BOARD
+Mahjong	GAME.BOARD
+Makruk	GAME.BOARD
+Malefiz	GAME.BOARD
+Mall Madness	GAME.BOARD
+Manhattan	GAME.BOARD
+Master Labyrinth	GAME.BOARD
+Master Mind	GAME.BOARD
+Masterpiece	GAME.BOARD
+Matching game	GAME.BOARD
+Medici	GAME.BOARD
+Medina	GAME.BOARD
+Mensch �rgere dich nicht	GAME.BOARD
+Merchant of Venus	GAME.BOARD
+Mexica	GAME.BOARD
+Mikado	GAME.BOARD
+Mine a million	GAME.BOARD
+Modern Art	GAME.BOARD
+Monopoly	GAME.BOARD
+Monopoly Junior	GAME.BOARD
+Mouse Trap	GAME.BOARD
+Mutant Meeples	GAME.BOARD
+Niagara	GAME.BOARD
+Nine Men's Morris	GAME.BOARD
+Obsession	GAME.BOARD
+Okey	GAME.BOARD
+Omega Virus	GAME.BOARD
+Onyx	GAME.BOARD
+Operation	GAME.BOARD
+Operation	GAME.BOARD
+Ouija	GAME.BOARD
+Ouk Chatrang	GAME.BOARD
+Outrage!	GAME.BOARD
+Pack & Stack	GAME.BOARD
+Pandemic	GAME.BOARD
+Parcheesi	GAME.BOARD
+Parqu�s	GAME.BOARD
+Pay Day	GAME.BOARD
+Perfection	GAME.BOARD
+Personal Preference	GAME.BOARD
+Pictionary	GAME.BOARD
+Pirate's Cove	GAME.BOARD
+Plateau	GAME.BOARD
+Polarity	GAME.BOARD
+Poleconomy	GAME.BOARD
+Power Grid	GAME.BOARD
+Primordial Soup	GAME.BOARD
+Princes of Florence	GAME.BOARD
+Puerto Rico	GAME.BOARD
+P�NCT	GAME.BOARD
+Puzzle	GAME.BOARD
+Qin	GAME.BOARD
+Quarto	GAME.BOARD
+Quoridor	GAME.BOARD
+Qwirkle	GAME.BOARD
+Ra	GAME.BOARD
+Rail Baron	GAME.BOARD
+Rappakalja	GAME.BOARD
+Razzia	GAME.BOARD
+Ricochet Robots	GAME.BOARD
+Risk	GAME.BOARD
+Risk 2210 AD	GAME.BOARD
+Rithmomachy	GAME.BOARD
+Rivers, Roads & Rails	GAME.BOARD
+RoboRally	GAME.BOARD
+Roulette	GAME.BOARD
+Rummikub	GAME.BOARD
+Rummoli	GAME.BOARD
+S�hkku	GAME.BOARD
+Saint Petersburg	GAME.BOARD
+Samurai	GAME.BOARD
+San Marco	GAME.BOARD
+Santorini	GAME.BOARD
+Scattergories	GAME.BOARD
+Scene It	GAME.BOARD
+Scotland Yard	GAME.BOARD
+Scoundrels of Skullport	GAME.BOARD
+Scrabble	GAME.BOARD
+Senet	GAME.BOARD
+Sentinels of the Multiverse	GAME.BOARD
+Sequence	GAME.BOARD
+Shadow Hunters	GAME.BOARD
+Shadows Over Camelot	GAME.BOARD
+Shatar	GAME.BOARD
+Shatranj	GAME.BOARD
+Sherlock Holmes: Consulting Detective	GAME.BOARD
+Shogi	GAME.BOARD
+Shogun/Samurai Swords	GAME.BOARD
+Simon	GAME.BOARD
+Sittuyin	GAME.BOARD
+Skip bo	GAME.BOARD
+Skirrid	GAME.BOARD
+Small World	GAME.BOARD
+Snakes and Ladders	GAME.BOARD
+Solarquest	GAME.BOARD
+Sorry!	GAME.BOARD
+Space Alert	GAME.BOARD
+Space Hop	GAME.BOARD
+Space Hulk	GAME.BOARD
+Splendor	GAME.BOARD
+Spy Alley	GAME.BOARD
+Squatter	GAME.BOARD
+Squatter	GAME.BOARD
+Star Wars Epic Duels	GAME.BOARD
+Star Wars Tactics	GAME.BOARD
+StarCraft: The Board Game	GAME.BOARD
+Stock Ticker	GAME.BOARD
+Strange Synergy	GAME.BOARD
+Stratego	GAME.BOARD
+Subbuteo	GAME.BOARD
+Sugoroku	GAME.BOARD
+Summit	GAME.BOARD
+T�b	GAME.BOARD
+Tablut	GAME.BOARD
+Taj Mahal	GAME.BOARD
+Take It Easy	GAME.BOARD
+Take Off!	GAME.BOARD
+Tantrix	GAME.BOARD
+TEG	GAME.BOARD
+Terra Mystica	GAME.BOARD
+The Great Train Robbery	GAME.BOARD
+The Kids of Catan	GAME.BOARD
+The London Game	GAME.BOARD
+The Mad Magazine Game	GAME.BOARD
+The Magic Labyrinth	GAME.BOARD
+The Really Nasty Horse Racing Game	GAME.BOARD
+The Settlers of Catan	GAME.BOARD
+Through the Desert	GAME.BOARD
+Thurn and Taxis	GAME.BOARD
+Ticket to Ride	GAME.BOARD
+Ticket to Ride	GAME.BOARD
+Tigris & Euphrates	GAME.BOARD
+Tikal	GAME.BOARD
+Timberland	GAME.BOARD
+Time's Up!	GAME.BOARD
+Titan	GAME.BOARD
+Top Secret Spies	GAME.BOARD
+Torres	GAME.BOARD
+Totopoly	GAME.BOARD
+Tracks to Telluride	GAME.BOARD
+TransAmerica	GAME.BOARD
+Trivia Crack	GAME.BOARD
+Trivial Pursuit	GAME.BOARD
+Trouble	GAME.BOARD
+Tsuro	GAME.BOARD
+Tsuro of the Seas	GAME.BOARD
+Twilight Imperium	GAME.BOARD
+Twilight Struggle	GAME.BOARD
+Twin Tin Bots	GAME.BOARD
+Twister	GAME.BOARD
+Ubongo	GAME.BOARD
+Uncle Wiggily	GAME.BOARD
+Upwords	GAME.BOARD
+Vanished Planet	GAME.BOARD
+Villa Paletti	GAME.BOARD
+Vinci	GAME.BOARD
+Wari	GAME.BOARD
+Wooper	GAME.BOARD
+X-COM	GAME.BOARD
+Xiangqi	GAME.BOARD
+Yahtzee	GAME.BOARD
+YINSH	GAME.BOARD
+Yut	GAME.BOARD
+Z�RTZ	GAME.BOARD
+Zingo!	GAME.BOARD
+Zombies!!!	GAME.BOARD
+Zoophoria	GAME.BOARD

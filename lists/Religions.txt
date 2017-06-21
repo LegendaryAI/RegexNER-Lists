@@ -1,0 +1,63 @@
+Adventism	RELIGION
+Adventist	RELIGION
+Agnostic	RELIGION
+Ahmadiyya	RELIGION
+Alevism	RELIGION
+Amyraldism	RELIGION
+Anabaptism	RELIGION
+Anabaptist	RELIGION
+Atheist	RELIGION
+Bahá'í	RELIGION
+Baptist	RELIGION
+Buddhism	RELIGION
+Buddhist	RELIGION
+Calvinism	RELIGION
+Cao Dai	RELIGION
+Catholic	RELIGION
+Christian	RELIGION
+Christianity	RELIGION
+Confucianists	RELIGION
+Conservative Judaism	RELIGION
+Eastern Orthodox	RELIGION
+Evangelical	RELIGION
+Greek Orthodox	RELIGION
+Greek Orthodox Jew	RELIGION
+Haredi Judaism	RELIGION
+Hindu	RELIGION
+Hinduism	RELIGION
+Ibadi	RELIGION
+Islam	RELIGION
+Jainism	RELIGION
+Jew	RELIGION
+Jewish	RELIGION
+Judaism	RELIGION
+Judaism	RELIGION
+Lutheran	RELIGION
+Lutheranism	RELIGION
+Methodism	RELIGION
+Methodist	RELIGION
+Modern Orthodox Judaism	RELIGION
+Mormon	RELIGION
+Muslim	RELIGION
+Neo-Paganism	RELIGION
+Orthodox	RELIGION
+Orthodox Judaism	RELIGION
+Protestant	RELIGION
+Protestantism	RELIGION
+Quranism	RELIGION
+Rastafarianism	RELIGION
+Reform Judaism	RELIGION
+Roman Catholic	RELIGION
+Secular	RELIGION
+Seventh-day Adventist	RELIGION
+Shi'a	RELIGION
+Shinto	RELIGION
+Sikhism	RELIGION
+Southern Baptist	RELIGION
+Spiritism	RELIGION
+Sufism	RELIGION
+Sunni	RELIGION
+Taoists	RELIGION
+Tenrikyo	RELIGION
+Unitarian Universalism	RELIGION
+Zoroastrianism	RELIGION

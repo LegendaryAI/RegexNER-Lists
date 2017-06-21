@@ -1,0 +1,133 @@
+almost	MAYBE
+apparent	MAYBE
+apparently	MAYBE
+appear	MAYBE
+appeared	MAYBE
+appears	MAYBE
+approximately	MAYBE
+are thinking	MAYBE
+argue	MAYBE
+argued	MAYBE
+argues	MAYBE
+around	MAYBE
+as far as I know	MAYBE
+as far as we know	MAYBE
+as far as he knows	MAYBE
+as far as she knows	MAYBE
+as far as they know	MAYBE
+assume	MAYBE
+assumed	MAYBE
+best bet	MAYBE
+broadly	MAYBE
+certain amount	MAYBE
+certain extent	MAYBE
+certain level	MAYBE
+claim	MAYBE
+claimed	MAYBE
+claims	MAYBE
+could	MAYBE
+couldn't	MAYBE
+doubt	MAYBE
+doubtful	MAYBE
+essentially	MAYBE
+estimate	MAYBE
+estimated	MAYBE
+fairly	MAYBE
+feel	MAYBE
+feels	MAYBE
+felt	MAYBE
+frequently	MAYBE
+from my perspective	MAYBE
+from one perspective	MAYBE
+from our perspective	MAYBE
+from this perspective	MAYBE
+generally	MAYBE
+good chance	MAYBE
+hopefully	MAYBE
+i believe	MAYBE
+i guess	MAYBE
+i hope	MAYBE
+i think	MAYBE
+if not	MAYBE
+in general	MAYBE
+in most cases	MAYBE
+in most instances	MAYBE
+in my opinion	MAYBE
+in my view	MAYBE
+in our opinion	MAYBE
+in our view	MAYBE
+in this view	MAYBE
+indicate	MAYBE
+indicate	MAYBE
+indicated	MAYBE
+indicates	MAYBE
+is thinking 	MAYBE
+largely	MAYBE
+likely	MAYBE
+likely	MAYBE
+mainly	MAYBE
+may	MAYBE
+may	MAYBE
+maybe	MAYBE
+might	MAYBE
+mostly	MAYBE
+not 100%	MAYBE
+not absolutely sure	MAYBE
+not certain	MAYBE
+not confident	MAYBE
+not entirely certain	MAYBE
+not entirely sure	MAYBE
+not positive	MAYBE
+not so sure	MAYBE
+not sure	MAYBE
+often	MAYBE
+on the whole	MAYBE
+ought	MAYBE
+perhaps	MAYBE
+plausible	MAYBE
+plausibly	MAYBE
+possible	MAYBE
+possibly	MAYBE
+postulate	MAYBE
+postulated	MAYBE
+postulates	MAYBE
+potentially	MAYBE
+presumable	MAYBE
+presumably	MAYBE
+probable	MAYBE
+probably	MAYBE
+quite	MAYBE
+rather	MAYBE
+relatively	MAYBE
+roughly	MAYBE
+seem	MAYBE
+seems	MAYBE
+should	MAYBE
+sometimes	MAYBE
+somewhat	MAYBE
+suggest	MAYBE
+suggested	MAYBE
+suggests	MAYBE
+supports	MAYBE
+suppose	MAYBE
+supposed	MAYBE
+supposes	MAYBE
+suspect	MAYBE
+suspects	MAYBE
+tend to	MAYBE
+tended to	MAYBE
+tends to	MAYBE
+thinking	MAYBE
+to my knowledge	MAYBE
+typical	MAYBE
+typically	MAYBE
+uncertain	MAYBE
+uncertainly	MAYBE
+unclear	MAYBE
+unclearly	MAYBE
+unlikely	MAYBE
+unsure	MAYBE
+usually	MAYBE
+we hope	MAYBE
+we think	MAYBE
+would	MAYBE
