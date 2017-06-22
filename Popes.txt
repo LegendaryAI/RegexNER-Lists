@@ -1,0 +1,266 @@
+Francis	POPE
+Benedict XVI	POPE
+John Paul II	POPE
+John Paul I	POPE
+Paul VI	POPE
+John XXIII	POPE
+Pius XII	POPE
+Pius XI	POPE
+Benedict XV	POPE
+Pius X	POPE
+Leo XIII	POPE
+Pius IX	POPE
+Gregory XVI	POPE
+Pius VIII	POPE
+Leo XII	POPE
+Pius VII	POPE
+Pius VI	POPE
+Clement XIV	POPE
+Clement XIII	POPE
+Benedict XIV	POPE
+Clement XII	POPE
+Benedict XIII	POPE
+Innocent XIII	POPE
+Clement XI	POPE
+Innocent XII	POPE
+Alexander VIII	POPE
+Innocent XI	POPE
+Clement X	POPE
+Clement IX	POPE
+Alexander VII	POPE
+Innocent X	POPE
+Urban VIII	POPE
+Gregory XV	POPE
+Paul V	POPE
+Leo XI	POPE
+Clement VIII	POPE
+Innocent IX	POPE
+Gregory XIV	POPE
+Urban VII	POPE
+Sixtus V	POPE
+Gregory XIII	POPE
+Pius V	POPE
+Pius IV	POPE
+Paul IV	POPE
+Marcellus II	POPE
+Julius III	POPE
+Paul III	POPE
+Clement VII	POPE
+Hadrian VI	POPE
+Leo X	POPE
+Julius II	POPE
+Pius III	POPE
+Alexander VI	POPE
+Innocent VIII	POPE
+Sixtus IV	POPE
+Paul II	POPE
+Pius II	POPE
+Callistus III	POPE
+Nicholas V	POPE
+Eugene IV	POPE
+Martin V	POPE
+Gregory XII	POPE
+Innocent VII	POPE
+Boniface IX	POPE
+Urban VI	POPE
+Gregory XI	POPE
+Urban V	POPE
+Innocent VI	POPE
+Clement VI	POPE
+Benedict XII	POPE
+John XXII	POPE
+Clement V	POPE
+Benedict XI	POPE
+Boniface VIII	POPE
+Celestine V	POPE
+Nicholas IV	POPE
+Honorius IV	POPE
+Martin IV	POPE
+Nicholas III	POPE
+John XXI	POPE
+Hadrian V	POPE
+Innocent V	POPE
+Gregory X	POPE
+Clement IV	POPE
+Urban IV	POPE
+Alexander IV	POPE
+Innocent IV	POPE
+Celestine IV	POPE
+Gregory IX	POPE
+Honorius III	POPE
+Innocent III	POPE
+Celestine III	POPE
+Clement III	POPE
+Gregory VIII	POPE
+Urban III	POPE
+Lucius III	POPE
+Alexander III	POPE
+Hadrian IV	POPE
+Anastasius IV	POPE
+Eugene III	POPE
+Lucius II	POPE
+Celestine II	POPE
+Innocent II	POPE
+Honorius II	POPE
+Callistus II	POPE
+Gelasius II	POPE
+Paschal II	POPE
+Urban II	POPE
+Victor III	POPE
+Gregory VII	POPE
+Alexander II	POPE
+Nicholas II	POPE
+Stephen IX (X)	POPE
+Victor II	POPE
+Leo IX	POPE
+Damasus II	POPE
+Benedict IX	POPE
+Clement II	POPE
+Gregory VI	POPE
+Benedict IX	POPE
+Sylvester III	POPE
+Benedict IX	POPE
+John XIX	POPE
+Benedict VIII	POPE
+Sergius IV	POPE
+John XVIII	POPE
+John XVII	POPE
+Sylvester II	POPE
+Gregory V	POPE
+John XV	POPE
+John XIV	POPE
+Benedict VII	POPE
+Benedict VI	POPE
+John XIII	POPE
+Benedict V	POPE
+Leo VIII	POPE
+John XII	POPE
+Agapitus II	POPE
+Marinus II	POPE
+Stephen VIII	POPE
+Leo VII	POPE
+John XI	POPE
+Stephen VII	POPE
+Leo VI	POPE
+John X	POPE
+Lando	POPE
+Anastasius III	POPE
+Sergius III	POPE
+Leo V	POPE
+Benedict IV	POPE
+John IX	POPE
+Theodore II	POPE
+Romanus	POPE
+Stephen VI	POPE
+Boniface VI	POPE
+Formosus	POPE
+Stephen V	POPE
+Hadrian III	POPE
+Marinus I	POPE
+John VIII	POPE
+Hadrian II	POPE
+Nicholas I	POPE
+Benedict III	POPE
+Leo IV	POPE
+Sergius II	POPE
+Gregory IV	POPE
+Valentine	POPE
+Eugene II	POPE
+Paschal I	POPE
+Stephen IV	POPE
+Leo III	POPE
+Hadrian I	POPE
+Stephen III	POPE
+Paul	POPE
+Stephen II	POPE
+Zacharias	POPE
+Gregory III	POPE
+Gregory II	POPE
+Constantine	POPE
+Sisinius	POPE
+John VII	POPE
+John VI	POPE
+Sergius I	POPE
+Conon	POPE
+John V	POPE
+Benedict II	POPE
+Leo II	POPE
+Agatho	POPE
+Donus	POPE
+Adeodatus II	POPE
+Vitalian	POPE
+Eugene I	POPE
+Martin I	POPE
+Theodore I	POPE
+John IV	POPE
+Severinus	POPE
+Honorius I	POPE
+Boniface V	POPE
+Adeodatus I	POPE
+Boniface IV	POPE
+Boniface III	POPE
+Sabinian	POPE
+Gregory I	POPE
+Pelagius II	POPE
+Benedict I	POPE
+John III	POPE
+Pelagius I	POPE
+Vigilius	POPE
+Silverius	POPE
+Agapitus I	POPE
+John II	POPE
+Boniface II	POPE
+Felix IV	POPE
+John I	POPE
+Hormisdas	POPE
+Symmachus	POPE
+Anastasius II	POPE
+Gelasius I	POPE
+Felix III	POPE
+Simplicius	POPE
+Hilarus	POPE
+Leo I	POPE
+Sixtus III	POPE
+Celestine I	POPE
+Boniface I	POPE
+Zosimus	POPE
+Innocent I	POPE
+Anastasius I	POPE
+Siricius	POPE
+Damasus I	POPE
+Liberius	POPE
+Julius I	POPE
+Mark	POPE
+Sylvester I	POPE
+Miltiades	POPE
+Eusebius	POPE
+Marcellus I	POPE
+Marcellinus	POPE
+Gaius	POPE
+Eutychian	POPE
+Felix I	POPE
+Dionysius	POPE
+Sixtus II	POPE
+Stephen I	POPE
+Lucius I	POPE
+Cornelius	POPE
+Fabian	POPE
+Anterus	POPE
+Pontian	POPE
+Urban I	POPE
+Callistus	POPE
+Zephyrinus	POPE
+Victor I	POPE
+Eleutherius	POPE
+Soter	POPE
+Anicletus I	POPE
+Pius I	POPE
+Hyginus	POPE
+Telesphorus	POPE
+Sixtus I	POPE
+Alexander I	POPE
+Evaristus	POPE
+Clement I	POPE
+Cletus	POPE
+Linus	POPE
+Peter	POPE

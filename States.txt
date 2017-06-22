@@ -1,0 +1,50 @@
+Alabama	STATE
+Alaska	STATE
+Arizona	STATE
+Arkansas	STATE
+California	STATE
+Colorado	STATE
+Connecticut	STATE
+Delaware	STATE
+Florida	STATE
+Georgia	STATE
+Hawaii	STATE
+Idaho	STATE
+Illinois	STATE
+Indiana	STATE
+Iowa	STATE
+Kansas	STATE
+Kentucky	STATE
+Louisiana	STATE
+Maine	STATE
+Maryland	STATE
+Massachusetts	STATE
+Michigan	STATE
+Minnesota	STATE
+Mississippi	STATE
+Missouri	STATE
+Montana	STATE
+Nebraska	STATE
+Nevada	STATE
+New Hampshire	STATE
+New Jersey	STATE
+New Mexico	STATE
+New York	STATE
+North Carolina	STATE
+North Dakota	STATE
+Ohio	STATE
+Oklahoma	STATE
+Oregon	STATE
+Pennsylvania	STATE
+Rhode Island	STATE
+South Carolina	STATE
+South Dakota	STATE
+Tennessee	STATE
+Texas	STATE
+Utah	STATE
+Vermont	STATE
+Virginia	STATE
+Washington	STATE
+West Virginia	STATE
+Wisconsin	STATE
+Wyoming	STATE

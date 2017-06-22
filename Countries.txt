@@ -1,0 +1,196 @@
+Afghanistan	COUNTRY
+Albania	COUNTRY
+Algeria	COUNTRY
+Andorra	COUNTRY
+Angola	COUNTRY
+Antigua & Deps	COUNTRY
+Argentina	COUNTRY
+Armenia	COUNTRY
+Australia	COUNTRY
+Austria	COUNTRY
+Azerbaijan	COUNTRY
+Bahamas	COUNTRY
+Bahrain	COUNTRY
+Bangladesh	COUNTRY
+Barbados	COUNTRY
+Belarus	COUNTRY
+Belgium	COUNTRY
+Belize	COUNTRY
+Benin	COUNTRY
+Bhutan	COUNTRY
+Bolivia	COUNTRY
+Bosnia Herzegovina	COUNTRY
+Botswana	COUNTRY
+Brazil	COUNTRY
+Brunei	COUNTRY
+Bulgaria	COUNTRY
+Burkina	COUNTRY
+Burundi	COUNTRY
+Cambodia	COUNTRY
+Cameroon	COUNTRY
+Canada	COUNTRY
+Cape Verde	COUNTRY
+Central African Rep	COUNTRY
+Chad	COUNTRY
+Chile	COUNTRY
+China	COUNTRY
+Colombia	COUNTRY
+Comoros	COUNTRY
+Congo	COUNTRY
+Democratic Republic of Congo	COUNTRY
+Costa Rica	COUNTRY
+Croatia	COUNTRY
+Cuba	COUNTRY
+Cyprus	COUNTRY
+Czech Republic	COUNTRY
+Denmark	COUNTRY
+Djibouti	COUNTRY
+Dominica	COUNTRY
+Dominican Republic	COUNTRY
+East Timor	COUNTRY
+Ecuador	COUNTRY
+Egypt	COUNTRY
+El Salvador	COUNTRY
+Equatorial Guinea	COUNTRY
+Eritrea	COUNTRY
+Estonia	COUNTRY
+Ethiopia	COUNTRY
+Fiji	COUNTRY
+Finland	COUNTRY
+France	COUNTRY
+Gabon	COUNTRY
+Gambia	COUNTRY
+Georgia	COUNTRY
+Germany	COUNTRY
+Ghana	COUNTRY
+Greece	COUNTRY
+Grenada	COUNTRY
+Guatemala	COUNTRY
+Guinea	COUNTRY
+Guinea-Bissau	COUNTRY
+Guyana	COUNTRY
+Haiti	COUNTRY
+Honduras	COUNTRY
+Hungary	COUNTRY
+Iceland	COUNTRY
+India	COUNTRY
+Indonesia	COUNTRY
+Iran	COUNTRY
+Iraq	COUNTRY
+Ireland {Republic}	COUNTRY
+Israel	COUNTRY
+Italy	COUNTRY
+Ivory Coast	COUNTRY
+Jamaica	COUNTRY
+Japan	COUNTRY
+Jordan	COUNTRY
+Kazakhstan	COUNTRY
+Kenya	COUNTRY
+Kiribati	COUNTRY
+North Korea	COUNTRY
+South Korea 	COUNTRY
+Kosovo	COUNTRY
+Kuwait	COUNTRY
+Kyrgyzstan	COUNTRY
+Laos	COUNTRY
+Latvia	COUNTRY
+Lebanon	COUNTRY
+Lesotho	COUNTRY
+Liberia	COUNTRY
+Libya	COUNTRY
+Liechtenstein	COUNTRY
+Lithuania	COUNTRY
+Luxembourg	COUNTRY
+Macedonia	COUNTRY
+Madagascar	COUNTRY
+Malawi	COUNTRY
+Malaysia	COUNTRY
+Maldives	COUNTRY
+Mali	COUNTRY
+Malta	COUNTRY
+Marshall Islands	COUNTRY
+Mauritania	COUNTRY
+Mauritius	COUNTRY
+Mexico	COUNTRY
+Micronesia	COUNTRY
+Moldova	COUNTRY
+Monaco	COUNTRY
+Mongolia	COUNTRY
+Montenegro	COUNTRY
+Morocco	COUNTRY
+Mozambique	COUNTRY
+Myanmar	COUNTRY
+Namibia	COUNTRY
+Nauru	COUNTRY
+Nepal	COUNTRY
+Netherlands	COUNTRY
+New Zealand	COUNTRY
+Nicaragua	COUNTRY
+Niger	COUNTRY
+Nigeria	COUNTRY
+Norway	COUNTRY
+Oman	COUNTRY
+Pakistan	COUNTRY
+Palau	COUNTRY
+Panama	COUNTRY
+Papua New Guinea	COUNTRY
+Paraguay	COUNTRY
+Peru	COUNTRY
+Philippines	COUNTRY
+Poland	COUNTRY
+Portugal	COUNTRY
+Qatar	COUNTRY
+Romania	COUNTRY
+Russian Federation	COUNTRY
+Rwanda	COUNTRY
+St Kitts & Nevis	COUNTRY
+St Lucia	COUNTRY
+Saint Vincent & the Grenadines	COUNTRY
+Samoa	COUNTRY
+San Marino	COUNTRY
+Sao Tome & Principe	COUNTRY
+Saudi Arabia	COUNTRY
+Senegal	COUNTRY
+Serbia	COUNTRY
+Seychelles	COUNTRY
+Sierra Leone	COUNTRY
+Singapore	COUNTRY
+Slovakia	COUNTRY
+Slovenia	COUNTRY
+Solomon Islands	COUNTRY
+Somalia	COUNTRY
+South Africa	COUNTRY
+South Sudan	COUNTRY
+Spain	COUNTRY
+Sri Lanka	COUNTRY
+Sudan	COUNTRY
+Suriname	COUNTRY
+Swaziland	COUNTRY
+Sweden	COUNTRY
+Switzerland	COUNTRY
+Syria	COUNTRY
+Taiwan	COUNTRY
+Tajikistan	COUNTRY
+Tanzania	COUNTRY
+Thailand	COUNTRY
+Togo	COUNTRY
+Tonga	COUNTRY
+Trinidad & Tobago	COUNTRY
+Tunisia	COUNTRY
+Turkey	COUNTRY
+Turkmenistan	COUNTRY
+Tuvalu	COUNTRY
+Uganda	COUNTRY
+Ukraine	COUNTRY
+United Arab Emirates	COUNTRY
+United Kingdom	COUNTRY
+United States	COUNTRY
+Uruguay	COUNTRY
+Uzbekistan	COUNTRY
+Vanuatu	COUNTRY
+Vatican City	COUNTRY
+Venezuela	COUNTRY
+Vietnam	COUNTRY
+Yemen	COUNTRY
+Zambia	COUNTRY
+Zimbabwe	COUNTRY

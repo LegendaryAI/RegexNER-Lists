@@ -1,0 +1,45 @@
+George Washington	PRESIDENT
+John Adams	PRESIDENT
+Thomas Jefferson	PRESIDENT
+James Madison	PRESIDENT
+James Monroe	PRESIDENT
+John Quincy Adams	PRESIDENT
+Andrew Jackson	PRESIDENT
+Martin Van Buren	PRESIDENT
+William H. Harrison	PRESIDENT
+John Tyler	PRESIDENT
+James K. Polk	PRESIDENT
+Zachary Taylor	PRESIDENT
+Millard Fillmore	PRESIDENT
+Franklin Pierce	PRESIDENT
+James Buchanan	PRESIDENT
+Abraham Lincoln	PRESIDENT
+Andrew Johnson	PRESIDENT
+Ulysses S. Grant	PRESIDENT
+Rutherford B. Hayes	PRESIDENT
+James A. Garfield	PRESIDENT
+Chester A. Arthur	PRESIDENT
+Grover Cleveland	PRESIDENT
+Benjamin Harrison	PRESIDENT
+Grover Cleveland	PRESIDENT
+William McKinley	PRESIDENT
+Theodore Roosevelt	PRESIDENT
+William H. Taft	PRESIDENT
+Woodrow Wilson	PRESIDENT
+Warren G. Harding	PRESIDENT
+Calvin Coolidge	PRESIDENT
+Herbert Hoover	PRESIDENT
+Franklin D. Roosevelt	PRESIDENT
+Harry S. Truman	PRESIDENT
+Dwight D. Eisenhower	PRESIDENT
+John F. Kennedy	PRESIDENT
+Lyndon B. Johnson	PRESIDENT
+Richard M. Nixon	PRESIDENT
+Gerald R. Ford	PRESIDENT
+Jimmy Carter	PRESIDENT
+Ronald Reagan	PRESIDENT
+George H. W. Bush	PRESIDENT
+Bill Clinton	PRESIDENT
+George W. Bush	PRESIDENT
+Barack Hussein Obama	PRESIDENT
+Donald J. Trump	PRESIDENT

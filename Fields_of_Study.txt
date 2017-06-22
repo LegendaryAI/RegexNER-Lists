@@ -1,0 +1,81 @@
+Africana Studies	FIELD_OF_STUDY
+Agricultural Sciences	FIELD_OF_STUDY
+American Studies	FIELD_OF_STUDY
+Animal Science	FIELD_OF_STUDY
+Anthropology	FIELD_OF_STUDY
+Applied Economics	FIELD_OF_STUDY
+Management	FIELD_OF_STUDY
+Archaeology	FIELD_OF_STUDY
+Architecture	FIELD_OF_STUDY
+Asian Studies	FIELD_OF_STUDY
+Astronomy	FIELD_OF_STUDY
+Atmospheric Science	FIELD_OF_STUDY
+Biological Engineering	FIELD_OF_STUDY
+Biological Sciences	FIELD_OF_STUDY
+Biology and Society	FIELD_OF_STUDY
+Biomedical Engineering	FIELD_OF_STUDY
+Biometry and Statistics	FIELD_OF_STUDY
+Chemical Engineering	FIELD_OF_STUDY
+Chemistry	FIELD_OF_STUDY
+Chemical Biology	FIELD_OF_STUDY
+Asian Studies	FIELD_OF_STUDY
+Civil Engineering	FIELD_OF_STUDY
+Classics	FIELD_OF_STUDY
+Communication	FIELD_OF_STUDY
+Comparative Literature	FIELD_OF_STUDY
+Computer Science	FIELD_OF_STUDY
+Design	FIELD_OF_STUDY
+Environmental Analysis	FIELD_OF_STUDY
+Developmental Sociology	FIELD_OF_STUDY
+Economics	FIELD_OF_STUDY
+Electrical	FIELD_OF_STUDY
+Engineering Physics	FIELD_OF_STUDY
+English	FIELD_OF_STUDY
+Entomology	FIELD_OF_STUDY
+Environmental Sciences	FIELD_OF_STUDY
+Environmental Engineering	FIELD_OF_STUDY
+"Feminist	 GENDER & SEXUALITY STUDIES"	FIELD_OF_STUDY
+Fiber Science	FIELD_OF_STUDY
+Apparel Design	FIELD_OF_STUDY
+Fine Arts	FIELD_OF_STUDY
+Food Science	FIELD_OF_STUDY
+French	FIELD_OF_STUDY
+German	FIELD_OF_STUDY
+German Area Studies	FIELD_OF_STUDY
+Global and Public Health Sciences	FIELD_OF_STUDY
+Global and Public Health Sciences	FIELD_OF_STUDY
+Government	FIELD_OF_STUDY
+History	FIELD_OF_STUDY
+History of Architecture	FIELD_OF_STUDY
+History of Art	FIELD_OF_STUDY
+Hotel Administration	FIELD_OF_STUDY
+Human Biology	FIELD_OF_STUDY
+Human Development	FIELD_OF_STUDY
+Industrial and Labor Relations	FIELD_OF_STUDY
+Information Science	FIELD_OF_STUDY
+Interdisciplinary Studies	FIELD_OF_STUDY
+International Agriculture and Rural Development	FIELD_OF_STUDY
+Italian	FIELD_OF_STUDY
+Landscape Architecture	FIELD_OF_STUDY
+Linguistics	FIELD_OF_STUDY
+Materials Science and Engineering	FIELD_OF_STUDY
+Mathematics	FIELD_OF_STUDY
+Mechanical Engineering	FIELD_OF_STUDY
+Music	FIELD_OF_STUDY
+Near Eastern Studies	FIELD_OF_STUDY
+Nutritional Sciences	FIELD_OF_STUDY
+Operations Research and Engineering	FIELD_OF_STUDY
+Performing and Media Arts	FIELD_OF_STUDY
+Philosophy	FIELD_OF_STUDY
+Physics	FIELD_OF_STUDY
+Plant Science	FIELD_OF_STUDY
+Policy Analysis and Management	FIELD_OF_STUDY
+Psychology	FIELD_OF_STUDY
+Religious Studies	FIELD_OF_STUDY
+Technology Studies	FIELD_OF_STUDY
+Science of Earth Systems	FIELD_OF_STUDY
+Sociology	FIELD_OF_STUDY
+Spanish	FIELD_OF_STUDY
+Statistical Science	FIELD_OF_STUDY
+Urban Studies	FIELD_OF_STUDY
+Viticulture and Enology	FIELD_OF_STUDY

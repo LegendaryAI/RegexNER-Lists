@@ -1,0 +1,10 @@
+Asia	CONTINENT
+Africa	CONTINENT
+Austrailia	CONTINENT
+Antarctica	CONTINENT
+Europe	CONTINENT
+North America	CONTINENT
+South America	CONTINENT
+Oceania	CONTINENT
+	
+	

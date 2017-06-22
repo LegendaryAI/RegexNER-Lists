@@ -1,0 +1,398 @@
+Aral Sea	LAKE
+Bangweulu	LAKE
+Big Stone Lake	LAKE
+Bras d’Or Lake	LAKE
+Caspian Sea	LAKE
+Chiemsee	LAKE
+Chilka Lake	LAKE
+Chott El-Chergui	LAKE
+Chott el-Hodna	LAKE
+Chott El-Jarid	LAKE
+Chott Melrhir	LAKE
+Coeur d’Alene Lake	LAKE
+Crater Lake	LAKE
+Dead Sea	LAKE
+Derwent Water	LAKE
+Dhebar Lake	LAKE
+Dongting Lake	LAKE
+Earn	LAKE
+Finger Lakes	LAKE
+Flathead Lake	LAKE
+Gatun Lake	LAKE
+Great Bear Lake	LAKE
+Great Lake	LAKE
+Great Salt Lake	LAKE
+Great Slave Lake	LAKE
+Grevelingen Lake	LAKE
+Hawea Lake	LAKE
+Hawr Al-Ḥabbāniyyah	LAKE
+Hongze Lake	LAKE
+Hornindals Lake	LAKE
+Hövsgöl Lake	LAKE
+Hume Reservoir	LAKE
+IJsselmeer	LAKE
+Iliamna Lake	LAKE
+Island Lake	LAKE
+Kainji Lake	LAKE
+Kawartha Lakes	LAKE
+Kentucky Lake	LAKE
+Koko Nor	LAKE
+Kolleru Lake	LAKE
+Königssee	LAKE
+Kyoga Lake	LAKE
+Lac Débo	LAKE
+Lac la Ronge	LAKE
+Lac Saint-Jean	LAKE
+Laguna de Bay	LAKE
+Lake Alakol	LAKE
+Lake Albano	LAKE
+Lake Albert	LAKE
+Lake Albert	LAKE
+Lake Alexandrina	LAKE
+Lake Amadeus	LAKE
+Lake Amatitlán	LAKE
+Lake Apanás	LAKE
+Lake Argyle	LAKE
+Lake Assal	LAKE
+Lake Athabasca	LAKE
+Lake Atitlán	LAKE
+Lake Baikal	LAKE
+Lake Balaton	LAKE
+Lake Balkhash	LAKE
+Lake Baringo	LAKE
+Lake Biel	LAKE
+Lake Biwa	LAKE
+Lake Bled	LAKE
+Lake Bosumtwi	LAKE
+Lake Bracciano	LAKE
+Lake Buir	LAKE
+Lake Burragorang	LAKE
+Lake Chad	LAKE
+Lake Champlain	LAKE
+Lake Chapala	LAKE
+Lake Chelan	LAKE
+Lake Chilwa	LAKE
+Lake Chiuta	LAKE
+Lake Chrissie	LAKE
+Lake Chūzenji	LAKE
+Lake Como	LAKE
+Lake Constance	LAKE
+Lake Cuitzeo	LAKE
+Lake Dian	LAKE
+Lake Edward	LAKE
+Lake Elton	LAKE
+Lake Er	LAKE
+Lake Erie	LAKE
+Lake Eucumbene	LAKE
+Lake Eyasi	LAKE
+Lake Eyre	LAKE
+Lake Faguibine	LAKE
+Lake Frome	LAKE
+Lake Gairdner	LAKE
+Lake Garda	LAKE
+Lake Geneva	LAKE
+Lake George	LAKE
+Lake Guier	LAKE
+Lake Ḥammār	LAKE
+Lake Hulun	LAKE
+Lake Huron	LAKE
+Lake Ilmen	LAKE
+Lake Ilopango	LAKE
+Lake Inari	LAKE
+Lake Iseo	LAKE
+Lake Izabal	LAKE
+Lake Kariba	LAKE
+Lake Khanka	LAKE
+Lake Kisale	LAKE
+Lake Kivu	LAKE
+Lake Ladoga	LAKE
+Lake Lanao	LAKE
+Lake Lauricocha	LAKE
+Lake Llanquihue	LAKE
+Lake Lucerne	LAKE
+Lake Lugano	LAKE
+Lake Magadi	LAKE
+Lake Maggiore	LAKE
+Lake Mai-Ndombe	LAKE
+Lake Mainit	LAKE
+Lake Mälar	LAKE
+Lake Malombe	LAKE
+Lake Managua	LAKE
+Lake Manapouri	LAKE
+Lake Manitoba	LAKE
+Lake Manyara	LAKE
+Lake Mapam	LAKE
+Lake Mar Chiquita	LAKE
+Lake Mead	LAKE
+Lake Melville	LAKE
+Lake Memphremagog	LAKE
+Lake Michigan	LAKE
+Lake Mjøsa	LAKE
+Lake Mweru	LAKE
+Lake Nahuel Huapí	LAKE
+Lake Naivasha	LAKE
+Lake Nakuru	LAKE
+Lake Näsi	LAKE
+Lake Nasser	LAKE
+Lake Natron	LAKE
+Lake Nemi	LAKE
+Lake Neuchâtel	LAKE
+Lake Ngami	LAKE
+Lake Nicaragua	LAKE
+Lake Nipigon	LAKE
+Lake Nipissing	LAKE
+Lake Nyasa	LAKE
+Lake of Averno	LAKE
+Lake of the Ozarks	LAKE
+Lake of the Woods	LAKE
+Lake Ohrid	LAKE
+Lake Okeechobee	LAKE
+Lake Onega	LAKE
+Lake Ontario	LAKE
+Lake Orta	LAKE
+Lake Päijänne	LAKE
+Lake Peipus	LAKE
+Lake Pend Oreille	LAKE
+Lake Petén Itzá	LAKE
+Lake Pielinen	LAKE
+Lake Pontchartrain	LAKE
+Lake Poopó	LAKE
+Lake Poyang	LAKE
+Lake Prespa	LAKE
+Lake Pukaki	LAKE
+Lake Rotorua	LAKE
+Lake Rudolf	LAKE
+Lake Rukwa	LAKE
+Lake Saimaa	LAKE
+Lake Saint Clair	LAKE
+Lake Scutari	LAKE
+Lake Sevan	LAKE
+Lake Shala	LAKE
+Lake Siljan	LAKE
+Lake Simcoe	LAKE
+Lake Superior	LAKE
+Lake Tahoe	LAKE
+Lake Tai	LAKE
+Lake Tana	LAKE
+Lake Tanganyika	LAKE
+Lake Taupo	LAKE
+Lake Te Anau	LAKE
+Lake Tekapo	LAKE
+Lake Tengiz	LAKE
+Lake Texcoco	LAKE
+Lake Thingvalla	LAKE
+Lake Titicaca	LAKE
+Lake Toba	LAKE
+Lake Todos los Santos	LAKE
+Lake Torrens	LAKE
+Lake Towada	LAKE
+Lake Trasimeno	LAKE
+Lake Tumba	LAKE
+Lake Tuz	LAKE
+Lake Tyers	LAKE
+Lake Tyri	LAKE
+Lake Tyrrell	LAKE
+Lake Urmia	LAKE
+Lake Valencia	LAKE
+Lake Van	LAKE
+Lake Väner	LAKE
+Lake Vätter	LAKE
+Lake Victoria	LAKE
+Lake Volta	LAKE
+Lake Waikaremoana	LAKE
+Lake Winnipeg	LAKE
+Lake Winnipegosis	LAKE
+Lake Winnipesaukee	LAKE
+Lake Wollaston	LAKE
+Lake Yojoa	LAKE
+Lake Ysyk	LAKE
+Lake Zaysan	LAKE
+Lake Zürich	LAKE
+Last Mountain Lake	LAKE
+Lesser Slave Lake	LAKE
+Loch Awe	LAKE
+Loch Katrine	LAKE
+Loch Leven	LAKE
+Loch Lomond	LAKE
+Loch Ness	LAKE
+Loch Shiel	LAKE
+Lough Allen	LAKE
+Lough Corrib	LAKE
+Lough Derg	LAKE
+Lough Erne	LAKE
+Lough Mask	LAKE
+Lough Neagh	LAKE
+Lough Ree	LAKE
+Malebo Pool	LAKE
+Menindee Lakes	LAKE
+Mistassini Lake	LAKE
+Moosehead Lake	LAKE
+Muskoka Lakes	LAKE
+Mývatn	LAKE
+Naujan Lake	LAKE
+Neusiedler Lake	LAKE
+Neusiedler Lake	LAKE
+Pulicat Lake	LAKE
+Pyramid Lake	LAKE
+Rainy Lake	LAKE
+Rangeley Lakes	LAKE
+Reelfoot Lake	LAKE
+Reindeer Lake	LAKE
+River Tummel	LAKE
+Salton Sea	LAKE
+Sambhar Salt Lake	LAKE
+Saranac Lakes	LAKE
+Sea of Galilee	LAKE
+Sevier Lake	LAKE
+Soap Lake	LAKE
+Soda Lake	LAKE
+Štrbské Pleso	LAKE
+Taal Lake	LAKE
+Tegernsee	LAKE
+Teshekpuk Lake	LAKE
+Tonle Sap	LAKE
+Ullswater	LAKE
+Utah Lake	LAKE
+Võrtsjärv	LAKE
+Wakatipu Lake	LAKE
+Wanaka Lake	LAKE
+Webster Lake	LAKE
+Windermere	LAKE
+Wissel Lakes	LAKE
+Wular Lake	LAKE
+Yellowstone Lake	LAKE
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

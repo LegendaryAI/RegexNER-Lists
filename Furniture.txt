@@ -116,3 +116,4 @@ Wine rack	FURNITURE
 Wine table	FURNITURE
 Workbench	FURNITURE
 Writing desk	FURNITURE
+

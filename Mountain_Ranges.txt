@@ -1,0 +1,653 @@
+Abajo Mountains	MOUNTAIN_RANGE
+Absaroka Range	MOUNTAIN_RANGE
+Abukuma Mountains	MOUNTAIN_RANGE
+Acaraí Mountains	MOUNTAIN_RANGE
+Adirondack Mountains	MOUNTAIN_RANGE
+Aimorés Mountains	MOUNTAIN_RANGE
+Akademii Nauk Range	MOUNTAIN_RANGE
+Al-Ḥajar	MOUNTAIN_RANGE
+Alban Hills	MOUNTAIN_RANGE
+Alps	MOUNTAIN_RANGE
+Altai Mountains	MOUNTAIN_RANGE
+Altun Mountains	MOUNTAIN_RANGE
+Amambaí Mountains	MOUNTAIN_RANGE
+Amargosa Range	MOUNTAIN_RANGE
+Anaimalai Hills	MOUNTAIN_RANGE
+Andes Mountains	MOUNTAIN_RANGE
+Annamese Cordillera	MOUNTAIN_RANGE
+Annapurna	MOUNTAIN_RANGE
+Anti-Lebanon Mountains	MOUNTAIN_RANGE
+Appalachian Mountains	MOUNTAIN_RANGE
+Apuseni Mountains	MOUNTAIN_RANGE
+Aravalli Range	MOUNTAIN_RANGE
+Arkatag Mountains	MOUNTAIN_RANGE
+Assam Himalayas	MOUNTAIN_RANGE
+Atakora Mountains	MOUNTAIN_RANGE
+Atlas Mountains	MOUNTAIN_RANGE
+Aurès	MOUNTAIN_RANGE
+Azov Upland	MOUNTAIN_RANGE
+Baetic Cordillera	MOUNTAIN_RANGE
+Bago Mountains	MOUNTAIN_RANGE
+Bakhuis Gebergte	MOUNTAIN_RANGE
+Bakony Mountains	MOUNTAIN_RANGE
+Balaghat Range	MOUNTAIN_RANGE
+Bale Mountains	MOUNTAIN_RANGE
+Balkan Mountains	MOUNTAIN_RANGE
+Bavarian Alps	MOUNTAIN_RANGE
+Bavarian Alps	MOUNTAIN_RANGE
+Berkshire Hills	MOUNTAIN_RANGE
+Bernina Alps	MOUNTAIN_RANGE
+Beskid Mountains	MOUNTAIN_RANGE
+Big Belt Mountains	MOUNTAIN_RANGE
+Black Mountain Range	MOUNTAIN_RANGE
+Black Mountains	MOUNTAIN_RANGE
+Boggeragh Mountains	MOUNTAIN_RANGE
+Bohemian Forest	MOUNTAIN_RANGE
+Bong Range	MOUNTAIN_RANGE
+Brecon Beacons	MOUNTAIN_RANGE
+Bugti Hills	MOUNTAIN_RANGE
+Bükk Mountains	MOUNTAIN_RANGE
+Cairngorm Mountains	MOUNTAIN_RANGE
+Canastra Mountains	MOUNTAIN_RANGE
+Caraballo Mountains	MOUNTAIN_RANGE
+Carnic Alps	MOUNTAIN_RANGE
+Carpathian Mountains	MOUNTAIN_RANGE
+Carrizo Mountains	MOUNTAIN_RANGE
+Caucasus	MOUNTAIN_RANGE
+Central Brāhui Range	MOUNTAIN_RANGE
+Central Russian Upland	MOUNTAIN_RANGE
+Cévennes	MOUNTAIN_RANGE
+Changbai Mountains	MOUNTAIN_RANGE
+Cherangany Hills	MOUNTAIN_RANGE
+Chersky Range	MOUNTAIN_RANGE
+Chin Hills	MOUNTAIN_RANGE
+Chisos Mountains	MOUNTAIN_RANGE
+Chūgoku Range	MOUNTAIN_RANGE
+Chung-yang Range	MOUNTAIN_RANGE
+Cithaeron	MOUNTAIN_RANGE
+Coast Ranges	MOUNTAIN_RANGE
+Cockscomb Range	MOUNTAIN_RANGE
+Columbia Mountains	MOUNTAIN_RANGE
+Comeragh Mountains	MOUNTAIN_RANGE
+Cordillera Blanca	MOUNTAIN_RANGE
+Cordillera Central	MOUNTAIN_RANGE
+Cordillera de Talamanca	MOUNTAIN_RANGE
+Cordillera de Vilcabamba	MOUNTAIN_RANGE
+Cordillera Domeyko	MOUNTAIN_RANGE
+Cordillera Negra	MOUNTAIN_RANGE
+Cordillera Neo-Volcánica	MOUNTAIN_RANGE
+Cordillera Real	MOUNTAIN_RANGE
+Cottian Alps	MOUNTAIN_RANGE
+Cottian Alps	MOUNTAIN_RANGE
+Crazy Mountains	MOUNTAIN_RANGE
+Cristal Mountains	MOUNTAIN_RANGE
+Cuillin Hills	MOUNTAIN_RANGE
+Cynoscephalae	MOUNTAIN_RANGE
+Cypress Hills	MOUNTAIN_RANGE
+Da Hinggan Range	MOUNTAIN_RANGE
+Daba Mountains	MOUNTAIN_RANGE
+Dabie Mountains	MOUNTAIN_RANGE
+Daïa Mountains	MOUNTAIN_RANGE
+Dâmrei Mountains	MOUNTAIN_RANGE
+Dangrek Mountains	MOUNTAIN_RANGE
+Dauphiné Alps	MOUNTAIN_RANGE
+Daxue Mountains	MOUNTAIN_RANGE
+Deosai Mountains	MOUNTAIN_RANGE
+Dhaulagiri	MOUNTAIN_RANGE
+Diablo Range	MOUNTAIN_RANGE
+Dinaric Alps	MOUNTAIN_RANGE
+Dolomites	MOUNTAIN_RANGE
+Drakensberg	MOUNTAIN_RANGE
+East African mountains	MOUNTAIN_RANGE
+Elburz Mountains	MOUNTAIN_RANGE
+Elk Mountains	MOUNTAIN_RANGE
+Espinhaço Mountains	MOUNTAIN_RANGE
+Estrela Mountains	MOUNTAIN_RANGE
+Ethiopian Mountains	MOUNTAIN_RANGE
+Finisterre Range	MOUNTAIN_RANGE
+Franklin Mountains	MOUNTAIN_RANGE
+Front Range	MOUNTAIN_RANGE
+Galty Mountains	MOUNTAIN_RANGE
+Geral Mountains	MOUNTAIN_RANGE
+Gerês Mountains	MOUNTAIN_RANGE
+Ghats	MOUNTAIN_RANGE
+Giant Mountains	MOUNTAIN_RANGE
+Gir Range	MOUNTAIN_RANGE
+Glarus Alps	MOUNTAIN_RANGE
+Grampian Mountains	MOUNTAIN_RANGE
+Gran Sasso d’Italia	MOUNTAIN_RANGE
+Grande Range	MOUNTAIN_RANGE
+Great Dyke	MOUNTAIN_RANGE
+Great Himalayas	MOUNTAIN_RANGE
+Great Smoky Mountains	MOUNTAIN_RANGE
+Greater Caucasus	MOUNTAIN_RANGE
+Green Mountains	MOUNTAIN_RANGE
+Haedo Range	MOUNTAIN_RANGE
+Hangayn Mountains	MOUNTAIN_RANGE
+Harischandra Range	MOUNTAIN_RANGE
+Henry Mountains	MOUNTAIN_RANGE
+Hentiyn Mountains	MOUNTAIN_RANGE
+Hercynian orogenic belt	MOUNTAIN_RANGE
+Hida Range	MOUNTAIN_RANGE
+Hidaka Range	MOUNTAIN_RANGE
+Himalayas	MOUNTAIN_RANGE
+Hindu Kush	MOUNTAIN_RANGE
+Hövsgöl Mountains	MOUNTAIN_RANGE
+Huang Mountains	MOUNTAIN_RANGE
+Ida	MOUNTAIN_RANGE
+Innuitian Mountains	MOUNTAIN_RANGE
+Japanese Alps	MOUNTAIN_RANGE
+Javadi Hills	MOUNTAIN_RANGE
+Javorníky	MOUNTAIN_RANGE
+Jayawijaya Mountains	MOUNTAIN_RANGE
+Jeseník Mountains	MOUNTAIN_RANGE
+Jiuling Mountains	MOUNTAIN_RANGE
+Jizera Mountains	MOUNTAIN_RANGE
+Jotunheim Mountains	MOUNTAIN_RANGE
+Julian Alps	MOUNTAIN_RANGE
+Jura Mountains	MOUNTAIN_RANGE
+Kaikoura Range	MOUNTAIN_RANGE
+Kailas Range	MOUNTAIN_RANGE
+Kaimur Hills	MOUNTAIN_RANGE
+Kantō Range	MOUNTAIN_RANGE
+Karakoram Range	MOUNTAIN_RANGE
+Karawanken	MOUNTAIN_RANGE
+Kilimanjaro	MOUNTAIN_RANGE
+Kīrthar Range	MOUNTAIN_RANGE
+Kitakami Mountains	MOUNTAIN_RANGE
+Kitami Mountains	MOUNTAIN_RANGE
+Klamath Mountains	MOUNTAIN_RANGE
+Knockmealdown Mountains	MOUNTAIN_RANGE
+Knuckles	MOUNTAIN_RANGE
+Kolyma Upland	MOUNTAIN_RANGE
+Koolau Range	MOUNTAIN_RANGE
+Kopet-Dag Range	MOUNTAIN_RANGE
+Krâvanh Mountains	MOUNTAIN_RANGE
+Kumaun Himalayas	MOUNTAIN_RANGE
+Kunlun Mountains	MOUNTAIN_RANGE
+Kyrgyz Ala Range	MOUNTAIN_RANGE
+Ladakh Range	MOUNTAIN_RANGE
+Laramie Mountains	MOUNTAIN_RANGE
+LaSal Mountains	MOUNTAIN_RANGE
+Laurentian Mountains	MOUNTAIN_RANGE
+Lebanon Mountains	MOUNTAIN_RANGE
+Lebombo Mountains	MOUNTAIN_RANGE
+Lepontine Alps	MOUNTAIN_RANGE
+Lepontine Alps	MOUNTAIN_RANGE
+Lesser Caucasus	MOUNTAIN_RANGE
+Lesser Himalayas	MOUNTAIN_RANGE
+Little Belt Mountains	MOUNTAIN_RANGE
+Liupan Mountains	MOUNTAIN_RANGE
+Lu Mountains	MOUNTAIN_RANGE
+Lüliang Mountains	MOUNTAIN_RANGE
+Lusatian Mountains	MOUNTAIN_RANGE
+Macgillycuddy’s Reeks	MOUNTAIN_RANGE
+Mafinga Hills	MOUNTAIN_RANGE
+Mahadeo Hills	MOUNTAIN_RANGE
+Maikala Range	MOUNTAIN_RANGE
+Main Range	MOUNTAIN_RANGE
+Mandara Mountains	MOUNTAIN_RANGE
+Mantiqueira Mountains	MOUNTAIN_RANGE
+Maoke Mountains	MOUNTAIN_RANGE
+Maritime Alps	MOUNTAIN_RANGE
+Matopo Hills	MOUNTAIN_RANGE
+Mátra Mountains	MOUNTAIN_RANGE
+Maya Mountains	MOUNTAIN_RANGE
+Mecsek Mountains	MOUNTAIN_RANGE
+Medicine Bow Mountains	MOUNTAIN_RANGE
+Mesabi Range	MOUNTAIN_RANGE
+Middle Atlas	MOUNTAIN_RANGE
+Min Mountains	MOUNTAIN_RANGE
+Misiones Mountains	MOUNTAIN_RANGE
+Mission Range	MOUNTAIN_RANGE
+Mizo Hills	MOUNTAIN_RANGE
+Mogollon Mountains	MOUNTAIN_RANGE
+Monadhliath Mountains	MOUNTAIN_RANGE
+Monashee Mountains	MOUNTAIN_RANGE
+Monchique Mountains	MOUNTAIN_RANGE
+Monteregian Hills	MOUNTAIN_RANGE
+Mount Carmel	MOUNTAIN_RANGE
+Mount Pentelicus	MOUNTAIN_RANGE
+Mountains of Perijá	MOUNTAIN_RANGE
+Mourne Mountains	MOUNTAIN_RANGE
+Mufu Mountains	MOUNTAIN_RANGE
+Muztagata Range	MOUNTAIN_RANGE
+Nāga Hills	MOUNTAIN_RANGE
+Nallamala Range	MOUNTAIN_RANGE
+Nan Mountains	MOUNTAIN_RANGE
+Nangnim Mountains	MOUNTAIN_RANGE
+Nepal Himalayas	MOUNTAIN_RANGE
+Niedere Tauern	MOUNTAIN_RANGE
+Nilgiri Hills	MOUNTAIN_RANGE
+Nimba Range	MOUNTAIN_RANGE
+Noric Alps	MOUNTAIN_RANGE
+Notre Dame Mountains	MOUNTAIN_RANGE
+Nyainqêntanglha Mountains	MOUNTAIN_RANGE
+Olympic Mountains	MOUNTAIN_RANGE
+Oquirrh Mountains	MOUNTAIN_RANGE
+Ore Mountains	MOUNTAIN_RANGE
+Orlice Mountains	MOUNTAIN_RANGE
+Orobie Alps	MOUNTAIN_RANGE
+Ōu Mountains	MOUNTAIN_RANGE
+Ouachita Mountains	MOUNTAIN_RANGE
+Owen Stanley Range	MOUNTAIN_RANGE
+Ozark Mountains	MOUNTAIN_RANGE
+Pacaraima Mountains	MOUNTAIN_RANGE
+Pachaimalai Hills	MOUNTAIN_RANGE
+Pacific mountain system	MOUNTAIN_RANGE
+Palkonda Hills	MOUNTAIN_RANGE
+Palni Hills	MOUNTAIN_RANGE
+Panamint Range	MOUNTAIN_RANGE
+Parecis Mountains	MOUNTAIN_RANGE
+Parima Mountains	MOUNTAIN_RANGE
+Park Range	MOUNTAIN_RANGE
+Pasto Knot	MOUNTAIN_RANGE
+Pennine Alps	MOUNTAIN_RANGE
+Phetchabun Range	MOUNTAIN_RANGE
+Pindus Mountains	MOUNTAIN_RANGE
+Pīr Panjāl Range	MOUNTAIN_RANGE
+Pīr Panjāl Range	MOUNTAIN_RANGE
+Pocono Mountains	MOUNTAIN_RANGE
+Pontic Mountains	MOUNTAIN_RANGE
+Provence Alps	MOUNTAIN_RANGE
+Punjab Himalayas	MOUNTAIN_RANGE
+Purvachal	MOUNTAIN_RANGE
+Putoran Mountains	MOUNTAIN_RANGE
+Pyrenees	MOUNTAIN_RANGE
+Qarataū	MOUNTAIN_RANGE
+Qilian Mountains	MOUNTAIN_RANGE
+Qin Mountains	MOUNTAIN_RANGE
+Rakhine Mountains	MOUNTAIN_RANGE
+Rhaetian Alps	MOUNTAIN_RANGE
+Rhätikon Mountains	MOUNTAIN_RANGE
+Rhodope Mountains	MOUNTAIN_RANGE
+Richardson Mountains	MOUNTAIN_RANGE
+Rila	MOUNTAIN_RANGE
+Rocky Mountains	MOUNTAIN_RANGE
+Roncador Mountains	MOUNTAIN_RANGE
+Rondane	MOUNTAIN_RANGE
+Ruwenzori Range	MOUNTAIN_RANGE
+Sacramento Mountains	MOUNTAIN_RANGE
+Saharan Atlas	MOUNTAIN_RANGE
+Saint Elias Mountains	MOUNTAIN_RANGE
+Salt Range	MOUNTAIN_RANGE
+San Andres Mountains	MOUNTAIN_RANGE
+San Bernardino Mountains	MOUNTAIN_RANGE
+San Gabriel Mountains	MOUNTAIN_RANGE
+San Juan Mountains	MOUNTAIN_RANGE
+San Rafael Mountains	MOUNTAIN_RANGE
+Sandia Mountains	MOUNTAIN_RANGE
+Sangre de Cristo Mountains	MOUNTAIN_RANGE
+Santa Ana Mountains	MOUNTAIN_RANGE
+Santa Lucia Range	MOUNTAIN_RANGE
+Santa Marta Mountains	MOUNTAIN_RANGE
+Santa Monica Mountains	MOUNTAIN_RANGE
+Santiago Mountains	MOUNTAIN_RANGE
+Šar Mountains	MOUNTAIN_RANGE
+Saruwaged Range	MOUNTAIN_RANGE
+Sarykol Range	MOUNTAIN_RANGE
+Satpura Range	MOUNTAIN_RANGE
+Savoy Alps	MOUNTAIN_RANGE
+Sawatch Range	MOUNTAIN_RANGE
+Sayan Mountains	MOUNTAIN_RANGE
+Selkirk Mountains	MOUNTAIN_RANGE
+Selwyn Mountains	MOUNTAIN_RANGE
+Serra do Mar	MOUNTAIN_RANGE
+Seshachalam Hills	MOUNTAIN_RANGE
+Shevaroy Hills	MOUNTAIN_RANGE
+Sierra de Baoruco	MOUNTAIN_RANGE
+Sierra Madre	MOUNTAIN_RANGE
+Sierra Madre de Chiapas	MOUNTAIN_RANGE
+Sierra Maestra	MOUNTAIN_RANGE
+Sierra Morena	MOUNTAIN_RANGE
+Sierra Nevada	MOUNTAIN_RANGE
+Sierra San Pedro Mártir	MOUNTAIN_RANGE
+Sikhote-Alin	MOUNTAIN_RANGE
+Silvretta Group	MOUNTAIN_RANGE
+Simien Mountains	MOUNTAIN_RANGE
+Sintra Mountains	MOUNTAIN_RANGE
+Siwalik Range	MOUNTAIN_RANGE
+Slovak Ore Mountains	MOUNTAIN_RANGE
+Slovenia	MOUNTAIN_RANGE
+Sneeuberg	MOUNTAIN_RANGE
+Sobaek Mountains	MOUNTAIN_RANGE
+Southern Alps	MOUNTAIN_RANGE
+Sperrin Mountains	MOUNTAIN_RANGE
+Spīn Ghar Range	MOUNTAIN_RANGE
+Sredna Mountains	MOUNTAIN_RANGE
+Stanovoy Range	MOUNTAIN_RANGE
+Sudeten	MOUNTAIN_RANGE
+Sudirman Range	MOUNTAIN_RANGE
+Sulitelma	MOUNTAIN_RANGE
+Swaziland	MOUNTAIN_RANGE
+Świętokrzyskie Mountains	MOUNTAIN_RANGE
+T’aebaek Mountains	MOUNTAIN_RANGE
+Taconic Range	MOUNTAIN_RANGE
+Taihang Mountains	MOUNTAIN_RANGE
+Taïyetos Mountains	MOUNTAIN_RANGE
+Talas Alataū Range	MOUNTAIN_RANGE
+Talish Mountains	MOUNTAIN_RANGE
+Talladega Mountain	MOUNTAIN_RANGE
+Tanggula Mountains	MOUNTAIN_RANGE
+Tannu-Ola	MOUNTAIN_RANGE
+Tatra Mountains	MOUNTAIN_RANGE
+Taunus	MOUNTAIN_RANGE
+Taurus Mountains	MOUNTAIN_RANGE
+Tehachapi Mountains	MOUNTAIN_RANGE
+Tell Atlas	MOUNTAIN_RANGE
+Temblor Range	MOUNTAIN_RANGE
+Teshio Range	MOUNTAIN_RANGE
+Teton Range	MOUNTAIN_RANGE
+Thuringian Forest	MOUNTAIN_RANGE
+Tiantai Mountains	MOUNTAIN_RANGE
+Tibesti	MOUNTAIN_RANGE
+Tien Shan	MOUNTAIN_RANGE
+Torngat Mountains	MOUNTAIN_RANGE
+Trans-Alai Range	MOUNTAIN_RANGE
+Trans-Himalayas	MOUNTAIN_RANGE
+Transylvanian Alps	MOUNTAIN_RANGE
+Troodos Mountains	MOUNTAIN_RANGE
+Tumuc-Humac Mountains	MOUNTAIN_RANGE
+Turkistan Range	MOUNTAIN_RANGE
+Uinta Mountains	MOUNTAIN_RANGE
+Unaka Mountains	MOUNTAIN_RANGE
+Ural Mountains	MOUNTAIN_RANGE
+Uralian orogenic belt	MOUNTAIN_RANGE
+Valdai Hills	MOUNTAIN_RANGE
+Velikonda Range	MOUNTAIN_RANGE
+Verkhoyansk Mountains	MOUNTAIN_RANGE
+Vérmio Mountains	MOUNTAIN_RANGE
+Victor Emanuel Range	MOUNTAIN_RANGE
+Vindhya Range	MOUNTAIN_RANGE
+Virunga Mountains	MOUNTAIN_RANGE
+Vosges	MOUNTAIN_RANGE
+Waianae Range	MOUNTAIN_RANGE
+Wasatch Range	MOUNTAIN_RANGE
+White Mountains	MOUNTAIN_RANGE
+Wicklow Mountains	MOUNTAIN_RANGE
+Wilhelmina Gebergte	MOUNTAIN_RANGE
+Wind River Range	MOUNTAIN_RANGE
+Wrangell Mountains	MOUNTAIN_RANGE
+Wu Mountains	MOUNTAIN_RANGE
+Wugong Mountains	MOUNTAIN_RANGE
+Wuyi Mountains	MOUNTAIN_RANGE
+Xiao Hinggan Range	MOUNTAIN_RANGE
+Yablonovy Range	MOUNTAIN_RANGE
+Yin Mountains	MOUNTAIN_RANGE
+Zagros Mountains	MOUNTAIN_RANGE
+Zambales Mountains	MOUNTAIN_RANGE
+Zaskar Range	MOUNTAIN_RANGE
+Zeravshan Range	MOUNTAIN_RANGE
+Zillertal Alps	MOUNTAIN_RANGE
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
