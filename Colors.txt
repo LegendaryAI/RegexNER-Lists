@@ -78,7 +78,7 @@ Begonia	COLOR
 Beaver	COLOR
 Beige	COLOR
 B'dazzled blue	COLOR
-Big dip o’ruby	COLOR
+Big dip oâ€™ruby	COLOR
 Big Foot Feet	COLOR
 Bisque	COLOR
 Bistre	COLOR
@@ -140,6 +140,7 @@ Brilliant lavender	COLOR
 Brilliant rose	COLOR
 Brink pink	COLOR
 British racing green	COLOR
+Brown COLOR
 Brown Chocolate	COLOR
 Brown Yellow	COLOR
 Bronze	COLOR
@@ -170,8 +171,8 @@ Cadmium green	COLOR
 Cadmium orange	COLOR
 Cadmium red	COLOR
 Cadmium yellow	COLOR
-Café au lait	COLOR
-Café noir	COLOR
+CafÃ© au lait	COLOR
+CafÃ© noir	COLOR
 Cal Poly green	COLOR
 Cambridge Blue	COLOR
 Camel	COLOR
@@ -538,7 +539,7 @@ Grizzly	COLOR
 Grullo	COLOR
 Guppie green	COLOR
 Gunmetal	COLOR
-Halayà úbe	COLOR
+HalayÅ• Ãºbe	COLOR
 Halloween orange	COLOR
 Han blue	COLOR
 Han purple	COLOR
@@ -815,7 +816,7 @@ Myrtle green	COLOR
 Mystic	COLOR
 Mystic Maroon	COLOR
 Mystic Red	COLOR
-N–O[edit]	COLOR
+Nâ€“O[edit]	COLOR
 Nadeshiko pink	COLOR
 Napier green	COLOR
 Naples yellow	COLOR
@@ -1007,7 +1008,7 @@ Purple pizzazz	COLOR
 Purple Plum	COLOR
 Purple taupe	COLOR
 Purpureus	COLOR
-Q–R[edit]	COLOR
+Qâ€“R[edit]	COLOR
 Quartz	COLOR
 Queen blue	COLOR
 Queen pink	COLOR
@@ -1112,6 +1113,8 @@ Satin sheen gold	COLOR
 Scarlet	COLOR
 Scarlet	COLOR
 Schauss pink	COLOR
+Scheele's Green COLOR
+Schloss Green COLOR
 School bus yellow	COLOR
 Screamin' Green	COLOR
 Sea blue	COLOR
@@ -1126,6 +1129,7 @@ Shadow	COLOR
 Shadow blue	COLOR
 Shampoo	COLOR
 Shamrock green	COLOR
+Sheela's Green COLOR
 Sheen Green	COLOR
 Shimmering Blush	COLOR
 Shiny Shamrock	COLOR
@@ -1212,7 +1216,7 @@ Teal deer	COLOR
 Teal green	COLOR
 Telemagenta	COLOR
 Temptress	COLOR
-Tenné	COLOR
+TennÃ©	COLOR
 Terra cotta	COLOR
 Thistle	COLOR
 Thulian pink	COLOR
@@ -1265,6 +1269,7 @@ Unmellow yellow	COLOR
 UP Forest green	COLOR
 UP Maroon	COLOR
 Upsdell red	COLOR
+Uranium Orange COLOR
 Urobilin	COLOR
 USAFA blue	COLOR
 USC Cardinal	COLOR
@@ -1324,6 +1329,7 @@ Wenge	COLOR
 Wheat	COLOR
 White	COLOR
 White chocolate	COLOR
+White lead COLOR
 White smoke	COLOR
 Wild blue yonder	COLOR
 Wild orchid	COLOR
