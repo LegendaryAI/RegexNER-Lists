@@ -140,7 +140,7 @@ Brilliant lavender	COLOR
 Brilliant rose	COLOR
 Brink pink	COLOR
 British racing green	COLOR
-Brown	COLOR
+Brown COLOR
 Brown Chocolate	COLOR
 Brown Yellow	COLOR
 Bronze	COLOR
@@ -1116,6 +1116,8 @@ Satin sheen gold	COLOR
 Scarlet	COLOR
 Scarlet	COLOR
 Schauss pink	COLOR
+Scheele's Green COLOR
+Schloss Green COLOR
 School bus yellow	COLOR
 Screamin' Green	COLOR
 Sea blue	COLOR
@@ -1130,6 +1132,7 @@ Shadow	COLOR
 Shadow blue	COLOR
 Shampoo	COLOR
 Shamrock green	COLOR
+Sheela's Green COLOR
 Sheen Green	COLOR
 Shimmering Blush	COLOR
 Shiny Shamrock	COLOR
@@ -1269,6 +1272,7 @@ Unmellow yellow	COLOR
 UP Forest green	COLOR
 UP Maroon	COLOR
 Upsdell red	COLOR
+Uranium Orange COLOR
 Urobilin	COLOR
 USAFA blue	COLOR
 USC Cardinal	COLOR
@@ -1328,6 +1332,7 @@ Wenge	COLOR
 Wheat	COLOR
 White	COLOR
 White chocolate	COLOR
+White lead COLOR
 White smoke	COLOR
 Wild blue yonder	COLOR
 Wild orchid	COLOR
