@@ -100,3 +100,27 @@ KSL LANGUAGE
 Taiwanese Sign Language  LANGUAGE
 TSL LANGUAGE
 Amami Oshima Sign Language  LANGUAGE
+Māori	LANGUAGE
+Maori	LANGUAGE
+Mandarin Chinese	LANGUAGE
+Cantonese Chinese	LANGUAGE
+Yue Chinese	LANGUAGE
+Yue	LANGUAGE
+Chinese	LANGUAGE
+Tongan	LANGUAGE
+Tagalog	LANGUAGE
+New Zealand Sign Language	LANGUAGE
+NZSL	LANGUAGE
+Punjabi	LANGUAGE
+Gujarati	LANGUAGE
+Khmer	LANGUAGE
+Fijian	LANGUAGE
+Serbo-Croatian	LANGUAGE
+Sinhala	LANGUAGE
+Min Chinese	LANGUAGE
+Bahasa Indonesia	LANGUAGE
+Bahasa Malasia	LANGUAGE
+Niuean	LANGUAGE
+Karelian	LANGUAGE
+American Sign Language  LANGUAGE
+ASL LANGUAGE
