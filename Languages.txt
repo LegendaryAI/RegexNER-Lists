@@ -1,9 +1,13 @@
 Afrikaans	LANGUAGE
+Ainu  LANGUAGE
+Ainu Hokkaido LANGUAGE
+Ainu Sakhalin LANGUAGE
 Albanian	LANGUAGE
 Arabic	LANGUAGE
 Armenian	LANGUAGE
 Basque	LANGUAGE
 Bengali	LANGUAGE
+Bosnian	LANGUAGE
 Bulgarian	LANGUAGE
 Catalan	LANGUAGE
 Cambodian	LANGUAGE
@@ -18,6 +22,7 @@ Estonian	LANGUAGE
 Fiji	LANGUAGE
 Finnish	LANGUAGE
 French	LANGUAGE
+Galician	LANGUAGE
 Georgian	LANGUAGE
 German	LANGUAGE
 Greek	LANGUAGE
@@ -42,19 +47,24 @@ Maltese	LANGUAGE
 Maori	LANGUAGE
 Marathi	LANGUAGE
 Mongolian	LANGUAGE
+Montenegrin LANGUAGE
+Navajo	LANGUAGE
 Nepali	LANGUAGE
 Norwegian	LANGUAGE
+Occitan LANGUAGE
 Persian	LANGUAGE
 Polish	LANGUAGE
 Portuguese	LANGUAGE
 Punjabi	LANGUAGE
 Quechua	LANGUAGE
 Romanian	LANGUAGE
+Romansch  LANGUAGE
 Russian	LANGUAGE
 Samoan	LANGUAGE
 Serbian	LANGUAGE
 Slovak	LANGUAGE
 Slovenian	LANGUAGE
+Slovene	LANGUAGE
 Spanish	LANGUAGE
 Swahili	LANGUAGE
 Swedish	LANGUAGE
@@ -71,3 +81,22 @@ Uzbek	LANGUAGE
 Vietnamese	LANGUAGE
 Welsh	LANGUAGE
 Xhosa	LANGUAGE
+Kikai LANGUAGE
+Amami LANGUAGE
+Tokunoshima LANGUAGE
+Okinoerabu  LANGUAGE
+Yoron LANGUAGE
+Kunigami  LANGUAGE
+Okinawan  LANGUAGE
+Miyako  LANGUAGE
+Yaeyama LANGUAGE
+Yonaguni  LANGUAGE
+Bonin LANGUAGE
+Sign Language LANGUAGE
+Japanese Sign Language  LANGUAGE
+JSL LANGUAGE
+Korean Sign Language  LANGUAGE
+KSL LANGUAGE
+Taiwanese Sign Language  LANGUAGE
+TSL LANGUAGE
+Amami Oshima Sign Language  LANGUAGE
