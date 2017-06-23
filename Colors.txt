@@ -78,7 +78,7 @@ Begonia	COLOR
 Beaver	COLOR
 Beige	COLOR
 B'dazzled blue	COLOR
-Big dip o’ruby	COLOR
+Big dip oâ€™ruby	COLOR
 Big Foot Feet	COLOR
 Bisque	COLOR
 Bistre	COLOR
@@ -171,8 +171,8 @@ Cadmium green	COLOR
 Cadmium orange	COLOR
 Cadmium red	COLOR
 Cadmium yellow	COLOR
-Café au lait	COLOR
-Café noir	COLOR
+CafÃ© au lait	COLOR
+CafÃ© noir	COLOR
 Cal Poly green	COLOR
 Cambridge Blue	COLOR
 Camel	COLOR
@@ -540,7 +540,7 @@ Grizzly	COLOR
 Grullo	COLOR
 Guppie green	COLOR
 Gunmetal	COLOR
-Halayà úbe	COLOR
+HalayÅ• Ãºbe	COLOR
 Halloween orange	COLOR
 Han blue	COLOR
 Han purple	COLOR
@@ -627,6 +627,7 @@ Lavender pink	COLOR
 Lavender purple	COLOR
 Lavender rose	COLOR
 Lawn green	COLOR
+Lead White COLOR
 Lemon	COLOR
 Lemon chiffon	COLOR
 Lemon curry	COLOR
@@ -817,7 +818,7 @@ Myrtle green	COLOR
 Mystic	COLOR
 Mystic Maroon	COLOR
 Mystic Red	COLOR
-N–O[edit]	COLOR
+Nâ€“O[edit]	COLOR
 Nadeshiko pink	COLOR
 Napier green	COLOR
 Naples yellow	COLOR
@@ -1010,7 +1011,7 @@ Purple pizzazz	COLOR
 Purple Plum	COLOR
 Purple taupe	COLOR
 Purpureus	COLOR
-Q–R[edit]	COLOR
+Qâ€“R[edit]	COLOR
 Quartz	COLOR
 Queen blue	COLOR
 Queen pink	COLOR
@@ -1215,7 +1216,7 @@ Teal deer	COLOR
 Teal green	COLOR
 Telemagenta	COLOR
 Temptress	COLOR
-Tenné	COLOR
+TennÃ©	COLOR
 Terra cotta	COLOR
 Thistle	COLOR
 Thulian pink	COLOR
