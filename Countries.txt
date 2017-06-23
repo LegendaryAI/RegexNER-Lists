@@ -3,7 +3,11 @@ Albania	COUNTRY
 Algeria	COUNTRY
 Andorra	COUNTRY
 Angola	COUNTRY
+Antigua	COUNTRY
 Antigua & Deps	COUNTRY
+Antigua & Dependencies	COUNTRY
+Antigua and Deps	COUNTRY
+Antigua and Dependencies	COUNTRY
 Argentina	COUNTRY
 Armenia	COUNTRY
 Australia	COUNTRY
@@ -19,7 +23,11 @@ Belize	COUNTRY
 Benin	COUNTRY
 Bhutan	COUNTRY
 Bolivia	COUNTRY
+Bosnia	COUNTRY
 Bosnia Herzegovina	COUNTRY
+Herzegovina	COUNTRY
+Bosnia and Herzegovina	COUNTRY
+Bosnia & Herzegovina	COUNTRY
 Botswana	COUNTRY
 Brazil	COUNTRY
 Brunei	COUNTRY
@@ -31,6 +39,7 @@ Cameroon	COUNTRY
 Canada	COUNTRY
 Cape Verde	COUNTRY
 Central African Rep	COUNTRY
+Central African Republic	COUNTRY
 Chad	COUNTRY
 Chile	COUNTRY
 China	COUNTRY
@@ -42,7 +51,12 @@ Costa Rica	COUNTRY
 Croatia	COUNTRY
 Cuba	COUNTRY
 Cyprus	COUNTRY
+Republic of Cyprus	COUNTRY
+Turkish Republic of Northern Cyprus	COUNTRY
+Northern Cyprus COUNTRY
+Turkish Republic of Cyprus	COUNTRY
 Czech Republic	COUNTRY
+Czechia COUNTRY
 Denmark	COUNTRY
 Djibouti	COUNTRY
 Dominica	COUNTRY
@@ -78,6 +92,12 @@ Indonesia	COUNTRY
 Iran	COUNTRY
 Iraq	COUNTRY
 Ireland {Republic}	COUNTRY
+Ireland	COUNTRY
+Republic of Ireland	COUNTRY
+South Ireland	COUNTRY
+Northern Ireland	COUNTRY
+Southern Ireland	COUNTRY
+North Ireland	COUNTRY
 Israel	COUNTRY
 Italy	COUNTRY
 Ivory Coast	COUNTRY
@@ -87,8 +107,11 @@ Jordan	COUNTRY
 Kazakhstan	COUNTRY
 Kenya	COUNTRY
 Kiribati	COUNTRY
-North Korea	COUNTRY
-South Korea 	COUNTRY
+North Korea COUNTRY
+South Korea COUNTRY
+Democratic People's Republic of Korea COUNTRY
+Republic of Korea COUNTRY
+Korea COUNTRY
 Kosovo	COUNTRY
 Kuwait	COUNTRY
 Kyrgyzstan	COUNTRY
@@ -141,6 +164,7 @@ Poland	COUNTRY
 Portugal	COUNTRY
 Qatar	COUNTRY
 Romania	COUNTRY
+Russia	COUNTRY
 Russian Federation	COUNTRY
 Rwanda	COUNTRY
 St Kitts & Nevis	COUNTRY
@@ -149,6 +173,7 @@ Saint Vincent & the Grenadines	COUNTRY
 Samoa	COUNTRY
 San Marino	COUNTRY
 Sao Tome & Principe	COUNTRY
+Sao Tome and Principe	COUNTRY
 Saudi Arabia	COUNTRY
 Senegal	COUNTRY
 Serbia	COUNTRY
@@ -159,6 +184,8 @@ Slovakia	COUNTRY
 Slovenia	COUNTRY
 Solomon Islands	COUNTRY
 Somalia	COUNTRY
+Puntland	COUNTRY
+Somaliland	COUNTRY
 South Africa	COUNTRY
 South Sudan	COUNTRY
 Spain	COUNTRY
@@ -194,3 +221,5 @@ Vietnam	COUNTRY
 Yemen	COUNTRY
 Zambia	COUNTRY
 Zimbabwe	COUNTRY
+Republic of China COUNTRY
+People's Republic of China COUNTRY
