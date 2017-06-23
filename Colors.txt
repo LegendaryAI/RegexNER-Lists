@@ -140,6 +140,7 @@ Brilliant lavender	COLOR
 Brilliant rose	COLOR
 Brink pink	COLOR
 British racing green	COLOR
+Brown	COLOR
 Brown Chocolate	COLOR
 Brown Yellow	COLOR
 Bronze	COLOR
@@ -534,6 +535,7 @@ Green-cyan	COLOR
 Green Lizard	COLOR
 Green Sheen	COLOR
 Green-yellow	COLOR
+Gray	COLOR
 Grizzly	COLOR
 Grullo	COLOR
 Guppie green	COLOR
@@ -867,6 +869,7 @@ Olivine	COLOR
 Onyx	COLOR
 Opera mauve	COLOR
 Orange peel	COLOR
+Orange	COLOR
 Orange-red	COLOR
 Orange Soda	COLOR
 Orange-yellow	COLOR
