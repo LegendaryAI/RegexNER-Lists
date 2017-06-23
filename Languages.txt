@@ -1,7 +1,7 @@
 Afrikaans	LANGUAGE
-Ainu  LANGUAGE
-Ainu Hokkaido LANGUAGE
-Ainu Sakhalin LANGUAGE
+Ainu	LANGUAGE
+Ainu Hokkaido	LANGUAGE
+Ainu Sakhalin	LANGUAGE
 Albanian	LANGUAGE
 Arabic	LANGUAGE
 Armenian	LANGUAGE
@@ -47,18 +47,18 @@ Maltese	LANGUAGE
 Maori	LANGUAGE
 Marathi	LANGUAGE
 Mongolian	LANGUAGE
-Montenegrin LANGUAGE
+Montenegrin	LANGUAGE
 Navajo	LANGUAGE
 Nepali	LANGUAGE
 Norwegian	LANGUAGE
-Occitan LANGUAGE
+Occitan	LANGUAGE
 Persian	LANGUAGE
 Polish	LANGUAGE
 Portuguese	LANGUAGE
 Punjabi	LANGUAGE
 Quechua	LANGUAGE
 Romanian	LANGUAGE
-Romansch  LANGUAGE
+Romansch	LANGUAGE
 Russian	LANGUAGE
 Samoan	LANGUAGE
 Serbian	LANGUAGE
@@ -81,25 +81,25 @@ Uzbek	LANGUAGE
 Vietnamese	LANGUAGE
 Welsh	LANGUAGE
 Xhosa	LANGUAGE
-Kikai LANGUAGE
-Amami LANGUAGE
-Tokunoshima LANGUAGE
-Okinoerabu  LANGUAGE
-Yoron LANGUAGE
-Kunigami  LANGUAGE
-Okinawan  LANGUAGE
-Miyako  LANGUAGE
-Yaeyama LANGUAGE
-Yonaguni  LANGUAGE
-Bonin LANGUAGE
-Sign Language LANGUAGE
-Japanese Sign Language  LANGUAGE
-JSL LANGUAGE
-Korean Sign Language  LANGUAGE
-KSL LANGUAGE
-Taiwanese Sign Language  LANGUAGE
-TSL LANGUAGE
-Amami Oshima Sign Language  LANGUAGE
+Kikai	LANGUAGE
+Amami	LANGUAGE
+Tokunoshima	LANGUAGE
+Okinoerabu	LANGUAGE
+Yoron	LANGUAGE
+Kunigami	LANGUAGE
+Okinawan	LANGUAGE
+Miyako	LANGUAGE
+Yaeyama	LANGUAGE
+Yonaguni	LANGUAGE
+Bonin	LANGUAGE
+Sign Language	LANGUAGE
+Japanese Sign Language	LANGUAGE
+JSL	LANGUAGE
+Korean Sign Language	LANGUAGE
+KSL	LANGUAGE
+Taiwanese Sign Language	LANGUAGE
+TSL	LANGUAGE
+Amami Oshima Sign Language	LANGUAGE
 Māori	LANGUAGE
 Maori	LANGUAGE
 Mandarin Chinese	LANGUAGE
@@ -122,5 +122,9 @@ Bahasa Indonesia	LANGUAGE
 Bahasa Malasia	LANGUAGE
 Niuean	LANGUAGE
 Karelian	LANGUAGE
-American Sign Language  LANGUAGE
-ASL LANGUAGE
+American Sign Language	LANGUAGE
+ASL	LANGUAGE
+Greenlandic	LANGUAGE
+Sami	LANGUAGE
+Faroese	LANGUAGE
+Hawaiian	LANGUAGE
