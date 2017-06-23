@@ -535,6 +535,7 @@ Green-cyan	COLOR
 Green Lizard	COLOR
 Green Sheen	COLOR
 Green-yellow	COLOR
+Gray	COLOR
 Grizzly	COLOR
 Grullo	COLOR
 Guppie green	COLOR
@@ -626,6 +627,7 @@ Lavender pink	COLOR
 Lavender purple	COLOR
 Lavender rose	COLOR
 Lawn green	COLOR
+Lead White COLOR
 Lemon	COLOR
 Lemon chiffon	COLOR
 Lemon curry	COLOR
@@ -868,6 +870,7 @@ Olivine	COLOR
 Onyx	COLOR
 Opera mauve	COLOR
 Orange peel	COLOR
+Orange	COLOR
 Orange-red	COLOR
 Orange Soda	COLOR
 Orange-yellow	COLOR
