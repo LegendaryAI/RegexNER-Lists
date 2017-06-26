@@ -1,0 +1,58 @@
+Acadia	NATIONAL_PARK
+American Samoa	NATIONAL_PARK
+Arches	NATIONAL_PARK
+Badlands	NATIONAL_PARK
+Big Bend	NATIONAL_PARK
+Biscayne	NATIONAL_PARK
+Black Canyon of the Gunnison	NATIONAL_PARK
+Bryce Canyon	NATIONAL_PARK
+Canyonlands	NATIONAL_PARK
+Capitol Reef	NATIONAL_PARK
+Carlsbad Caverns	NATIONAL_PARK
+Channel Islands	NATIONAL_PARK
+Congaree	NATIONAL_PARK
+Crater Lake	NATIONAL_PARK
+Cuyahoga Valley	NATIONAL_PARK
+Death Valley	NATIONAL_PARK
+Denali	NATIONAL_PARK
+Dry Tortugas	NATIONAL_PARK
+Everglades	NATIONAL_PARK
+Gates of the Arctic	NATIONAL_PARK
+Glacier	NATIONAL_PARK
+Glacier Bay	NATIONAL_PARK
+Grand Canyon	NATIONAL_PARK
+Grand Teton	NATIONAL_PARK
+Great Basin	NATIONAL_PARK
+Great Sand Dunes	NATIONAL_PARK
+Great Smoky Mountains	NATIONAL_PARK
+Guadalupe Mountains	NATIONAL_PARK
+Haleakala	NATIONAL_PARK
+Hawaii Volcanoes	NATIONAL_PARK
+Hot Springs	NATIONAL_PARK
+Isle Royale	NATIONAL_PARK
+Joshua Tree	NATIONAL_PARK
+Katmai	NATIONAL_PARK
+Kenai Fjords	NATIONAL_PARK
+Kings Canyon	NATIONAL_PARK
+Kobuk Valley	NATIONAL_PARK
+Lake Clark	NATIONAL_PARK
+Lassen Volcanic	NATIONAL_PARK
+Mammoth Cave	NATIONAL_PARK
+Mesa Verde	NATIONAL_PARK
+Mount Rainier	NATIONAL_PARK
+North Cascades	NATIONAL_PARK
+Olympic	NATIONAL_PARK
+Petrified Forest	NATIONAL_PARK
+Redwood	NATIONAL_PARK
+Rocky Mountain	NATIONAL_PARK
+Saguaro	NATIONAL_PARK
+Sequoia	NATIONAL_PARK
+Shenandoah	NATIONAL_PARK
+Theodore Roosevelt	NATIONAL_PARK
+Virgin Islands	NATIONAL_PARK
+Voyageurs	NATIONAL_PARK
+Wind Cave	NATIONAL_PARK
+Wrangell - St. Elias	NATIONAL_PARK
+Yellowstone	NATIONAL_PARK
+Yosemite	NATIONAL_PARK
+Zion	NATIONAL_PARK

@@ -1,0 +1,29 @@
+Pork Chops	PORK_PRODUCT
+Smoked Pork Chops	PORK_PRODUCT
+Smoked Ham	PORK_PRODUCT
+Ham	PORK_PRODUCT
+Jowls	PORK_PRODUCT
+Spare Ribs	PORK_PRODUCT
+Baby Back Ribs	PORK_PRODUCT
+Sausage	PORK_PRODUCT
+Shoulders	PORK_PRODUCT
+Bacon	PORK_PRODUCT
+Canadian Bacon	PORK_PRODUCT
+Pork Trimmings	PORK_PRODUCT
+Tenderloins	PORK_PRODUCT
+Boneless Loins	PORK_PRODUCT
+Hocks	PORK_PRODUCT
+Whole Ribs	PORK_PRODUCT
+Cut Rib Strips	PORK_PRODUCT
+Pulled Pork	PORK_PRODUCT
+Sirloin Roasts	PORK_PRODUCT
+Pork Trimmings	PORK_PRODUCT
+Bellies	PORK_PRODUCT
+Tenderloins	PORK_PRODUCT
+Ground Pork	PORK_PRODUCT
+Hot Links	PORK_PRODUCT
+Italian Sausage	PORK_PRODUCT
+Anduille Sausage	PORK_PRODUCT
+Pork Weiners	PORK_PRODUCT
+Chorizo Sausage	PORK_PRODUCT
+Pork Jerky	PORK_PRODUCT

@@ -1,0 +1,21 @@
+Aurora Borealis	NATURAL_WONDER
+Chichén Itza	MODERN_WONDER
+Christ the Redeemer Statue	MODERN_WONDER
+Colosseum	MODERN_WONDER
+Colossus of Rhodes	ANCIENT_WONDER
+Grand Canyon	NATURAL_WONDER
+Great Barrier Reef	NATURAL_WONDER
+Great Pyramid of Giza	ANCIENT_WONDER
+Great Wall of China	MODERN_WONDER
+Hanging Gardens of Babylon	ANCIENT_WONDER
+Harbor of Rio de Janeiro	NATURAL_WONDER
+Lighthouse of Alexandria	ANCIENT_WONDER
+Machu Picchu	MODERN_WONDER
+Mausoleum at Halicarnassus	ANCIENT_WONDER
+Mount Everest	NATURAL_WONDER
+Paricutin	NATURAL_WONDER
+Petra	MODERN_WONDER
+Statue of Zeus at Olympia	ANCIENT_WONDER
+Taj Mahal	MODERN_WONDER
+Temple of Artemis at Ephesus	ANCIENT_WONDER
+Victoria Falls	NATURAL_WONDER
