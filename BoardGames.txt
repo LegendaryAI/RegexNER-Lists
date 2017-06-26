@@ -1,4 +1,4 @@
-\(This Game Is\) Bonkers!	GAME.BOARD
+﻿\(This Game Is\) Bonkers!	GAME.BOARD
 13 Dead End Drive	GAME.BOARD
 1313 Dead End Drive	GAME.BOARD
 18XX	GAME.BOARD
@@ -44,7 +44,7 @@ Blankety Blank	GAME.BOARD
 Blockade	GAME.BOARD
 Blockhead!	GAME.BOARD
 Blokus	GAME.BOARD
-Blokus	GAME.BOARD
+Blokus Trigon	GAME.BOARD
 Blood Bowl	GAME.BOARD
 Blood Feud in New York	GAME.BOARD
 Blue Max	GAME.BOARD

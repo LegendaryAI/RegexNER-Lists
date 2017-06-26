@@ -1,7 +1,7 @@
-﻿Experimental music	MUSICAL_GENRE
+Experimental music	MUSICAL_GENRE
 Noise	MUSICAL_GENRE
 Lo-fi	MUSICAL_GENRE
-Musique concr�te		MUSICAL_GENRE
+Musique concr�te	MUSICAL_GENRE
 Electroacoustic	MUSICAL_GENRE
 Blues	MUSICAL_GENRE
 Main article: Blues	MUSICAL_GENRE

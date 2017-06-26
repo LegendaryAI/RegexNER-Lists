@@ -1,4 +1,4 @@
-Artichoke	VEGETABLE
+﻿Artichoke	VEGETABLE
 Arugula	VEGETABLE
 Asparagus	VEGETABLE
 Aubergine	VEGETABLE
