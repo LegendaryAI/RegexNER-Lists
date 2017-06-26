@@ -1,39 +1,39 @@
-(a|A)lcoholic beverage	BeveragesWithAlcohol.txt
-drink	BeveragesWithoutAlcohol.txt
-board game	BoardGames.txt
-car brand	Car_Brands.txt
-certain	Certain.txt
-cheese	Cheeses.txt
-chemical element	ChemicalElements.txt
-dialect	Chinese_Dialect.txt
-color	Colors.txt
-continent	Continents.txt
-country	Countries.txt
-field of study	Field_of_Study.txt
-fruit	Fruits.txt
+alcoholic beverages?	BeveragesWithAlcohol.txt
+(drink|beverage)s?	BeveragesWithoutAlcohol.txt,BeveragesWithAlcohol.txt
+(board )?games?	BoardGames.txt
+(car (brand|compan(y|ies))|automaker)s?	Car_Brands.txt
+(certain|sure)	Certain.txt
+cheeses?	Cheeses.txt
+(chemical )?elements??	ChemicalElements.txt
+(chinese )?dialects?	Chinese_Dialect.txt
+colors?	Colors.txt
+continents?	Continents.txt
+countr(y|ies)	Countries.txt
+(fields? of study|majors?|concentrations?)	Field_of_Study.txt
+fruits?	Fruits.txt
 furniture	Furniture.txt
-characteristic	Human_Characteristics.txt
-idiom	Idioms.txt
-insect	Insects.txt
-lake	Lakes.txt
-language	Languages.txt
-mammal	Mammal.txt
+(characteristics?|feelings?|moods?))	Human_Characteristics.txt
+(idioms?|sayings?|figures? of speech)	Idioms.txt
+(insects?|bugs?)	Insects.txt
+lakes?	Lakes.txt
+languages?	Languages.txt
+mammals?	Mammal.txt
 maybe	Maybe.txt
-weapon	Medieval_Weapons.txt
-mineral	Minerals.txt
-mountain	Mountain_Ranges.txt
-genre	Musical_Genres.txt
-instrument	Musical_Instruments.txt
-national park	National_Parks.txt
-pope	Popes.txt
+weapons?	Medieval_Weapons.txt
+(minerals?|rocks?|stones?)	Minerals.txt
+mountains?	Mountain_Ranges.txt
+genres?	Musical_Genres.txt
+instruments?	Musical_Instruments.txt
+(national )?parks?	National_Parks.txt
+popes?	Popes.txt
 pork	Pork_Products.txt
-president	Presidents.txt
+presidents?	Presidents.txt
 (profession|job)	Professions.txt
-rapper	Rappers.txt
-religion	Religions.txt
-sport	Sports.txt
-team	Sports_Teams.txt
-state	States.txt
-trait	Traits.txt
-vegetable	Vegetables.txt
-wonder	Wonders.txt
+(rappers?|hip-hop artists?)	Rappers.txt
+(faiths?|religions?)	Religions.txt
+sports?	Sports.txt
+teams?	Sports_Teams.txt
+(states?|commonwealths?)	States.txt
+traits?	Traits.txt
+vegetables?	Vegetables.txt
+wonders?	Wonders.txt
