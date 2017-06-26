@@ -1,16 +1,39 @@
 (a|A)lcoholic beverage	BeveragesWithAlcohol.txt
 drink	BeveragesWithoutAlcohol.txt
 board game	BoardGames.txt
+car brand	Car_Brands.txt
+certain	Certain.txt
+cheese	Cheeses.txt
 chemical element	ChemicalElements.txt
+dialect	Chinese_Dialect.txt
 color	Colors.txt
+continent	Continents.txt
+country	Countries.txt
+field of study	Field_of_Study.txt
 fruit	Fruits.txt
 furniture	Furniture.txt
+characteristic	Human_Characteristics.txt
+idiom	Idioms.txt
 insect	Insects.txt
+lake	Lakes.txt
+language	Languages.txt
 mammal	Mammal.txt
+maybe	Maybe.txt
+weapon	Medieval_Weapons.txt
 mineral	Minerals.txt
+mountain	Mountain_Ranges.txt
+genre	Musical_Genres.txt
 instrument	Musical_Instruments.txt
-genre	MusicalGenre.txt
+national park	National_Parks.txt
+pope	Popes.txt
+pork	Pork_Products.txt
+president	Presidents.txt
 (profession|job)	Professions.txt
+rapper	Rappers.txt
 religion	Religions.txt
 sport	Sports.txt
+team	Sports_Teams.txt
+state	States.txt
+trait	Traits.txt
 vegetable	Vegetables.txt
+wonder	Wonders.txt
