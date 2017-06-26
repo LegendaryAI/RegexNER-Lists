@@ -43,7 +43,7 @@ Asian Elephant	MAMMAL
 Elephant Seal	MAMMAL
 Fennec Fox	MAMMAL
 Fossa	MAMMAL
-"Fox, Fennec"	MAMMAL
+Fennec fox	MAMMAL
 Fur Seal	MAMMAL
 Gelada	MAMMAL
 Giant Anteater	MAMMAL

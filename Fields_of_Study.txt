@@ -34,7 +34,7 @@ English	FIELD_OF_STUDY
 Entomology	FIELD_OF_STUDY
 Environmental Sciences	FIELD_OF_STUDY
 Environmental Engineering	FIELD_OF_STUDY
-"Feminist	 GENDER & SEXUALITY STUDIES"	FIELD_OF_STUDY
+Feminist gender & sexuality STUDIES	FIELD_OF_STUDY
 Fiber Science	FIELD_OF_STUDY
 Apparel Design	FIELD_OF_STUDY
 Fine Arts	FIELD_OF_STUDY

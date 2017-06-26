@@ -7,7 +7,6 @@ Amyraldism	RELIGION
 Anabaptism	RELIGION
 Anabaptist	RELIGION
 Atheist	RELIGION
-Bahá'í	RELIGION
 Baptist	RELIGION
 Buddhism	RELIGION
 Buddhist	RELIGION

@@ -1,19 +1,22 @@
+(drink|beverage)s?	BeveragesWithoutAlcohol.txt
 alcoholic beverages?	BeveragesWithAlcohol.txt
-(drink|beverage)s?	BeveragesWithoutAlcohol.txt,BeveragesWithAlcohol.txt
-(board )?games?	BoardGames.txt
-(car (brand|compan(y|ies))|automaker)s?	Car_Brands.txt
+(board)? games?	BoardGames.txt
+car (brand|compan(y|ies))	Car_Brands.txt
+automakers?	Car_Brands.txt
 (certain|sure)	Certain.txt
 cheeses?	Cheeses.txt
-(chemical )?elements??	ChemicalElements.txt
-(chinese )?dialects?	Chinese_Dialect.txt
+(chemical)? elements??	ChemicalElements.txt
+(chinese)? dialects?	Chinese_Dialect.txt
 colors?	Colors.txt
 continents?	Continents.txt
 countr(y|ies)	Countries.txt
-(fields? of study|majors?|concentrations?)	Field_of_Study.txt
+fields? of study	Field_of_Study.txt
+(majors?|concentrations?)	Field_of_Study.txt
 fruits?	Fruits.txt
 furniture	Furniture.txt
-(characteristics?|feelings?|moods?))	Human_Characteristics.txt
-(idioms?|sayings?|figures? of speech)	Idioms.txt
+(characteristics?|feelings?|moods?)	Human_Characteristics.txt
+(idioms?|sayings?)	Idioms.txt
+figures? of speech	Idioms.txt
 (insects?|bugs?)	Insects.txt
 lakes?	Lakes.txt
 languages?	Languages.txt
@@ -24,12 +27,13 @@ weapons?	Medieval_Weapons.txt
 mountains?	Mountain_Ranges.txt
 genres?	Musical_Genres.txt
 instruments?	Musical_Instruments.txt
-(national )?parks?	National_Parks.txt
+(national)? parks?	National_Parks.txt
 popes?	Popes.txt
 pork	Pork_Products.txt
 presidents?	Presidents.txt
 (profession|job)	Professions.txt
-(rappers?|hip-hop artists?)	Rappers.txt
+rappers?	Rappers.txt
+hip-?hop artists?	Rappers.txt
 (faiths?|religions?)	Religions.txt
 sports?	Sports.txt
 teams?	Sports_Teams.txt

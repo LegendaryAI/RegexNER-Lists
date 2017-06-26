@@ -506,7 +506,7 @@ Joe Budden	RAPPER
 Joell Ortiz	RAPPER
 Joey Badass	RAPPER
 John Cena	RAPPER
-"Johnny ""J"""	RAPPER
+Johnny J	RAPPER
 Johntá Austin	RAPPER
 Jon Connor	RAPPER
 JT Money	RAPPER
@@ -779,7 +779,7 @@ Nipsey Hussle	RAPPER
 Nitty	RAPPER
 Nitty Scott	RAPPER
 No Malice	RAPPER
-"Noah ""40"" Shebib"	RAPPER
+Noah 40 Shebib	RAPPER
 NoClue	RAPPER
 Noname	RAPPER
 Nonchalant	RAPPER
@@ -905,7 +905,7 @@ Roscoe	RAPPER
 Roscoe Dash	RAPPER
 Rowdy Rebel	RAPPER
 Roxanne Shanté	RAPPER
-"Royce da 5'9"""	RAPPER
+Royce da 5'9	RAPPER
 Rucka Rucka Ali	RAPPER
 Russ	RAPPER
 Rydah J. Klyde	RAPPER
@@ -988,7 +988,7 @@ Smoothe da Hustler	RAPPER
 Snoop Dogg	RAPPER
 Snootie Wild	RAPPER
 Snow Tha Product	RAPPER
-"Soce	 THE ELEMENTAL WIZARD",RAPPER
+Soce the elemental wizard	RAPPER
 Sole	RAPPER
 Solzilla	RAPPER
 Sonny Digital	RAPPER
@@ -1111,8 +1111,7 @@ Twisted Insane	RAPPER
 Ty Dolla Sign	RAPPER
 Tyga	RAPPER
 Tyler Joseph	RAPPER
-"Tyler	 THE CREATOR",RAPPER
-"Tyler	 THE CREATOR",RAPPER
+Tyler the creator	RAPPER
 Tyra Bolling	RAPPER
 U-God	RAPPER
 U$O	RAPPER

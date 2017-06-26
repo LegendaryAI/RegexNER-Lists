@@ -874,7 +874,7 @@ Surveyor	PROFESSION
 Switchboard operators	PROFESSION
 System Administrator	PROFESSION
 Tailor	PROFESSION
-"Tank car, truck, and ship loader"	PROFESSION
+Tank car, truck, and ship loader	PROFESSION
 Taper	PROFESSION
 tax collector	PROFESSION
 Tax examiner	PROFESSION

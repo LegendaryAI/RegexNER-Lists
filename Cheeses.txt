@@ -373,7 +373,7 @@ Morbier Cru de Montagne	CHEESE
 Mothais a la Feuille	CHEESE
 Mozzarella	CHEESE
 Mozzarella di Bufala	CHEESE
-"Mozzarella Fresh	 IN WATER",CHEESE
+Mozzarella Fresh	CHEESE
 Mozzarella Rolls	CHEESE
 Munster	CHEESE
 Murol	CHEESE

@@ -53,11 +53,11 @@ Cuba	COUNTRY
 Cyprus	COUNTRY
 Republic of Cyprus	COUNTRY
 Turkish Republic of Northern Cyprus	COUNTRY
-Northern Cyprus COUNTRY
+Northern Cyprus?	COUNTRY
 Turkish Republic of Cyprus	COUNTRY
 Czech Republic	COUNTRY
-Czechia COUNTRY
-Denmark	COUNTRY
+Czechia?	COUNTRY
+Denmark?	COUNTRY
 Djibouti	COUNTRY
 Dominica	COUNTRY
 Dominican Republic	COUNTRY
@@ -107,11 +107,11 @@ Jordan	COUNTRY
 Kazakhstan	COUNTRY
 Kenya	COUNTRY
 Kiribati	COUNTRY
-North Korea COUNTRY
-South Korea COUNTRY
-Democratic People's Republic of Korea COUNTRY
-Republic of Korea COUNTRY
-Korea COUNTRY
+North Korea	COUNTRY
+South Korea	COUNTRY
+Democratic People's Republic of Korea	COUNTRY
+Republic of Korea	COUNTRY
+Korea	COUNTRY
 Kosovo	COUNTRY
 Kuwait	COUNTRY
 Kyrgyzstan	COUNTRY
@@ -221,5 +221,5 @@ Vietnam	COUNTRY
 Yemen	COUNTRY
 Zambia	COUNTRY
 Zimbabwe	COUNTRY
-Republic of China COUNTRY
-People's Republic of China COUNTRY
+Republic of China	COUNTRY
+People's Republic of China	COUNTRY
