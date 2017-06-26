@@ -5,6 +5,4 @@ Antarctica	CONTINENT
 Europe	CONTINENT
 North America	CONTINENT
 South America	CONTINENT
-Oceania	CONTINENT
-	
-	
+Oceania?	CONTINENT

@@ -1,7 +1,7 @@
 A1	IDIOM
 from A to B	IDIOM
 from A to Z	IDIOM
-take (me|you|him|her|us|them|[^.!?, ]+) aback	IDIOM
+take (me|you|him|her|us|them|[^.!?,]+) aback	IDIOM
 as easy as ABC	IDIOM
 as simple as ABC	IDIOM
 know what you are about	IDIOM
@@ -10,8 +10,8 @@ not be above	IDIOM
 an accident waiting to happen	IDIOM
 accidents will happen	IDIOM
 of (my|your|his|her|our|their|its) own accord	IDIOM
-settle accounts with (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-square accounts with (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+settle accounts with (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+square accounts with (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 (have|has|had) an ace up (my|your|his|her|our|their|its) sleeve	IDIOM
 hold all the aces	IDIOM
 play (my|your|his|her|our|their|its) ace	IDIOM
@@ -28,11 +28,11 @@ action stations	IDIOM
 man of action	IDIOM
 where the action is	IDIOM
 (my|your|his|her|our|their|its) actual	IDIOM
-not know (me|you|him|her|us|them|[^.!?, ]+) from Adam	IDIOM
+not know (me|you|him|her|us|them|[^.!?,]+) from Adam	IDIOM
 the old Adam	IDIOM
 an admirable Crichton	IDIOM
-cast (me|you|him|her|us|them|[^.!?, ]+) adrift	IDIOM
-cut (me|you|him|her|us|them|[^.!?, ]+) adrift	IDIOM
+cast (me|you|him|her|us|them|[^.!?,]+) adrift	IDIOM
+cut (me|you|him|her|us|them|[^.!?,]+) adrift	IDIOM
 take advantage of	IDIOM
 turn (it|that|[^.!?,]+) to (my|your|his|her|our|their|its) advantage	IDIOM
 of a certain age	IDIOM
@@ -50,11 +50,11 @@ up in the air	IDIOM
 walk on air	IDIOM
 walking on air	IDIOM
 people rolling in the aisles	IDIOM
-lead (me|you|him|her|us|them|[^.!?, ]+) up the aisle	IDIOM
+lead (me|you|him|her|us|them|[^.!?,]+) up the aisle	IDIOM
 an Aladdin's cave	IDIOM
 an Aladdin's lamp	IDIOM
 alarms and excursions	IDIOM
-albatross round (my|your|his|her|our|their|its|[^.!?, ]+) neck	IDIOM
+albatross round (my|your|his|her|our|their|its|[^.!?,]+) neck	IDIOM
 alive and kicking	IDIOM
 alive and well	IDIOM
 all along	IDIOM
@@ -92,11 +92,11 @@ a rotten apple	IDIOM
 a bad apple	IDIOM
 seal of approval	IDIOM
 stamp of approval	IDIOM
-tied to (my|your|his|her|our|their|its|[^.!?, ]+) apron strings	IDIOM
+tied to (my|your|his|her|our|their|its|[^.!?,]+) apron strings	IDIOM
 a call to arms	IDIOM
 cost an arm and a leg	IDIOM
 give an arm and a leg for	IDIOM
-keep (me|you|him|her|us|them|it|[^.!?, ]+) at arm's length	IDIOM
+keep (me|you|him|her|us|them|it|[^.!?,]+) at arm's length	IDIOM
 the long arm of the law	IDIOM
 the strong arm of the law	IDIOM
 put the arm on	IDIOM
@@ -125,32 +125,32 @@ be asking for it	IDIOM
 asleep at the wheel	IDIOM
 fall asleep	IDIOM
 bust (my|your|his|her|our|their|its) ass	IDIOM
-chew (my|your|his|her|our|their|its|[^.!?, ]+) ass	IDIOM
+chew (my|your|his|her|our|their|its|[^.!?,]+) ass	IDIOM
 cover (my|your|his|her|our|their|its) ass	IDIOM
 drag ass	IDIOM
 haul ass	IDIOM
 not give a rat's ass	IDIOM
-whip (my|your|his|her|our|their|its|[^.!?, ]+) ass	IDIOM
+whip (my|your|his|her|our|their|its|[^.!?,]+) ass	IDIOM
 at it	IDIOM
 plan B	IDIOM
 babe in arms	IDIOM
 babes in the wood	IDIOM
-be (my|your|his|her|our|their|its|[^.!?, ]+) baby	IDIOM
+be (my|your|his|her|our|their|its|[^.!?,]+) baby	IDIOM
 at the back of (my|your|his|her|our|their|its) mind	IDIOM
 back to the drawing board	IDIOM
 back to square one	IDIOM
 back the wrong horse	IDIOM
-be on (my|your|his|her|our|their|its|[^.!?, ]+) back	IDIOM
-(get|got) off (my|your|his|her|our|their|its|[^.!?, ]+) back	IDIOM
-behind (my|your|his|her|our|their|its|[^.!?, ]+) back	IDIOM
+be on (my|your|his|her|our|their|its|[^.!?,]+) back	IDIOM
+(get|got) off (my|your|his|her|our|their|its|[^.!?,]+) back	IDIOM
+behind (my|your|his|her|our|their|its|[^.!?,]+) back	IDIOM
 by the back door	IDIOM
-(get|got) (my|your|his|her|our|their|its|[^.!?, ]+) back up	IDIOM
+(get|got) (my|your|his|her|our|their|its|[^.!?,]+) back up	IDIOM
 know (it|that|[^.!?,]+) like the back of (my|your|his|her|our|their|its) hand	IDIOM
 on the back of	IDIOM
 on (my|your|his|her|our|their|its) back	IDIOM
 put (my|your|his|her|our|their|its) back into	IDIOM
 see the back of	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) back is turned	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) back is turned	IDIOM
 take a back seat	IDIOM
 turn (my|your|his|her|our|their|its) back on	IDIOM
 with (my|your|his|her|our|their|its) back to the wall	IDIOM
@@ -174,7 +174,7 @@ in the balance	IDIOM
 on balance	IDIOM
 weigh (it|that|[^.!?,]+) in the balance	IDIOM
 a ball and chain	IDIOM
-the ball is in (my|your|his|her|our|their|its|[^.!?, ]+) court	IDIOM
+the ball is in (my|your|his|her|our|their|its|[^.!?,]+) court	IDIOM
 a ball of fire	IDIOM
 ball the jack	IDIOM
 (have|has|had) a ball	IDIOM
@@ -204,7 +204,7 @@ under the banner of	IDIOM
 bar none	IDIOM
 behind bars	IDIOM
 the bare bones	IDIOM
-would not touch (me|you|him|her|us|them|it|[^.!?, ]+) with a pole	IDIOM
+would not touch (me|you|him|her|us|them|it|[^.!?,]+) with a pole	IDIOM
 bark up the wrong tree	IDIOM
 (have|has|had) bats in the belfry	IDIOM
 (have|has|had) bats in (my|your|his|her|our|their|its) belfry	IDIOM
@@ -221,27 +221,27 @@ battle of the giants	IDIOM
 battle royal	IDIOM
 battle stations	IDIOM
 half the battle	IDIOM
-bring (me|you|him|her|us|them|it|[^.!?, ]+) to bay	IDIOM
-hold (me|you|him|her|us|them|it|[^.!?, ]+) at bay	IDIOM
-keep (me|you|him|her|us|them|it|[^.!?, ]+) at bay	IDIOM
+bring (me|you|him|her|us|them|it|[^.!?,]+) to bay	IDIOM
+hold (me|you|him|her|us|them|it|[^.!?,]+) at bay	IDIOM
+keep (me|you|him|her|us|them|it|[^.!?,]+) at bay	IDIOM
 to-be	IDIOM
 the be-all and end-all	IDIOM
 draw a bead on	IDIOM
 (get|got) a bead on	IDIOM
 not know beans about	IDIOM
-bring (it|that|[^.!?,]+) to bear (on (it|that|[^.!?,]+))	IDIOM
+bring (it|that|[^.!?,]+) to bear on (it|that|[^.!?,]+)	IDIOM
 beard the lion in his den	IDIOM
 beard the lion in his lair	IDIOM
 beat a hasty retreat	IDIOM
 beat about the bush	IDIOM
-beat (me|you|him|her|us|them|[^.!?, ]+) at their own game	IDIOM
+beat (me|you|him|her|us|them|[^.!?,]+) at their own game	IDIOM
 beat the bushes	IDIOM
 beat the clock	IDIOM
 beat (my|your|his|her|our|their|its) meat	IDIOM
 beat the meat	IDIOM
 beat the pants off	IDIOM
 beat the system	IDIOM
-beat (me|you|him|her|us|them|[^.!?, ]+) to it	IDIOM
+beat (me|you|him|her|us|them|[^.!?,]+) to it	IDIOM
 if you can't beat them, join them	IDIOM
 to beat the band	IDIOM
 beaten at the post	IDIOM
@@ -249,7 +249,7 @@ off the beaten track	IDIOM
 off the beaten path	IDIOM
 the beautiful people	IDIOM
 work like a beaver	IDIOM
-at (my|your|his|her|our|their|its|[^.!?, ]+) beck and call	IDIOM
+at (my|your|his|her|our|their|its|[^.!?,]+) beck and call	IDIOM
 bed and breakfast	IDIOM
 a bed of nails	IDIOM
 a bed of roses	IDIOM
@@ -265,12 +265,12 @@ beg the question	IDIOM
 beggars can't be choosers	IDIOM
 beginner's luck	IDIOM
 the beginning of the end	IDIOM
-beat the bejesus out of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-scare the bejesus out of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+beat the bejesus out of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+scare the bejesus out of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 on bended knee	IDIOM
 the benefit of the doubt	IDIOM
 bent out of shape	IDIOM
-give (me|you|him|her|us|them|it|[^.!?, ]+) a wide berth	IDIOM
+give (me|you|him|her|us|them|it|[^.!?,]+) a wide berth	IDIOM
 beside (myself|yourself|himeself|herself|ourselves|yourselves|themselves)	IDIOM
 make the best of it	IDIOM
 (my|your|his|her|our|their|its) best bet	IDIOM
@@ -302,7 +302,7 @@ a bird in hand	IDIOM
 a bird's-eye view	IDIOM
 the birds and the bees	IDIOM
 birds of a feather	IDIOM
-flip (me|you|him|her|us|them|[^.!?, ]+) the bird	IDIOM
+flip (me|you|him|her|us|them|[^.!?,]+) the bird	IDIOM
 a little bird told me	IDIOM
 strictly for the birds	IDIOM
 in (my|your|his|her|our|their|its) birthday suit	IDIOM
@@ -341,11 +341,11 @@ new blood	IDIOM
 young blood	IDIOM
 taste blood	IDIOM
 a blot on the landscape	IDIOM
-blow (me|you|him|her|us|them|[^.!?, ]+) away	IDIOM
+blow (me|you|him|her|us|them|[^.!?,]+) away	IDIOM
 blow (my|your|his|her|our|their|its) cool	IDIOM
 blow the doors off	IDIOM
 blow a fuse	IDIOM
-blow (my|your|his|her|our|their|its|[^.!?, ]+) mind	IDIOM
+blow (my|your|his|her|our|their|its|[^.!?,]+) mind	IDIOM
 blow (it|that|[^.!?,]+) sky-high	IDIOM
 blow (my|your|his|her|our|their|its) top	IDIOM
 blow up in (my|your|his|her|our|their|its) face	IDIOM
@@ -363,7 +363,7 @@ once in a blue moon	IDIOM
 out of the blue	IDIOM
 the wide blue yonder	IDIOM
 the wild blue yonder	IDIOM
-call (my|your|his|her|our|their|its|[^.!?, ]+) bluff	IDIOM
+call (my|your|his|her|our|their|its|[^.!?,]+) bluff	IDIOM
 on board	IDIOM
 take (it|that|[^.!?,]+) on board	IDIOM
 make a bolt for	IDIOM
@@ -371,7 +371,7 @@ a bone of contention	IDIOM
 close to the bone	IDIOM
 near the bone	IDIOM
 cut (it|that|[^.!?,]+) to the bone	IDIOM
-(have|has|had) a bone to pick with (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+(have|has|had) a bone to pick with (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 in (my|your|his|her|our|their|its) bones	IDIOM
 work (my|your|his|her|our|their|its) fingers to the bone	IDIOM
 by the book	IDIOM
@@ -388,14 +388,14 @@ shake (my|your|his|her|our|their|its) booty	IDIOM
 born and bred	IDIOM
 wasn't born yesterday	IDIOM
 living on borrowed time	IDIOM
-show (me|you|him|her|us|them|[^.!?, ]+) who's boss	IDIOM
+show (me|you|him|her|us|them|[^.!?,]+) who's boss	IDIOM
 (have|has|had) it both ways	IDIOM
 hot and bothered	IDIOM
 hit the bottle	IDIOM
 be on the bottle	IDIOM
 bottoms up!	IDIOM
 (get|got) to the bottom of	IDIOM
-bounce an idea off of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+bounce an idea off of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 bounce off the walls	IDIOM
 on the bounce	IDIOM
 know no bounds	IDIOM
@@ -411,7 +411,7 @@ boys will be boys	IDIOM
 one of the boys	IDIOM
 under (my|your|his|her|our|their|its) breath	IDIOM
 waste (my|your|his|her|our|their|its) breath	IDIOM
-breathe down (my|your|his|her|our|their|its|[^.!?, ]+) neck	IDIOM
+breathe down (my|your|his|her|our|their|its|[^.!?,]+) neck	IDIOM
 breathe again	IDIOM
 breathe freely again	IDIOM
 a breed apart	IDIOM
@@ -447,7 +447,7 @@ burn the midnight oil	IDIOM
 on the back burner	IDIOM
 on the front burner	IDIOM
 burnt to a crisp	IDIOM
-burst (my|your|his|her|our|their|its|[^.!?, ]+) bubble	IDIOM
+burst (my|your|his|her|our|their|its|[^.!?,]+) bubble	IDIOM
 bury the hatchet	IDIOM
 bury (my|your|his|her|our|their|its) head in the sand	IDIOM
 the business end	IDIOM
@@ -464,8 +464,8 @@ the butterfly effect	IDIOM
 (have|has|had) butterflies in (my|your|his|her|our|their|its) stomach	IDIOM
 button (my|your|his|her|our|their|its) lip	IDIOM
 press the button	IDIOM
-push (my|your|his|her|our|their|its|[^.!?, ]+) buttons	IDIOM
-press (my|your|his|her|our|their|its|[^.!?, ]+) buttons	IDIOM
+push (my|your|his|her|our|their|its|[^.!?,]+) buttons	IDIOM
+press (my|your|his|her|our|their|its|[^.!?,]+) buttons	IDIOM
 buy time	IDIOM
 by and large	IDIOM
 by the by	IDIOM
@@ -492,23 +492,23 @@ sweep (it|that|[^.!?,]+) under the rug	IDIOM
 sweep (it|that|[^.!?,]+) under the carpet	IDIOM
 carrot and stick	IDIOM
 carry weight	IDIOM
-be on (my|your|his|her|our|their|its|[^.!?, ]+) case	IDIOM
-(get|got) off (my|your|his|her|our|their|its|[^.!?, ]+) case	IDIOM
+be on (my|your|his|her|our|their|its|[^.!?,]+) case	IDIOM
+(get|got) off (my|your|his|her|our|their|its|[^.!?,]+) case	IDIOM
 a case in point	IDIOM
 cash in hand	IDIOM
-the cat has got (my|your|his|her|our|their|its|[^.!?, ]+) tongue	IDIOM
+the cat has got (my|your|his|her|our|their|its|[^.!?,]+) tongue	IDIOM
 fight like cat and dog	IDIOM
 let the cat out of the bag	IDIOM
 like a cat on a hot tin roof	IDIOM
 like (it|that|[^.!?,]+) the cat brought in	IDIOM
 play cat and mouse with	IDIOM
 when the cat's away, the mice will play	IDIOM
-catch (my|your|his|her|our|their|its|[^.!?, ]+) eye	IDIOM
+catch (my|your|his|her|our|their|its|[^.!?,]+) eye	IDIOM
 a catch-22 situation	IDIOM
 throw caution to the wind	IDIOM
 without ceremony	IDIOM
-pull (my|your|his|her|our|their|its|[^.!?, ]+) chain	IDIOM
-yank (my|your|his|her|our|their|its|[^.!?, ]+) chain	IDIOM
+pull (my|your|his|her|our|their|its|[^.!?,]+) chain	IDIOM
+yank (my|your|his|her|our|their|its|[^.!?,]+) chain	IDIOM
 champ at the bit	IDIOM
 chafe at the bit	IDIOM
 on the off chance	IDIOM
@@ -519,7 +519,7 @@ chapter and verse	IDIOM
 work like a charm	IDIOM
 chase the dragon	IDIOM
 lose (my|your|his|her|our|their|its) cherry	IDIOM
-pop (my|your|his|her|our|their|its|[^.!?, ]+) cherry	IDIOM
+pop (my|your|his|her|our|their|its|[^.!?,]+) cherry	IDIOM
 grin like a Cheshire cat	IDIOM
 (get|got) (it|that|[^.!?,]+) off (my|your|his|her|our|their|its) chest	IDIOM
 a chicken-and-egg problem	IDIOM
@@ -528,11 +528,11 @@ running about like a headless chicken	IDIOM
 child's play	IDIOM
 keep (my|your|his|her|our|their|its) chin up	IDIOM
 take it on the chin	IDIOM
-a chink in (my|your|his|her|our|their|its|[^.!?, ]+) armour	IDIOM
+a chink in (my|your|his|her|our|their|its|[^.!?,]+) armour	IDIOM
 a chip off the old block	IDIOM
 a chip on (my|your|his|her|our|their|its) shoulder	IDIOM
 when the chips are down	IDIOM
-bust (my|your|his|her|our|their|its|[^.!?, ]+) chops	IDIOM
+bust (my|your|his|her|our|their|its|[^.!?,]+) chops	IDIOM
 bust (my|your|his|her|our|their|its) chops	IDIOM
 strike a chord	IDIOM
 strike the right chord	IDIOM
@@ -549,14 +549,14 @@ a class act	IDIOM
 clean as a whistle	IDIOM
 a clean sheet	IDIOM
 a clean slate	IDIOM
-clean (my|your|his|her|our|their|its|[^.!?, ]+) clock	IDIOM
+clean (my|your|his|her|our|their|its|[^.!?,]+) clock	IDIOM
 clean house	IDIOM
 clean up (my|your|his|her|our|their|its) act	IDIOM
 come clean	IDIOM
 (have|has|had) clean hands	IDIOM
 keep (my|your|his|her|our|their|its) hands clean	IDIOM
 make a clean sweep	IDIOM
-take (me|you|him|her|us|them|[^.!?, ]+) to the cleaners	IDIOM
+take (me|you|him|her|us|them|[^.!?,]+) to the cleaners	IDIOM
 clear the air	IDIOM
 as clear as day	IDIOM
 clear (my|your|his|her|our|their|its) desk	IDIOM
@@ -571,7 +571,7 @@ delusions of grandeur	IDIOM
 (get|got) (my|your|his|her|our|their|its) just deserts	IDIOM
 receive (my|your|his|her|our|their|its) just deserts	IDIOM
 despite (myself|yourself|himeself|herself|ourselves|yourselves|themselves)	IDIOM
-leave (me|you|him|her|us|them|[^.!?, ]+) to their own devices	IDIOM
+leave (me|you|him|her|us|them|[^.!?,]+) to their own devices	IDIOM
 the devil's in the details	IDIOM
 the devil to pay	IDIOM
 the devil you know	IDIOM
@@ -586,7 +586,7 @@ done like dinner	IDIOM
 done like a dinner	IDIOM
 dip (my|your|his|her|our|their|its) pen in gall	IDIOM
 dip (my|your|his|her|our|their|its) toe into (it|that|[^.!?,]+)	IDIOM
-treat (me|you|him|her|us|them|[^.!?, ]+) like dirt	IDIOM
+treat (me|you|him|her|us|them|[^.!?,]+) like dirt	IDIOM
 the dirty end of the stick	IDIOM
 (get|got) (my|your|his|her|our|their|its) hands dirty	IDIOM
 play dirty	IDIOM
@@ -626,7 +626,7 @@ give the all clear	IDIOM
 (get|got) the all clear	IDIOM
 alpha and omega	IDIOM
 alphabet soup	IDIOM
-sacrifice (me|you|him|her|us|them|it|[^.!?, ]+) on the altar of	IDIOM
+sacrifice (me|you|him|her|us|them|it|[^.!?,]+) on the altar of	IDIOM
 the American dream	IDIOM
 run amok	IDIOM
 at that	IDIOM
@@ -637,9 +637,9 @@ under the auspices of	IDIOM
 (have|has|had) (it|that|[^.!?,]+) on good authority	IDIOM
 away with (it|that|[^.!?,]+)	IDIOM
 the awkward age	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) bark is worse than their bite	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) bark is worse than their bite	IDIOM
 a barrel of laughs	IDIOM
-(get|got) (me|you|him|her|us|them|[^.!?, ]+) over a barrel	IDIOM
+(get|got) (me|you|him|her|us|them|[^.!?,]+) over a barrel	IDIOM
 with both barrels	IDIOM
 man the barricades	IDIOM
 (get|got) to first base	IDIOM
@@ -662,11 +662,11 @@ bite off more than you can chew	IDIOM
 bite (my|your|his|her|our|their|its) tongue	IDIOM
 take a bite out of	IDIOM
 to the bitter end	IDIOM
-be in (my|your|his|her|our|their|its|[^.!?, ]+) black books	IDIOM
+be in (my|your|his|her|our|their|its|[^.!?,]+) black books	IDIOM
 black and blue	IDIOM
 black box	IDIOM
 the black dog	IDIOM
-a black mark against (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+a black mark against (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 the black sheep	IDIOM
 in black and white	IDIOM
 a blank cheque	IDIOM
@@ -674,7 +674,7 @@ draw a blank	IDIOM
 (have|has|had) kissed the blarney stone	IDIOM
 a blast from the past	IDIOM
 blaze a trail	IDIOM
-bleed (me|you|him|her|us|them|[^.!?, ]+) dry	IDIOM
+bleed (me|you|him|her|us|them|[^.!?,]+) dry	IDIOM
 bleeding heart	IDIOM
 my heart bleeds for you	IDIOM
 a blessing in disguise	IDIOM
@@ -693,10 +693,10 @@ brave new world	IDIOM
 the best thing since sliced bread	IDIOM
 the greatest thing since sliced bread	IDIOM
 break bread with	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) bread and butter	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) bread and butter	IDIOM
 break the back of	IDIOM
 break even	IDIOM
-break (my|your|his|her|our|their|its|[^.!?, ]+) heart	IDIOM
+break (my|your|his|her|our|their|its|[^.!?,]+) heart	IDIOM
 break a leg!	IDIOM
 give me a break!	IDIOM
 make a break for	IDIOM
@@ -722,7 +722,7 @@ of good cheer	IDIOM
 three cheers for	IDIOM
 say cheese	IDIOM
 be climbing the walls	IDIOM
-clip (my|your|his|her|our|their|its|[^.!?, ]+) wings	IDIOM
+clip (my|your|his|her|our|their|its|[^.!?,]+) wings	IDIOM
 round the clock	IDIOM
 around the clock	IDIOM
 turn back the clock	IDIOM
@@ -743,18 +743,18 @@ join the club	IDIOM
 welcome to the club	IDIOM
 not(have|has|had) a clue	IDIOM
 the coast is clear	IDIOM
-on (my|your|his|her|our|their|its|[^.!?, ]+) coat-tails	IDIOM
+on (my|your|his|her|our|their|its|[^.!?,]+) coat-tails	IDIOM
 blow away the cobwebs	IDIOM
 clear away the cobwebs	IDIOM
 cock (my|your|his|her|our|their|its) ear	IDIOM
-warm the cockles of (my|your|his|her|our|their|its|[^.!?, ]+) heart	IDIOM
+warm the cockles of (my|your|his|her|our|their|its|[^.!?,]+) heart	IDIOM
 bring (it|that|[^.!?,]+) up to code	IDIOM
 cog in the wheel	IDIOM
 cog in the machine	IDIOM
 coing of vantage	IDIOM
 shuffle off this mortal coil	IDIOM
 the other side of the coin	IDIOM
-pay (me|you|him|her|us|them|[^.!?, ]+) back in their own coin	IDIOM
+pay (me|you|him|her|us|them|[^.!?,]+) back in their own coin	IDIOM
 to coin a phrase	IDIOM
 catch a cold	IDIOM
 cold comfort	IDIOM
@@ -768,7 +768,7 @@ throw cold water on	IDIOM
 on a collision course with	IDIOM
 lend colour to	IDIOM
 give colour to	IDIOM
-see the colour of (my|your|his|her|our|their|its|[^.!?, ]+) money	IDIOM
+see the colour of (my|your|his|her|our|their|its|[^.!?,]+) money	IDIOM
 nail (my|your|his|her|our|their|its) colours to the mast	IDIOM
 pin (my|your|his|her|our|their|its) colours to the mast	IDIOM
 sail under false colours	IDIOM
@@ -781,8 +781,8 @@ if it comes to that	IDIOM
 come to think of it	IDIOM
 (have|has|had) it coming to you	IDIOM
 not know if you are coming or going	IDIOM
-where (me|you|him|her|us|them|[^.!?, ]+) is coming from	IDIOM
-too [^.,!?:; ]+ for comfort	IDIOM
+where (me|you|him|her|us|them|[^.!?,]+) is coming from	IDIOM
+too [^.,!?:;]+ for comfort	IDIOM
 (went|go) commando	IDIOM
 be in good company	IDIOM
 compare notes	IDIOM
@@ -791,13 +791,13 @@ be set in concrete	IDIOM
 a name to conjure with	IDIOM
 conspicuous by (my|your|his|her|our|their|its) absence	IDIOM
 a conspiracy of silence	IDIOM
-hold (me|you|him|her|us|them|it|[^.!?, ]+) in contempt	IDIOM
+hold (me|you|him|her|us|them|it|[^.!?,]+) in contempt	IDIOM
 to (my|your|his|her|our|their|its) heart's content	IDIOM
 no contest	IDIOM
 contradiction in terms	IDIOM
 cook the books	IDIOM
 cook on the front burner	IDIOM
-cook (my|your|his|her|our|their|its|[^.!?, ]+) goose	IDIOM
+cook (my|your|his|her|our|their|its|[^.!?,]+) goose	IDIOM
 too many cooks spoil the broth	IDIOM
 the way the cookie crumbles	IDIOM
 how the cookie crumbles	IDIOM
@@ -809,14 +809,14 @@ fight (my|your|his|her|our|their|its) corner	IDIOM
 the four corners of the world	IDIOM
 the far corners of the world	IDIOM
 the far corners of the earth	IDIOM
-in (my|your|his|her|our|their|its|[^.!?, ]+) corner	IDIOM
+in (my|your|his|her|our|their|its|[^.!?,]+) corner	IDIOM
 the corridors of power	IDIOM
-wrap (me|you|him|her|us|them|[^.!?, ]+) in cotton wool	IDIOM
+wrap (me|you|him|her|us|them|[^.!?,]+) in cotton wool	IDIOM
 couch potato	IDIOM
 on the couch	IDIOM
 a counsel of despair	IDIOM
 a counsel of perfection	IDIOM
-[^.,!?:; ]+ and counting	IDIOM
+[^.,!?:;]+ and counting	IDIOM
 count (my|your|his|her|our|their|its) blessings	IDIOM
 count (my|your|his|her|our|their|its) chickens	IDIOM
 count the cost	IDIOM
@@ -832,7 +832,7 @@ under the table	IDIOM
 unknown country	IDIOM
 (have|has|had) the courage of (my|your|his|her|our|their|its) convictions	IDIOM
 take (my|your|his|her|our|their|its) courage in both hands	IDIOM
-blow (my|your|his|her|our|their|its|[^.!?, ]+) cover	IDIOM
+blow (my|your|his|her|our|their|its|[^.!?,]+) cover	IDIOM
 break cover	IDIOM
 cover (my|your|his|her|our|their|its) back	IDIOM
 cover (my|your|his|her|our|their|its) tracks	IDIOM
@@ -848,7 +848,7 @@ crack wise	IDIOM
 cracked up to be	IDIOM
 (get|got) cracking	IDIOM
 from the cradle to the grave	IDIOM
-cramp (my|your|his|her|our|their|its|[^.!?, ]+) style	IDIOM
+cramp (my|your|his|her|our|their|its|[^.!?,]+) style	IDIOM
 crash and burn	IDIOM
 crazy like a fox	IDIOM
 the cream of the crop	IDIOM
@@ -856,7 +856,7 @@ cream (my|your|his|her|our|their|its) jeans	IDIOM
 creature of habit	IDIOM
 credit where credit is due	IDIOM
 be up the creek without a paddle	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the creeps	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the creeps	IDIOM
 on the crest of a wave	IDIOM
 put a crimp in	IDIOM
 crocodile tears	IDIOM
@@ -864,7 +864,7 @@ at cross purposes	IDIOM
 cross (my|your|his|her|our|their|its) fingers	IDIOM
 keep (my|your|his|her|our|their|its) fingers crossed	IDIOM
 cross my heart	IDIOM
-cross (my|your|his|her|our|their|its|[^.!?, ]+) palm with silver	IDIOM
+cross (my|your|his|her|our|their|its|[^.!?,]+) palm with silver	IDIOM
 cross swords	IDIOM
 (have|has|had) (my|your|his|her|our|their|its) cross to bear	IDIOM
 (get|got) (my|your|his|her|our|their|its) wires crossed	IDIOM
@@ -876,7 +876,7 @@ as the crow flies	IDIOM
 crowning glory	IDIOM
 be cruel to be kind	IDIOM
 cruising for a bruising	IDIOM
-crumbs from (my|your|his|her|our|their|its|[^.!?, ]+) table	IDIOM
+crumbs from (my|your|his|her|our|their|its|[^.!?,]+) table	IDIOM
 crumbs from a rich man's table	IDIOM
 when it comes to the crunch	IDIOM
 if it comes to the crunch	IDIOM
@@ -892,7 +892,7 @@ off the cuff	IDIOM
 culture vulture	IDIOM
 not (my|your|his|her|our|their|its) cup of tea	IDIOM
 curiosity killed the cat	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) hair curl	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) hair curl	IDIOM
 curry favour	IDIOM
 bring down the curtain on	IDIOM
 behind the curve	IDIOM
@@ -906,7 +906,7 @@ cut both ways	IDIOM
 cut corners	IDIOM
 cut the crap	IDIOM
 cut a deal	IDIOM
-cut (me|you|him|her|us|them|[^.!?, ]+) down to size	IDIOM
+cut (me|you|him|her|us|them|[^.!?,]+) down to size	IDIOM
 cut from the same cloth	IDIOM
 cut in line	IDIOM
 cut it	IDIOM
@@ -914,9 +914,9 @@ cut the Gordian knot	IDIOM
 cut it out	IDIOM
 cut loose	IDIOM
 cut (my|your|his|her|our|their|its) losses	IDIOM
-cut (me|you|him|her|us|them|[^.!?, ]+) off in their prime	IDIOM
-cut (me|you|him|her|us|them|[^.!?, ]+) down in their prime	IDIOM
-the cut of (my|your|his|her|our|their|its|[^.!?, ]+) jib	IDIOM
+cut (me|you|him|her|us|them|[^.!?,]+) off in their prime	IDIOM
+cut (me|you|him|her|us|them|[^.!?,]+) down in their prime	IDIOM
+the cut of (my|your|his|her|our|their|its|[^.!?,]+) jib	IDIOM
 cut (my|your|his|her|our|their|its) teeth	IDIOM
 cut to the chase	IDIOM
 make the cut	IDIOM
@@ -937,11 +937,11 @@ put a dampener on	IDIOM
 put the damper on	IDIOM
 put the dampener on	IDIOM
 damsel in distress	IDIOM
-dance to (my|your|his|her|our|their|its|[^.!?, ]+) tune	IDIOM
+dance to (my|your|his|her|our|their|its|[^.!?,]+) tune	IDIOM
 (get|got) (my|your|his|her|our|their|its) dander up	IDIOM
-keep (me|you|him|her|us|them|[^.!?, ]+) dangling	IDIOM
+keep (me|you|him|her|us|them|[^.!?,]+) dangling	IDIOM
 a dark horse	IDIOM
-keep (me|you|him|her|us|them|[^.!?, ]+) in the dark	IDIOM
+keep (me|you|him|her|us|them|[^.!?,]+) in the dark	IDIOM
 keep (it|that|[^.!?,]+) dark	IDIOM
 a shot in the dark	IDIOM
 a stab in the dark	IDIOM
@@ -958,11 +958,11 @@ from day one	IDIOM
 (have|has|had) had (my|your|his|her|our|their|its) day	IDIOM
 had had its day	IDIOM
 in this day and age	IDIOM
-not (my|your|his|her|our|their|its|[^.!?, ]+) day	IDIOM
+not (my|your|his|her|our|their|its|[^.!?,]+) day	IDIOM
 one of those days	IDIOM
 seen better days	IDIOM
 known better days	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) days are numbered	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) days are numbered	IDIOM
 that will be the day	IDIOM
 those were the days	IDIOM
 beat the daylights out of	IDIOM
@@ -986,12 +986,12 @@ dead to the world	IDIOM
 dead wood	IDIOM
 from the dead	IDIOM
 over my dead body	IDIOM
-wouldn't be seen dead in [^.,!?:; ]+	IDIOM
-wouldn't be seen dead with [^.,!?:; ]+	IDIOM
-wouldn't be seen dead at [^.,!?:; ]+	IDIOM
-wouldn't be caught dead in [^.,!?:; ]+	IDIOM
-wouldn't be caught dead with [^.,!?:; ]+	IDIOM
-wouldn't be caught dead at [^.,!?:; ]+	IDIOM
+wouldn't be seen dead in [^.,!?:;]+	IDIOM
+wouldn't be seen dead with [^.,!?:;]+	IDIOM
+wouldn't be seen dead at [^.,!?:;]+	IDIOM
+wouldn't be caught dead in [^.,!?:;]+	IDIOM
+wouldn't be caught dead with [^.,!?:;]+	IDIOM
+wouldn't be caught dead at [^.,!?:;]+	IDIOM
 fall on deaf ears	IDIOM
 a big deal	IDIOM
 big deal!	IDIOM
@@ -1048,9 +1048,9 @@ like a dog with two tails	IDIOM
 my dogs are barking	IDIOM
 not a dog's chance	IDIOM
 put on the dog	IDIOM
-throw (me|you|him|her|us|them|[^.!?, ]+) to the dogs	IDIOM
+throw (me|you|him|her|us|them|[^.!?,]+) to the dogs	IDIOM
 you can't teach an old dog new tricks	IDIOM
-lay (it|that|[^.!?,]+) at (my|your|his|her|our|their|its|[^.!?, ]+) door	IDIOM
+lay (it|that|[^.!?,]+) at (my|your|his|her|our|their|its|[^.!?,]+) door	IDIOM
 leave the door open for	IDIOM
 open the door to	IDIOM
 on (my|your|his|her|our|their|its) doorstep	IDIOM
@@ -1071,21 +1071,21 @@ down in the mouth	IDIOM
 down on (my|your|his|her|our|their|its) luck	IDIOM
 down the road	IDIOM
 down the tube	IDIOM
-(have|has|had) (me|you|him|her|us|them|it|[^.!?, ]+) down as	IDIOM
-put (me|you|him|her|us|them|it|[^.!?, ]+) down as	IDIOM
+(have|has|had) (me|you|him|her|us|them|it|[^.!?,]+) down as	IDIOM
+put (me|you|him|her|us|them|it|[^.!?,]+) down as	IDIOM
 on the downgrade	IDIOM
 be downhill all the way	IDIOM
 (went|go) downhill	IDIOM
 drag (my|your|his|her|our|their|its) feet	IDIOM
 drag (my|your|his|her|our|their|its) heels	IDIOM
-drag (me|you|him|her|us|them|it|[^.!?, ]+) through the dirt	IDIOM
-drag (me|you|him|her|us|them|it|[^.!?, ]+) through the mud	IDIOM
+drag (me|you|him|her|us|them|it|[^.!?,]+) through the dirt	IDIOM
+drag (me|you|him|her|us|them|it|[^.!?,]+) through the mud	IDIOM
 sow dragon's teeth	IDIOM
 plant dragon's teeth	IDIOM
 down the drain	IDIOM
 make a drama out of	IDIOM
 feel the draught	IDIOM
-draw (my|your|his|her|our|their|its|[^.!?, ]+) fire	IDIOM
+draw (my|your|his|her|our|their|its|[^.!?,]+) fire	IDIOM
 draw the line at	IDIOM
 draw a line at	IDIOM
 bottom drawer	IDIOM
@@ -1101,11 +1101,11 @@ all dressed up and no place to go	IDIOM
 all dressed up with no place to go	IDIOM
 dressed to kill	IDIOM
 drnk like a fish	IDIOM
-drink (me|you|him|her|us|them|[^.!?, ]+) under the table	IDIOM
+drink (me|you|him|her|us|them|[^.!?,]+) under the table	IDIOM
 let drive	IDIOM
 in the driver's seat	IDIOM
 in the driving seat	IDIOM
-what (me|you|him|her|us|them|[^.!?, ]+) is driving at	IDIOM
+what (me|you|him|her|us|them|[^.!?,]+) is driving at	IDIOM
 at the drop of a hat	IDIOM
 drop the ball	IDIOM
 drop dead	IDIOM
@@ -1113,7 +1113,7 @@ drop the dime on	IDIOM
 drop a dime on	IDIOM
 drop a hint	IDIOM
 drop hints	IDIOM
-drop (me|you|him|her|us|them|[^.!?, ]+) a line	IDIOM
+drop (me|you|him|her|us|them|[^.!?,]+) a line	IDIOM
 a drop in the ocean	IDIOM
 a drop in the bucket	IDIOM
 drop (my|your|his|her|our|their|its) trousers	IDIOM
@@ -1144,23 +1144,23 @@ an eager beaver	IDIOM
 be all ears	IDIOM
 bring (it|that|[^.!?,]+) about (my|your|his|her|our|their|its) ears	IDIOM
 bring (it|that|[^.!?,]+) down about (my|your|his|her|our|their|its) ears	IDIOM
-(have|has|had) (my|your|his|her|our|their|its|[^.!?, ]+) ear	IDIOM
+(have|has|had) (my|your|his|her|our|their|its|[^.!?,]+) ear	IDIOM
 (have|has|had) (it|that|[^.!?,]+) by the ears	IDIOM
 (have|has|had) (it|that|[^.!?,]+) coming out of (my|your|his|her|our|their|its) ears	IDIOM
 (have|has|had) an ear to the ground	IDIOM
 keep an ear to the ground	IDIOM
 in one ear and out the other	IDIOM
 listen with half an ear	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) ears are burning	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) ears are flapping	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) ears are burning	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) ears are flapping	IDIOM
 up to (my|your|his|her|our|their|its) ears in	IDIOM
 early bird	IDIOM
 take an early bath	IDIOM
 earn (my|your|his|her|our|their|its) keep	IDIOM
 come back down to earth	IDIOM
-bring (me|you|him|her|us|them|[^.!?, ]+) back down to earth	IDIOM
+bring (me|you|him|her|us|them|[^.!?,]+) back down to earth	IDIOM
 come back to earth	IDIOM
-bring (me|you|him|her|us|them|[^.!?, ]+) back to earth	IDIOM
+bring (me|you|him|her|us|them|[^.!?,]+) back to earth	IDIOM
 the earth moved	IDIOM
 did the earth move for you?	IDIOM
 like nothing on earth	IDIOM
@@ -1174,8 +1174,8 @@ easy meat	IDIOM
 easy on the eye	IDIOM
 easy on the ear	IDIOM
 easy street	IDIOM
-(went|go) easy on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-be easy on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+(went|go) easy on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+be easy on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 (went|go) easy on (it|that|[^.!?,]+)	IDIOM
 (went|go) easy with (it|that|[^.!?,]+)	IDIOM
 (have|has|had) it easy	IDIOM
@@ -1183,14 +1183,14 @@ I'm easy	IDIOM
 of easy virtue	IDIOM
 take the easy way out	IDIOM
 take it easy	IDIOM
-eat (me|you|him|her|us|them|[^.!?, ]+) alive	IDIOM
+eat (me|you|him|her|us|them|[^.!?,]+) alive	IDIOM
 eat dirt	IDIOM
-eat (my|your|his|her|our|their|its|[^.!?, ]+) dust	IDIOM
+eat (my|your|his|her|our|their|its|[^.!?,]+) dust	IDIOM
 eat (my|your|his|her|our|their|its) heart out	IDIOM
-eat (me|you|him|her|us|them|[^.!?, ]+) out of house and home	IDIOM
+eat (me|you|him|her|us|them|[^.!?,]+) out of house and home	IDIOM
 eat (my|your|his|her|our|their|its) words	IDIOM
 I'll eat my hat	IDIOM
-(have|has|had) (me|you|him|her|us|them|[^.!?, ]+) eating out of (my|your|his|her|our|their|its) hand	IDIOM
+(have|has|had) (me|you|him|her|us|them|[^.!?,]+) eating out of (my|your|his|her|our|their|its) hand	IDIOM
 what's eating you?	IDIOM
 what's eating him?	IDIOM
 what's eating her?	IDIOM
@@ -1232,7 +1232,7 @@ never hear the end of (it|that|[^.!?,]+)	IDIOM
 not hear the end of (it|that|[^.!?,]+)	IDIOM
 no end	IDIOM
 no end of (it|that|[^.!?,]+)	IDIOM
-a [^.,!?:; ]+ to end all [^.,!?:; ]+s	IDIOM
+a [^.,!?:;]+ to end all [^.,!?:;]+s	IDIOM
 be (my|your|his|her|our|their|its) own worst enemy	IDIOM
 enough is enough	IDIOM
 enough said	IDIOM
@@ -1271,25 +1271,25 @@ close (my|your|his|her|our|their|its) eyes to	IDIOM
 shut (my|your|his|her|our|their|its) eyes to	IDIOM
 eyes down!	IDIOM
 eyes out on stalks	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the eye	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the eye	IDIOM
 half an eye	IDIOM
 (have|has|had) an eye for	IDIOM
 (have|has|had) eyes bigger than (my|your|his|her|our|their|its) stomach	IDIOM
 (have|has|had) eyes in the back of (my|your|his|her|our|their|its) head	IDIOM
 (have|has|had) eyes like a hawk	IDIOM
-hit (me|you|him|her|us|them|[^.!?, ]+) in the eye	IDIOM
-hit (me|you|him|her|us|them|[^.!?, ]+) between the eyes	IDIOM
+hit (me|you|him|her|us|them|[^.!?,]+) in the eye	IDIOM
+hit (me|you|him|her|us|them|[^.!?,]+) between the eyes	IDIOM
 keep an eye out for	IDIOM
 keep an eye open for	IDIOM
 keep (my|your|his|her|our|their|its) eyes open	IDIOM
 keep (my|your|his|her|our|their|its) eyes peeled	IDIOM
 keep (my|your|his|her|our|their|its) eyes skinned	IDIOM
-make eyes at (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+make eyes at (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 one in the eye for	IDIOM
 only(have|has|had) eyes for	IDIOM
-open (my|your|his|her|our|their|its|[^.!?, ]+) eyes	IDIOM
+open (my|your|his|her|our|their|its|[^.!?,]+) eyes	IDIOM
 see eye to eye	IDIOM
-[^.,!?:; ]+'s-eye view	IDIOM
+[^.,!?:;]+'s-eye view	IDIOM
 shut (my|your|his|her|our|their|its) eyes to	IDIOM
 up to (my|your|his|her|our|their|its) eyes in	IDIOM
 what the eye doesn't see, the heart doesn't grieve over	IDIOM
@@ -1300,7 +1300,7 @@ with (my|your|his|her|our|their|its) eyes shut	IDIOM
 with (my|your|his|her|our|their|its) eyes closed	IDIOM
 eyeball to eyeball	IDIOM
 eyeballs out	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the hairy eyeball	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the hairy eyeball	IDIOM
 up to the eyeballs	IDIOM
 up to (my|your|his|her|our|their|its) eyeballs	IDIOM
 raise (my|your|his|her|our|their|its) eyebrows	IDIOM
@@ -1308,7 +1308,7 @@ raise an eyebrow	IDIOM
 by an eyelash	IDIOM
 face the music	IDIOM
 face to face	IDIOM
-(get|got) out of (my|your|his|her|our|their|its|[^.!?, ]+) face	IDIOM
+(get|got) out of (my|your|his|her|our|their|its|[^.!?,]+) face	IDIOM
 in (my|your|his|her|our|their|its) face	IDIOM
 let's face it	IDIOM
 lose face	IDIOM
@@ -1322,10 +1322,10 @@ put a brave face on (it|that|[^.!?,]+)	IDIOM
 put a bold face on (it|that|[^.!?,]+)	IDIOM
 put a good face on (it|that|[^.!?,]+)	IDIOM
 save face	IDIOM
-save (my|your|his|her|our|their|its|[^.!?, ]+) face	IDIOM
+save (my|your|his|her|our|their|its|[^.!?,]+) face	IDIOM
 set (my|your|his|her|our|their|its) face against	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) face fits	IDIOM
-throw (it|that|[^.!?,]+) back in (my|your|his|her|our|their|its|[^.!?, ]+) face	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) face fits	IDIOM
+throw (it|that|[^.!?,]+) back in (my|your|his|her|our|their|its|[^.!?,]+) face	IDIOM
 a fact of life	IDIOM
 the facts of life	IDIOM
 do a fade	IDIOM
@@ -1336,7 +1336,7 @@ not(have|has|had) the faintest idea	IDIOM
 fair and square	IDIOM
 a fair deal	IDIOM
 a fair field and no favour	IDIOM
-fair play to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+fair play to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 for fair	IDIOM
 no fair	IDIOM
 fall in line	IDIOM
@@ -1357,7 +1357,7 @@ famous for fifteen minutes	IDIOM
 fifteen minutes of fame	IDIOM
 famous last words	IDIOM
 fancy (my|your|his|her|our|their|its) chances	IDIOM
-fancy (my|your|his|her|our|their|its|[^.!?, ]+) chances	IDIOM
+fancy (my|your|his|her|our|their|its|[^.!?,]+) chances	IDIOM
 be a far cry from	IDIOM
 far and away	IDIOM
 far be it from me to	IDIOM
@@ -1373,15 +1373,15 @@ the fat is in the fire	IDIOM
 live off the fat of the land	IDIOM
 live on the fat of the land	IDIOM
 a fate worse than death	IDIOM
-seal (my|your|his|her|our|their|its|[^.!?, ]+) fate	IDIOM
+seal (my|your|his|her|our|their|its|[^.!?,]+) fate	IDIOM
 like father, like son	IDIOM
 kill the fatted calf	IDIOM
-[^.,!?:; ]+ to a fault	IDIOM
+[^.,!?:;]+ to a fault	IDIOM
 do me a favor	IDIOM
-do (me|you|him|her|us|them|[^.!?, ]+) a favor	IDIOM
+do (me|you|him|her|us|them|[^.!?,]+) a favor	IDIOM
 favorite son	IDIOM
-put the fear of God in (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-put the fear of God into (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+put the fear of God in (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+put the fear of God into (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 without fear or favor	IDIOM
 feast (my|your|his|her|our|their|its) eyes on	IDIOM
 feast of reason	IDIOM
@@ -1422,8 +1422,8 @@ fight or flight	IDIOM
 fight shy of	IDIOM
 figure of fun	IDIOM
 (went|go) figure!	IDIOM
-fill (my|your|his|her|our|their|its|[^.!?, ]+) shoes	IDIOM
-fill (my|your|his|her|our|their|its|[^.!?, ]+) boots	IDIOM
+fill (my|your|his|her|our|their|its|[^.!?,]+) shoes	IDIOM
+fill (my|your|his|her|our|their|its|[^.!?,]+) boots	IDIOM
 (have|has|had) had (my|your|his|her|our|their|its) fill of	IDIOM
 find (my|your|his|her|our|their|its) feet	IDIOM
 find God	IDIOM
@@ -1437,27 +1437,27 @@ one fine day	IDIOM
 (have|has|had) (it|that|[^.!?,]+) down to a fine art	IDIOM
 the finer points of	IDIOM
 (my|your|his|her|our|their|its) finest hour	IDIOM
-[^.,!?:; ]+'s finest	IDIOM
+[^.,!?:;]+'s finest	IDIOM
 with a fine-tooth comb	IDIOM
 be all fingers and thumbs	IDIOM
 burn (my|your|his|her|our|their|its) fingers	IDIOM
 (get|got) (my|your|his|her|our|their|its) fingers burned	IDIOM
 (get|got) (my|your|his|her|our|their|its) fingers burnt	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the finger	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the finger	IDIOM
 (have|has|had) a finger in every pie	IDIOM
 (have|has|had) a finger in the pie	IDIOM
 (have|has|had) (my|your|his|her|our|their|its) finger on the pulse	IDIOM
 keep (my|your|his|her|our|their|its) finger on the pulse	IDIOM
-(have|has|had) more (it|that|[^.!?,]+) in (my|your|his|her|our|their|its) little finger than (me|you|him|her|us|them|[^.!?, ]+) else has in their whole body	IDIOM
+(have|has|had) more (it|that|[^.!?,]+) in (my|your|his|her|our|their|its) little finger than (me|you|him|her|us|them|[^.!?,]+) else has in their whole body	IDIOM
 lay a finger on	IDIOM
 point the finger	IDIOM
 put (it|that|[^.!?,]+) on the long finger	IDIOM
 put the finger on	IDIOM
 put (my|your|his|her|our|their|its) finger on	IDIOM
 snap (my|your|his|her|our|their|its) fingers	IDIOM
-twist (me|you|him|her|us|them|[^.!?, ]+) around (my|your|his|her|our|their|its) little finger	IDIOM
-wind (me|you|him|her|us|them|[^.!?, ]+) around (my|your|his|her|our|their|its) little finger	IDIOM
-wrap (me|you|him|her|us|them|[^.!?, ]+) around (my|your|his|her|our|their|its) little finger	IDIOM
+twist (me|you|him|her|us|them|[^.!?,]+) around (my|your|his|her|our|their|its) little finger	IDIOM
+wind (me|you|him|her|us|them|[^.!?,]+) around (my|your|his|her|our|their|its) little finger	IDIOM
+wrap (me|you|him|her|us|them|[^.!?,]+) around (my|your|his|her|our|their|its) little finger	IDIOM
 (my|your|his|her|our|their|its) fingers itch	IDIOM
 at (my|your|his|her|our|their|its) fingertips	IDIOM
 by (my|your|his|her|our|their|its) fingertips	IDIOM
@@ -1472,7 +1472,7 @@ fire in the belly	IDIOM
 fire in (my|your|his|her|our|their|its) belly	IDIOM
 (went|go) through fire	IDIOM
 (went|go) through fire and water	IDIOM
-light a fire under (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+light a fire under (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 under fire	IDIOM
 where's the fire?	IDIOM
 firing on all cylinders	IDIOM
@@ -1498,10 +1498,10 @@ neither fish nor fowl	IDIOM
 there are plenty more fish in the sea	IDIOM
 a fishing expedition	IDIOM
 fit for the gods	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) a fit	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) a fit	IDIOM
 in fits	IDIOM
 five-finger discount	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) five	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) five	IDIOM
 take five	IDIOM
 (get|got) a fix on	IDIOM
 fly the flag	IDIOM
@@ -1517,20 +1517,20 @@ fall flat on (my|your|his|her|our|their|its) face	IDIOM
 flat as a tack	IDIOM
 flat out	IDIOM
 on the flat	IDIOM
-catch (me|you|him|her|us|them|[^.!?, ]+) flat-footed	IDIOM
+catch (me|you|him|her|us|them|[^.!?,]+) flat-footed	IDIOM
 flavor of the month	IDIOM
 fit as a flea	IDIOM
 a flea in (my|your|his|her|our|their|its) ear	IDIOM
 in the flesh	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) flesh crawl	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) skin crawl	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) flesh crawl	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) skin crawl	IDIOM
 flesh (it|that|[^.!?,]+) out	IDIOM
 (my|your|his|her|our|their|its) flesh and blood	IDIOM
 (my|your|his|her|our|their|its) own flesh and blood	IDIOM
 flex (my|your|his|her|our|their|its) muscles	IDIOM
 in full flight	IDIOM
 flip (my|your|his|her|our|their|its) lid	IDIOM
-float (my|your|his|her|our|their|its|[^.!?, ]+) boat	IDIOM
+float (my|your|his|her|our|their|its|[^.!?,]+) boat	IDIOM
 flog a dead horse	IDIOM
 beat a dead horse	IDIOM
 be in full flood	IDIOM
@@ -1540,7 +1540,7 @@ take the floor	IDIOM
 flotsam and jetsam	IDIOM
 (went|go) with the flow	IDIOM
 in full flow	IDIOM
-the flower of [^.,!?:; ]+	IDIOM
+the flower of [^.,!?:;]+	IDIOM
 flutter (my|your|his|her|our|their|its) eyelashes	IDIOM
 drop like flies	IDIOM
 fly the coop	IDIOM
@@ -1586,15 +1586,15 @@ put (my|your|his|her|our|their|its) foot in (my|your|his|her|our|their|its) mout
 put a foot wrong	IDIOM
 set foot on	IDIOM
 set foot in	IDIOM
-sweep (me|you|him|her|us|them|[^.!?, ]+) off their feet	IDIOM
+sweep (me|you|him|her|us|them|[^.!?,]+) off their feet	IDIOM
 footloose and fancy-free	IDIOM
-play footsie with (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-follow in (my|your|his|her|our|their|its|[^.!?, ]+) footsteps	IDIOM
-tread in (my|your|his|her|our|their|its|[^.!?, ]+) footsteps	IDIOM
-there's [^.,!?:; ]+ for you	IDIOM
-that's [^.,!?:; ]+ for you	IDIOM
+play footsie with (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+follow in (my|your|his|her|our|their|its|[^.!?,]+) footsteps	IDIOM
+tread in (my|your|his|her|our|their|its|[^.!?,]+) footsteps	IDIOM
+there's [^.,!?:;]+ for you	IDIOM
+that's [^.,!?:;]+ for you	IDIOM
 forbidden fruit	IDIOM
-force (my|your|his|her|our|their|its|[^.!?, ]+) hand	IDIOM
+force (my|your|his|her|our|their|its|[^.!?,]+) hand	IDIOM
 force the issue	IDIOM
 force the pace	IDIOM
 in force	IDIOM
@@ -1646,8 +1646,8 @@ to the full	IDIOM
 the fullness of (my|your|his|her|our|their|its) heart	IDIOM
 in the fullness of time	IDIOM
 fun and games	IDIOM
-it's (my|your|his|her|our|their|its|[^.!?, ]+) funeral	IDIOM
-that's (my|your|his|her|our|their|its|[^.!?, ]+) funeral	IDIOM
+it's (my|your|his|her|our|their|its|[^.!?,]+) funeral	IDIOM
+that's (my|your|his|her|our|their|its|[^.!?,]+) funeral	IDIOM
 see the funny side of (it|that|[^.!?,]+)	IDIOM
 fur and feather	IDIOM
 the fur will fly	IDIOM
@@ -1663,14 +1663,14 @@ off (my|your|his|her|our|their|its) game	IDIOM
 on (my|your|his|her|our|their|its) game	IDIOM
 the only game in town	IDIOM
 play games	IDIOM
-play (my|your|his|her|our|their|its|[^.!?, ]+) game	IDIOM
+play (my|your|his|her|our|their|its|[^.!?,]+) game	IDIOM
 play the game	IDIOM
 what's (my|your|his|her|our|their|its) game?	IDIOM
 run the gamut	IDIOM
 garbage in, garbage out	IDIOM
 everything in the garden is lovely	IDIOM
 everything in the garden is rosy	IDIOM
-lead (me|you|him|her|us|them|[^.!?, ]+) up the garden path	IDIOM
+lead (me|you|him|her|us|them|[^.!?,]+) up the garden path	IDIOM
 run out of gas	IDIOM
 step on the gas 	IDIOM
 blow a gasket 	IDIOM
@@ -1688,8 +1688,8 @@ a gentleman's agreement	IDIOM
 the little gentleman in the velvet coat 	IDIOM
 the genuine article 	IDIOM
 let George do it 	IDIOM
-as [^.,!?:; ]+ as all (get|got) out	IDIOM
-be out to (get|got) (me|you|him|her|us|them|[^.!?, ]+) 	IDIOM
+as [^.,!?:;]+ as all (get|got) out	IDIOM
+be out to (get|got) (me|you|him|her|us|them|[^.!?,]+) 	IDIOM
 don't (get|got) mad, (get|got) even 	IDIOM
 (get|got) in there 	IDIOM
 (get|got) it on 	IDIOM
@@ -1715,16 +1715,16 @@ give and take	IDIOM
 give as good as you get	IDIOM
 give the game away	IDIOM
 give the show away	IDIOM
-give it to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+give it to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 give it up	IDIOM
-give or take [^.,!?:; ]+	IDIOM
+give or take [^.,!?:;]+	IDIOM
 not give a damn	IDIOM
 not give a hoot	IDIOM
 not give a shit	IDIOM
 what gives?	IDIOM
 stick in (my|your|his|her|our|their|its) gizzard	IDIOM
-a gleam in (my|your|his|her|our|their|its|[^.!?, ]+) eye	IDIOM
-a twinkle in (my|your|his|her|our|their|its|[^.!?, ]+) eye	IDIOM
+a gleam in (my|your|his|her|our|their|its|[^.!?,]+) eye	IDIOM
+a twinkle in (my|your|his|her|our|their|its|[^.!?,]+) eye	IDIOM
 all that glitters is not gold	IDIOM
 in (my|your|his|her|our|their|its) glory	IDIOM
 fit like a glove	IDIOM
@@ -1749,7 +1749,7 @@ to go	IDIOM
 score an own goal	IDIOM
 move the goalposts	IDIOM
 shift the goalposts	IDIOM
-(get|got) (my|your|his|her|our|their|its|[^.!?, ]+) goat	IDIOM
+(get|got) (my|your|his|her|our|their|its|[^.!?,]+) goat	IDIOM
 play the goat	IDIOM
 act the goat	IDIOM
 God's gift to	IDIOM
@@ -1761,8 +1761,8 @@ as far as it goes	IDIOM
 what goes around comes around	IDIOM
 who goes there?	IDIOM
 going, going, gone!	IDIOM
-[^.,!?:; ]+ going on [^.,!?:; ]+	IDIOM
-(have|has|had) [^.,!?:; ]+ going for you	IDIOM
+[^.,!?:;]+ going on [^.,!?:;]+	IDIOM
+(have|has|had) [^.,!?:;]+ going for you	IDIOM
 while the going is good	IDIOM
 (went|go) gold	IDIOM
 pot of gold	IDIOM
@@ -1776,22 +1776,22 @@ golden oldie	IDIOM
 the golden section	IDIOM
 goldfish bowl	IDIOM
 all to the good	IDIOM
-as good as [^.,!?:; ]+	IDIOM
+as good as [^.,!?:;]+	IDIOM
 as good as gold	IDIOM
 as good as new	IDIOM
 be as good as (my|your|his|her|our|their|its) word	IDIOM
 come up with the goods	IDIOM
 deliver the goods	IDIOM
 produce the goods	IDIOM
-(get|got) the goods on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-(have|has|had) the goods on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-good and [^.,!?:; ]+	IDIOM
+(get|got) the goods on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+(have|has|had) the goods on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+good and [^.,!?:;]+	IDIOM
 good on you!	IDIOM
 in good time	IDIOM
 never had it so good	IDIOM
 take (it|that|[^.!?,]+) in good part	IDIOM
 up to no good	IDIOM
-all (my|your|his|her|our|their|its|[^.!?, ]+) geese are swans	IDIOM
+all (my|your|his|her|our|their|its|[^.!?,]+) geese are swans	IDIOM
 kill the goose that lays the golden egg	IDIOM
 kill the goose that lays the golden eggs	IDIOM
 turn geese into swans	IDIOM
@@ -1801,8 +1801,8 @@ the gory details	IDIOM
 gospel truth	IDIOM
 out of (my|your|his|her|our|their|its) gourd	IDIOM
 up for grabs	IDIOM
-be in (my|your|his|her|our|their|its|[^.!?, ]+) good graces	IDIOM
-be in (my|your|his|her|our|their|its|[^.!?, ]+) bad graces	IDIOM
+be in (my|your|his|her|our|their|its|[^.!?,]+) good graces	IDIOM
+be in (my|your|his|her|our|their|its|[^.!?,]+) bad graces	IDIOM
 with good grace	IDIOM
 with bad grace	IDIOM
 make the grade	IDIOM
@@ -1823,8 +1823,8 @@ turn over in their grave	IDIOM
 a graven image	IDIOM
 board the gravy train	IDIOM
 climb on the gravy train	IDIOM
-grease (my|your|his|her|our|their|its|[^.!?, ]+) palm	IDIOM
-oil (my|your|his|her|our|their|its|[^.!?, ]+) palm	IDIOM
+grease (my|your|his|her|our|their|its|[^.!?,]+) palm	IDIOM
+oil (my|your|his|her|our|their|its|[^.!?,]+) palm	IDIOM
 grease the wheels	IDIOM
 oil the wheels	IDIOM
 the greasy pole	IDIOM
@@ -1846,7 +1846,7 @@ green shoots	IDIOM
 a gray area	IDIOM
 little gray cells	IDIOM
 come to grief	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) grief	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) grief	IDIOM
 like grim death	IDIOM
 the Grim Reaper	IDIOM
 grin and bear it	IDIOM
@@ -1864,7 +1864,7 @@ into the groove	IDIOM
 by the gross	IDIOM
 break new ground	IDIOM
 break fresh ground	IDIOM
-cut the ground from under (my|your|his|her|our|their|its|[^.!?, ]+) feet	IDIOM
+cut the ground from under (my|your|his|her|our|their|its|[^.!?,]+) feet	IDIOM
 (get|got) in on the ground floor	IDIOM
 (get|got) off the ground	IDIOM
 (get|got) (it|that|[^.!?,]+) off the ground	IDIOM
@@ -1889,24 +1889,24 @@ top gun	IDIOM
 under the gun	IDIOM
 with guns blazing	IDIOM
 with all guns blazing	IDIOM
-[^.,!?:; ]+ (my|your|his|her|our|their|its) guts out	IDIOM
-hate (my|your|his|her|our|their|its|[^.!?, ]+) guts	IDIOM
-(have|has|had) (my|your|his|her|our|their|its|[^.!?, ]+) guts for garters	IDIOM
+[^.,!?:;]+ (my|your|his|her|our|their|its) guts out	IDIOM
+hate (my|your|his|her|our|their|its|[^.!?,]+) guts	IDIOM
+(have|has|had) (my|your|his|her|our|their|its|[^.!?,]+) guts for garters	IDIOM
 hack it	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) hackles rise	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) hackles rise	IDIOM
 hail-fellow-well-met	IDIOM
 hair of the dog	IDIOM
 a hair's breadth	IDIOM
-in (my|your|his|her|our|their|its|[^.!?, ]+) hair	IDIOM
-out of (my|your|his|her|our|their|its|[^.!?, ]+) hair	IDIOM
+in (my|your|his|her|our|their|its|[^.!?,]+) hair	IDIOM
+out of (my|your|his|her|our|their|its|[^.!?,]+) hair	IDIOM
 keep (my|your|his|her|our|their|its) hair on!	IDIOM
 let (my|your|his|her|our|their|its) hair down	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) hair stand on end	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) hair stand on end	IDIOM
 not turn a hair	IDIOM
 put hair on (my|your|his|her|our|their|its) chest	IDIOM
 put hairs on (my|your|his|her|our|their|its) chest	IDIOM
 slit hairs	IDIOM
-a [^.,!?:; ]+ and a half	IDIOM
+a [^.,!?:;]+ and a half	IDIOM
 at half cock	IDIOM
 half a chance	IDIOM
 half a loaf	IDIOM
@@ -1921,8 +1921,8 @@ hammer and tongs	IDIOM
 take a hammering	IDIOM
 all hands	IDIOM
 all hands to the pumps	IDIOM
-bind (me|you|him|her|us|them|[^.!?, ]+) hand and foot	IDIOM
-tie (me|you|him|her|us|them|[^.!?, ]+) hand and foot	IDIOM
+bind (me|you|him|her|us|them|[^.!?,]+) hand and foot	IDIOM
+tie (me|you|him|her|us|them|[^.!?,]+) hand and foot	IDIOM
 do (it|that|[^.!?,]+) with one hand behind (my|your|his|her|our|their|its) back	IDIOM
 do (it|that|[^.!?,]+) with one hand tied behind (my|your|his|her|our|their|its) back	IDIOM
 (get|got) (my|your|his|her|our|their|its) hand in	IDIOM
@@ -1936,21 +1936,21 @@ from hand to mouth	IDIOM
 hand to mouth	IDIOM
 hands down	IDIOM
 hands off!	IDIOM
-(have|has|had) to hand it to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+(have|has|had) to hand it to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 make money hand over fist	IDIOM
 lose money hand over fist	IDIOM
 spend money hand over fist	IDIOM
-on (my|your|his|her|our|their|its|[^.!?, ]+) hands	IDIOM
-off (my|your|his|her|our|their|its|[^.!?, ]+) hands	IDIOM
+on (my|your|his|her|our|their|its|[^.!?,]+) hands	IDIOM
+off (my|your|his|her|our|their|its|[^.!?,]+) hands	IDIOM
 put (my|your|his|her|our|their|its) hands together	IDIOM
 put (my|your|his|her|our|their|its) hands up	IDIOM
 the right hand doesn't know what the left hand's doing	IDIOM
 set (my|your|his|her|our|their|its) hand to	IDIOM
 put (my|your|his|her|our|their|its) hand to	IDIOM
 take a hand in	IDIOM
-take (me|you|him|her|us|them|it|[^.!?, ]+) in hand	IDIOM
+take (me|you|him|her|us|them|it|[^.!?,]+) in hand	IDIOM
 turn (my|your|his|her|our|their|its) hand to (it|that|[^.!?,]+)	IDIOM
-wait on (me|you|him|her|us|them|[^.!?, ]+) hand and foot	IDIOM
+wait on (me|you|him|her|us|them|[^.!?,]+) hand and foot	IDIOM
 with one hand behind (my|your|his|her|our|their|its) back	IDIOM
 with one hand tied behind (my|your|his|her|our|their|its) back	IDIOM
 (get|got) a handle on	IDIOM
@@ -1960,7 +1960,7 @@ hang fire	IDIOM
 hang in there	IDIOM
 hang a left	IDIOM
 hang a right	IDIOM
-hang (me|you|him|her|us|them|[^.!?, ]+) out to dry	IDIOM
+hang (me|you|him|her|us|them|[^.!?,]+) out to dry	IDIOM
 hang tough	IDIOM
 hang up (my|your|his|her|our|their|its) boots	IDIOM
 hang (my|your|his|her|our|their|its) hat	IDIOM
@@ -1977,14 +1977,14 @@ a hard case	IDIOM
 the hard way	IDIOM
 play hard to get	IDIOM
 play hardball	IDIOM
-not harm a hair of (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
+not harm a hair of (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
 out of harm's way	IDIOM
-there is no harm in [^.,!?:; ]+	IDIOM
+there is no harm in [^.,!?:;]+	IDIOM
 in harness	IDIOM
 harp on the same string	IDIOM
 under the harrow	IDIOM
 make a hash of	IDIOM
-settle (my|your|his|her|our|their|its|[^.!?, ]+) hash	IDIOM
+settle (my|your|his|her|our|their|its|[^.!?,]+) hash	IDIOM
 more haste, less speed	IDIOM
 be all hat and no cattle	IDIOM
 black hat	IDIOM
@@ -2006,12 +2006,12 @@ do a hatchet job on	IDIOM
 got it in for	IDIOM
 (have|has|had) it in you to do (it|that|[^.!?,]+)	IDIOM
 got it in you to do (it|that|[^.!?,]+)	IDIOM
-(have|has|had) it out with (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-(have|has|had) nothing on (me|you|him|her|us|them|it|[^.!?, ]+)	IDIOM
-got nothing on (me|you|him|her|us|them|it|[^.!?, ]+)	IDIOM
+(have|has|had) it out with (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+(have|has|had) nothing on (me|you|him|her|us|them|it|[^.!?,]+)	IDIOM
+got nothing on (me|you|him|her|us|them|it|[^.!?,]+)	IDIOM
 (have|has|had) what it takes	IDIOM
 play havoc with	IDIOM
-watch (me|you|him|her|us|them|[^.!?, ]+) like a hawk	IDIOM
+watch (me|you|him|her|us|them|[^.!?,]+) like a hawk	IDIOM
 hit the hay	IDIOM
 make hay	IDIOM
 above (my|your|his|her|our|their|its) head	IDIOM
@@ -2020,21 +2020,21 @@ knock people's heads together	IDIOM
 bang (my|your|his|her|our|their|its) head against a brick wall	IDIOM
 knock (my|your|his|her|our|their|its) head against a brick wall	IDIOM
 be hanging over (my|your|his|her|our|their|its) head	IDIOM
-be on (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
-be on (my|your|his|her|our|their|its|[^.!?, ]+) own head	IDIOM
-bite (my|your|his|her|our|their|its|[^.!?, ]+) head off	IDIOM
-snap (my|your|his|her|our|their|its|[^.!?, ]+) head off	IDIOM
+be on (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
+be on (my|your|his|her|our|their|its|[^.!?,]+) own head	IDIOM
+bite (my|your|his|her|our|their|its|[^.!?,]+) head off	IDIOM
+snap (my|your|his|her|our|their|its|[^.!?,]+) head off	IDIOM
 come to a head	IDIOM
 bring to a head	IDIOM
 do (it|that|[^.!?,]+) standing on (my|your|his|her|our|their|its) head	IDIOM
-enter (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
+enter (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
 from head to toe	IDIOM
 from head to foot	IDIOM
 (get|got) (my|your|his|her|our|their|its) head down	IDIOM
 (get|got) (my|your|his|her|our|their|its) head round (it|that|[^.!?,]+)	IDIOM
 (get|got) (my|your|his|her|our|their|its) head around (it|that|[^.!?,]+)	IDIOM
 give head	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) head	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) head	IDIOM
 (went|go) to (my|your|his|her|our|their|its) head	IDIOM
 head and shoulders above	IDIOM
 head over heels	IDIOM
@@ -2052,13 +2052,13 @@ out of (my|your|his|her|our|their|its) head	IDIOM
 off the top of (my|your|his|her|our|their|its) head	IDIOM
 over (my|your|his|her|our|their|its) head	IDIOM
 put (my|your|his|her|our|their|its) heads together	IDIOM
-put (it|that|[^.!?,]+) into (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
+put (it|that|[^.!?,]+) into (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
 stand (it|that|[^.!?,]+) on its head	IDIOM
 turn (it|that|[^.!?,]+) on its head	IDIOM
 take it into (my|your|his|her|our|their|its) head to do (it|that|[^.!?,]+)	IDIOM
 turn heads	IDIOM
-turn (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
-[^.,!?:; ]+ (my|your|his|her|our|their|its) head off	IDIOM
+turn (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
+[^.,!?:;]+ (my|your|his|her|our|their|its) head off	IDIOM
 hit the headlines	IDIOM
 at the top of the heap	IDIOM
 at the bottom of the heap	IDIOM
@@ -2091,7 +2091,7 @@ a heartbeat away from	IDIOM
 hearth and home	IDIOM
 if you can't stand the heat, (get|got) out of the kitchen	IDIOM
 in the heat of the moment	IDIOM
-turn the heat on (me|you|him|her|us|them|it|[^.!?, ]+)	IDIOM
+turn the heat on (me|you|him|her|us|them|it|[^.!?,]+)	IDIOM
 turn up the heat	IDIOM
 heave in sight	IDIOM
 heave into view	IDIOM
@@ -2103,16 +2103,16 @@ stink to high heaven	IDIOM
 smell to high heaven	IDIOM
 the heavens opened	IDIOM
 heavy on	IDIOM
-a heck of a [^.,!?:; ]+	IDIOM
+a heck of a [^.,!?:;]+	IDIOM
 hedge (my|your|his|her|our|their|its) bets	IDIOM
 at heel	IDIOM
 to heel	IDIOM
 cool (my|your|his|her|our|their|its) heels	IDIOM
 down at heel	IDIOM
 kick up (my|your|his|her|our|their|its) heels	IDIOM
-set (me|you|him|her|us|them|[^.!?, ]+) back on their heels	IDIOM
-rock (me|you|him|her|us|them|[^.!?, ]+) back on their heels	IDIOM
-show (me|you|him|her|us|them|it|[^.!?, ]+) a clean pair of heels	IDIOM
+set (me|you|him|her|us|them|[^.!?,]+) back on their heels	IDIOM
+rock (me|you|him|her|us|them|[^.!?,]+) back on their heels	IDIOM
+show (me|you|him|her|us|them|it|[^.!?,]+) a clean pair of heels	IDIOM
 take to (my|your|his|her|our|their|its) heels	IDIOM
 take to (my|your|his|her|our|their|its) legs	IDIOM
 turn on (my|your|his|her|our|their|its) heel	IDIOM
@@ -2122,16 +2122,16 @@ all hell was let loose	IDIOM
 be hell on	IDIOM
 come hell or high water	IDIOM
 for the hell of it	IDIOM
-[^.,!?:; ]+ from hell	IDIOM
+[^.,!?:;]+ from hell	IDIOM
 (get|got) the hell out	IDIOM
 (get|got) the hell out of	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) hell	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) hell	IDIOM
 (get|got) hell	IDIOM
 (went|go) to hell and back	IDIOM
 (went|go) through hell and back	IDIOM
 (went|go) to hell in a handbasket	IDIOM
-a hell of a [^.,!?:; ]+	IDIOM
-one hell of a [^.,!?:; ]+	IDIOM
+a hell of a [^.,!?:;]+	IDIOM
+one hell of a [^.,!?:;]+	IDIOM
 hell's half acre	IDIOM
 hell hath no fury like a woman scorned	IDIOM
 not a hope in hell	IDIOM
@@ -2152,7 +2152,7 @@ up to here	IDIOM
 hewers of wood and drawers of water	IDIOM
 a hidden agenda	IDIOM
 hide (my|your|his|her|our|their|its) light under a bushel	IDIOM
-neither hide nor hair of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+neither hide nor hair of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 from on high	IDIOM
 high and dry	IDIOM
 high and low	IDIOM
@@ -2170,14 +2170,14 @@ take to the hills	IDIOM
 over the hill	IDIOM
 to the hilt	IDIOM
 up to the hilt	IDIOM
-in (my|your|his|her|our|their|its|[^.!?, ]+) hip pocket	IDIOM
+in (my|your|his|her|our|their|its|[^.!?,]+) hip pocket	IDIOM
 hire and fire	IDIOM
 be history	IDIOM
 make history	IDIOM
 the rest is history	IDIOM
 hit and miss	IDIOM
 hit-and-run	IDIOM
-hit (me|you|him|her|us|them|[^.!?, ]+) below the belt	IDIOM
+hit (me|you|him|her|us|them|[^.!?,]+) below the belt	IDIOM
 hit the ground running	IDIOM
 hit it off with	IDIOM
 hit the mark	IDIOM
@@ -2197,11 +2197,11 @@ hog in armour	IDIOM
 hog on ice	IDIOM
 hold court	IDIOM
 hold the fort	IDIOM
-hold a gun to (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
-put a gun to (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
-hold a pistol to (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
-put a pistol to (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
-hold (my|your|his|her|our|their|its|[^.!?, ]+) hand	IDIOM
+hold a gun to (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
+put a gun to (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
+hold a pistol to (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
+put a pistol to (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
+hold (my|your|his|her|our|their|its|[^.!?,]+) hand	IDIOM
 hold the line	IDIOM
 hold (my|your|his|her|our|their|its) horses	IDIOM
 hold (my|your|his|her|our|their|its) tongue	IDIOM
@@ -2209,20 +2209,20 @@ hold water	IDIOM
 no holds barred	IDIOM
 put (it|that|[^.!?,]+) on hold	IDIOM
 be left holding the baby	IDIOM
-there is no holding (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+there is no holding (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 blow a hole in	IDIOM
 hole in the wall	IDIOM
 in a hole	IDIOM
 need (it|that|[^.!?,]+) like a hole in the head	IDIOM
 holier than thou	IDIOM
-beat (me|you|him|her|us|them|[^.!?, ]+) hollow	IDIOM
+beat (me|you|him|her|us|them|[^.!?,]+) hollow	IDIOM
 hollow legs	IDIOM
 in the hollow of (my|your|his|her|our|their|its) hand	IDIOM
 holy of holies	IDIOM
-bring (it|that|[^.!?,]+) home to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+bring (it|that|[^.!?,]+) home to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 close to home	IDIOM
 near to home	IDIOM
-come home to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+come home to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 drive (it|that|[^.!?,]+) home	IDIOM
 hit home	IDIOM
 strike home	IDIOM
@@ -2237,12 +2237,12 @@ honor bound	IDIOM
 on the hoof	IDIOM
 by hook or by crook	IDIOM
 (get|got) the hook	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the hook	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the hook	IDIOM
 hook, line, and sinker	IDIOM
 off the hook	IDIOM
 on the hook for	IDIOM
 play hookey	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) through the hoops	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) through the hoops	IDIOM
 (went|go) through the hoops	IDIOM
 not give a hoot	IDIOM
 not give two hoots	IDIOM
@@ -2264,10 +2264,10 @@ from the horse's mouth	IDIOM
 straight from the horse's mouth	IDIOM
 a horse of another color	IDIOM
 a horse of different color	IDIOM
-wild horses won't drag (me|you|him|her|us|them|[^.!?, ]+) to (it|that|[^.!?,]+)	IDIOM
-wild horses won't drag (it|that|[^.!?,]+) from (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+wild horses won't drag (me|you|him|her|us|them|[^.!?,]+) to (it|that|[^.!?,]+)	IDIOM
+wild horses won't drag (it|that|[^.!?,]+) from (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 a hostage to fortune	IDIOM
-drop (me|you|him|her|us|them|it|[^.!?, ]+) like a hot potato	IDIOM
+drop (me|you|him|her|us|them|it|[^.!?,]+) like a hot potato	IDIOM
 (went|go) hot and cold	IDIOM
 (have|has|had) the hots for	IDIOM
 hot air	IDIOM
@@ -2276,8 +2276,8 @@ hot on the heels of	IDIOM
 hot to trot	IDIOM
 hot under the collar	IDIOM
 in hot water	IDIOM
-make it hot for (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-make things hot for (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+make it hot for (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+make things hot for (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 keep late hours	IDIOM
 keep regular hours	IDIOM
 house and home	IDIOM
@@ -2298,7 +2298,7 @@ the tip of an iceberg	IDIOM
 the tip of the iceberg	IDIOM
 the icing on the cake	IDIOM
 (get|got) ideas	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) ideas	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) ideas	IDIOM
 if anything	IDIOM
 be under the illusion that	IDIOM
 be under no illusion	IDIOM
@@ -2306,10 +2306,10 @@ be under no illusions	IDIOM
 imitation is the sincerest form of flattery	IDIOM
 be in for	IDIOM
 be in on	IDIOM
-(have|has|had) it in for (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+(have|has|had) it in for (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 in with	IDIOM
 the ins and outs	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) an inch	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) an inch	IDIOM
 within an inch of (my|your|his|her|our|their|its) life	IDIOM
 incline (my|your|his|her|our|their|its) ear	IDIOM
 Indian summer	IDIOM
@@ -2317,7 +2317,7 @@ under the influence	IDIOM
 do (myself|yourself|himeself|herself|ourselves|yourselves|themselves) an injury	IDIOM
 in all innocence	IDIOM
 on the inside	IDIOM
-know (me|you|him|her|us|them|it|[^.!?, ]+) inside out	IDIOM
+know (me|you|him|her|us|them|it|[^.!?,]+) inside out	IDIOM
 turn (it|that|[^.!?,]+) inside out	IDIOM
 add insult to injury	IDIOM
 to all intents and purposes	IDIOM
@@ -2328,7 +2328,7 @@ intestinal fortitude	IDIOM
 (have|has|had) many irons in the fire	IDIOM
 (have|has|had) other irons in the fire	IDIOM
 an iron curtain	IDIOM
-the iron entered into (my|your|his|her|our|their|its|[^.!?, ]+) soul	IDIOM
+the iron entered into (my|your|his|her|our|their|its|[^.!?,]+) soul	IDIOM
 an iron hand in a velvet glove	IDIOM
 an iron fist in a velvet glove	IDIOM
 iron out the wrinkles	IDIOM
@@ -2347,10 +2347,10 @@ plain Jane	IDIOM
 and all that jazz	IDIOM
 Jekyll and Hyde	IDIOM
 the jewel in the crown	IDIOM
-the jewel in (my|your|his|her|our|their|its|[^.!?, ]+) crown	IDIOM
+the jewel in (my|your|his|her|our|their|its|[^.!?,]+) crown	IDIOM
 in jig time	IDIOM
 the jig is up	IDIOM
-do a job on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+do a job on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 more than (my|your|his|her|our|their|its) job's worth	IDIOM
 jockey for position	IDIOM
 join up the dots	IDIOM
@@ -2358,7 +2358,7 @@ joined at the hip	IDIOM
 out of joint	IDIOM
 (get|got) beyond a joke	IDIOM
 be beyond a joke	IDIOM
-the joke is on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+the joke is on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 the joker in the pack	IDIOM
 full of the joys of spring	IDIOM
 a Judas kiss	IDIOM
@@ -2368,8 +2368,8 @@ against (my|your|his|her|our|their|its) better judgement	IDIOM
 (have|has|had) the jump on	IDIOM
 (went|go) jump in the lake	IDIOM
 (went|go) and jump in the lake	IDIOM
-jump (my|your|his|her|our|their|its|[^.!?, ]+) bones	IDIOM
-jump down (my|your|his|her|our|their|its|[^.!?, ]+) throat	IDIOM
+jump (my|your|his|her|our|their|its|[^.!?,]+) bones	IDIOM
+jump down (my|your|his|her|our|their|its|[^.!?,]+) throat	IDIOM
 jump the gun	IDIOM
 jump out of (my|your|his|her|our|their|its) skin	IDIOM
 jump the queue	IDIOM
@@ -2388,8 +2388,8 @@ one jump ahead	IDIOM
 be jumping up and down	IDIOM
 the law of the jungle	IDIOM
 the jury is out	IDIOM
-do (me|you|him|her|us|them|it|[^.!?, ]+) justice	IDIOM
-do justice to (me|you|him|her|us|them|it|[^.!?, ]+)	IDIOM
+do (me|you|him|her|us|them|it|[^.!?,]+) justice	IDIOM
+do justice to (me|you|him|her|us|them|it|[^.!?,]+)	IDIOM
 do (myself|yourself|himeself|herself|ourselves|yourselves|themselves) justice	IDIOM
 for keeps	IDIOM
 keep open house	IDIOM
@@ -2401,24 +2401,24 @@ you can't keep a good woman down	IDIOM
 beyond (my|your|his|her|our|their|its) ken	IDIOM
 in key	IDIOM
 out of key	IDIOM
-kick (my|your|his|her|our|their|its|[^.!?, ]+) ass	IDIOM
-kick (my|your|his|her|our|their|its|[^.!?, ]+) butt	IDIOM
+kick (my|your|his|her|our|their|its|[^.!?,]+) ass	IDIOM
+kick (my|your|his|her|our|their|its|[^.!?,]+) butt	IDIOM
 kick ass	IDIOM
 kick butt	IDIOM
 kick some ass	IDIOM
 kick some butt	IDIOM
 kick the bucket	IDIOM
-kick (me|you|him|her|us|them|[^.!?, ]+) down the ladder	IDIOM
+kick (me|you|him|her|us|them|[^.!?,]+) down the ladder	IDIOM
 kick the gong around	IDIOM
 kick the habit	IDIOM
 kicking and screaming	IDIOM
 a kick in the teeth	IDIOM
-kick (me|you|him|her|us|them|[^.!?, ]+) when they are down	IDIOM
+kick (me|you|him|her|us|them|[^.!?,]+) when they are down	IDIOM
 kick up a fuss	IDIOM
 kick up a stink	IDIOM
 kick (myself|yourself|himeself|herself|ourselves|yourselves|themselves)	IDIOM
-handle (me|you|him|her|us|them|it|[^.!?, ]+) with kid gloves	IDIOM
-treat (me|you|him|her|us|them|it|[^.!?, ]+) with kid gloves	IDIOM
+handle (me|you|him|her|us|them|it|[^.!?,]+) with kid gloves	IDIOM
+treat (me|you|him|her|us|them|it|[^.!?,]+) with kid gloves	IDIOM
 kids' stuff	IDIOM
 be in at the kill	IDIOM
 (went|go) for the kill	IDIOM
@@ -2427,7 +2427,7 @@ close in for the kill	IDIOM
 if it kills you	IDIOM
 kill time	IDIOM
 kill two birds with one stone	IDIOM
-kill (me|you|him|her|us|them|[^.!?, ]+) with kindness	IDIOM
+kill (me|you|him|her|us|them|[^.!?,]+) with kindness	IDIOM
 kill (myself|yourself|himeself|herself|ourselves|yourselves|themselves) laughing	IDIOM
 make a killing	IDIOM
 out of kilter	IDIOM
@@ -2441,7 +2441,7 @@ until kingdom come	IDIOM
 to kingdom come	IDIOM
 kiss and make up	IDIOM
 kiss and tell	IDIOM
-kiss (my|your|his|her|our|their|its|[^.!?, ]+) ass	IDIOM
+kiss (my|your|his|her|our|their|its|[^.!?,]+) ass	IDIOM
 kiss ass	IDIOM
 kiss my ass	IDIOM
 kiss of death	IDIOM
@@ -2456,7 +2456,7 @@ high as a kite	IDIOM
 kith and kin	IDIOM
 at (my|your|his|her|our|their|its) mother's knee	IDIOM
 at (my|your|his|her|our|their|its) father's knee	IDIOM
-bring (me|you|him|her|us|them|it|[^.!?, ]+) to their knees	IDIOM
+bring (me|you|him|her|us|them|it|[^.!?,]+) to their knees	IDIOM
 on (my|your|his|her|our|their|its) knees	IDIOM
 weak at the knees	IDIOM
 (my|your|his|her|our|their|its) knees are knocking	IDIOM
@@ -2472,16 +2472,16 @@ on a razor's edge	IDIOM
 a knight in shining armor	IDIOM
 stick to the knitting	IDIOM
 stick to (my|your|his|her|our|their|its) knitting	IDIOM
-knock (my|your|his|her|our|their|its|[^.!?, ]+) block off	IDIOM
-knock (me|you|him|her|us|them|[^.!?, ]+) dead	IDIOM
-knock (me|you|him|her|us|them|[^.!?, ]+) into the middle of next week	IDIOM
+knock (my|your|his|her|our|their|its|[^.!?,]+) block off	IDIOM
+knock (me|you|him|her|us|them|[^.!?,]+) dead	IDIOM
+knock (me|you|him|her|us|them|[^.!?,]+) into the middle of next week	IDIOM
 knock it off	IDIOM
 knock on the door	IDIOM
 knock at the door	IDIOM
 take a knock	IDIOM
-tie (me|you|him|her|us|them|[^.!?, ]+) in knots	IDIOM
-tie (me|you|him|her|us|them|[^.!?, ]+) up in knots	IDIOM
-[^.,!?:; ]+ as we know it	IDIOM
+tie (me|you|him|her|us|them|[^.!?,]+) in knots	IDIOM
+tie (me|you|him|her|us|them|[^.!?,]+) up in knots	IDIOM
+[^.,!?:;]+ as we know it	IDIOM
 be in the know	IDIOM
 know a thing or two	IDIOM
 know better than	IDIOM
@@ -2502,7 +2502,7 @@ not want to know	IDIOM
 what do you know	IDIOM
 you never know	IDIOM
 there is no knowing	IDIOM
-for all (me|you|him|her|us|them|[^.!?, ]+) knows	IDIOM
+for all (me|you|him|her|us|them|[^.!?,]+) knows	IDIOM
 a labor of Hercules	IDIOM
 a labor of love	IDIOM
 labor the point	IDIOM
@@ -2518,8 +2518,8 @@ land of Nod	IDIOM
 live off the land	IDIOM
 live off the country	IDIOM
 speak the same language	IDIOM
-fall into (my|your|his|her|our|their|its|[^.!?, ]+) lap	IDIOM
-drop into (my|your|his|her|our|their|its|[^.!?, ]+) lap	IDIOM
+fall into (my|your|his|her|our|their|its|[^.!?,]+) lap	IDIOM
+drop into (my|your|his|her|our|their|its|[^.!?,]+) lap	IDIOM
 in the lap of luxury	IDIOM
 in the lap of the gods	IDIOM
 up with the lark	IDIOM
@@ -2534,7 +2534,7 @@ don't make me laugh	IDIOM
 good for a laugh	IDIOM
 (have|has|had) the last laugh	IDIOM
 laugh all the way to the bank	IDIOM
-laugh in (my|your|his|her|our|their|its|[^.!?, ]+) face	IDIOM
+laugh in (my|your|his|her|our|their|its|[^.!?,]+) face	IDIOM
 laugh (myself|yourself|himeself|herself|ourselves|yourselves|themselves) silly	IDIOM
 laugh (myself|yourself|himeself|herself|ourselves|yourselves|themselves) sick	IDIOM
 be laughing	IDIOM
@@ -2545,18 +2545,18 @@ rest on (my|your|his|her|our|their|its) laurels	IDIOM
 be a law unto (myself|yourself|himeself|herself|ourselves|yourselves|themselves)	IDIOM
 lay down the law	IDIOM
 take the law into (my|your|his|her|our|their|its) own hands	IDIOM
-take (me|you|him|her|us|them|[^.!?, ]+) to law	IDIOM
+take (me|you|him|her|us|them|[^.!?,]+) to law	IDIOM
 there's no law against it	IDIOM
 lay a charge	IDIOM
-lay (me|you|him|her|us|them|[^.!?, ]+) low	IDIOM
+lay (me|you|him|her|us|them|[^.!?,]+) low	IDIOM
 lay (it|that|[^.!?,]+) on thick	IDIOM
 lay (it|that|[^.!?,]+) to rest	IDIOM
 (get|got) the lead out	IDIOM
-lead (me|you|him|her|us|them|[^.!?, ]+) by the nose	IDIOM
+lead (me|you|him|her|us|them|[^.!?,]+) by the nose	IDIOM
 lead from the front	IDIOM
 shake like a leaf	IDIOM
 tremble like a leaf	IDIOM
-take a leaf out of (my|your|his|her|our|their|its|[^.!?, ]+) book	IDIOM
+take a leaf out of (my|your|his|her|our|their|its|[^.!?,]+) book	IDIOM
 turn over a new leaf	IDIOM
 (have|has|had) a leak	IDIOM
 take a leak	IDIOM
@@ -2566,7 +2566,7 @@ by leaps and bounds	IDIOM
 leap to the eye	IDIOM
 to say the least	IDIOM
 the least of it	IDIOM
-leave (me|you|him|her|us|them|[^.!?, ]+) cold	IDIOM
+leave (me|you|him|her|us|them|[^.!?,]+) cold	IDIOM
 leave much to be desired	IDIOM
 leave a lot to be desired	IDIOM
 leave well alone	IDIOM
@@ -2588,7 +2588,7 @@ a legend in their own lifetime	IDIOM
 lady of leisure	IDIOM
 man of leisure	IDIOM
 gentleman of leisure	IDIOM
-hand (me|you|him|her|us|them|[^.!?, ]+) a lemon	IDIOM
+hand (me|you|him|her|us|them|[^.!?,]+) a lemon	IDIOM
 lend an ear	IDIOM
 lend (my|your|his|her|our|their|its) ears	IDIOM
 lend (my|your|his|her|our|their|its) name to (it|that|[^.!?,]+)	IDIOM
@@ -2596,7 +2596,7 @@ a leopard can't change his spots	IDIOM
 in less than no time	IDIOM
 the lesser evil	IDIOM
 the lesser of two evils	IDIOM
-let (me|you|him|her|us|them|[^.!?, ]+) down gently	IDIOM
+let (me|you|him|her|us|them|[^.!?,]+) down gently	IDIOM
 let it rest	IDIOM
 let it go	IDIOM
 let (myself|yourself|himeself|herself|ourselves|yourselves|themselves) go	IDIOM
@@ -2612,7 +2612,7 @@ on the level	IDIOM
 take liberties	IDIOM
 take the liberty	IDIOM
 at a lick	IDIOM
-lick (my|your|his|her|our|their|its|[^.!?, ]+) boots	IDIOM
+lick (my|your|his|her|our|their|its|[^.!?,]+) boots	IDIOM
 lick (my|your|his|her|our|their|its) lips	IDIOM
 smack (my|your|his|her|our|their|its) lips	IDIOM
 lick (my|your|his|her|our|their|its) chops	IDIOM
@@ -2650,7 +2650,7 @@ there's life in the old dog yet	IDIOM
 this is the life	IDIOM
 to the life	IDIOM
 throw a lifeline to	IDIOM
-throw (me|you|him|her|us|them|[^.!?, ]+) a lifeline	IDIOM
+throw (me|you|him|her|us|them|[^.!?,]+) a lifeline	IDIOM
 of a lifetime	IDIOM
 lift a finger	IDIOM
 lift a hand	IDIOM
@@ -2665,7 +2665,7 @@ the lights are on but no one is at home	IDIOM
 make light of	IDIOM
 make little of	IDIOM
 make light work of	IDIOM
-punch (my|your|his|her|our|their|its|[^.!?, ]+) lights out	IDIOM
+punch (my|your|his|her|our|their|its|[^.!?,]+) lights out	IDIOM
 see the light	IDIOM
 see the light of day	IDIOM
 throw light on	IDIOM
@@ -2675,18 +2675,18 @@ lightning never strikes twice	IDIOM
 like lightning	IDIOM
 like greased lightning	IDIOM
 like it or not	IDIOM
-like [^.,!?:; ]+, like [^.,!?:; ]+	IDIOM
+like [^.,!?:;]+, like [^.,!?:;]+	IDIOM
 the likes of	IDIOM
 a likely story	IDIOM
 not likely!	IDIOM
 out on a limb	IDIOM
-tear (me|you|him|her|us|them|[^.!?, ]+) limb from limb	IDIOM
+tear (me|you|him|her|us|them|[^.!?,]+) limb from limb	IDIOM
 all along the line	IDIOM
 all the way down the line	IDIOM
 the bottom line	IDIOM
 come down to the line	IDIOM
 come into line	IDIOM
-bring (me|you|him|her|us|them|it|[^.!?, ]+) into line	IDIOM
+bring (me|you|him|her|us|them|it|[^.!?,]+) into line	IDIOM
 (get|got) a line on	IDIOM
 in line for	IDIOM
 lay it on the line	IDIOM
@@ -2700,14 +2700,14 @@ a lion in the way	IDIOM
 the lion's den	IDIOM
 the lion's mouth	IDIOM
 the lion's share	IDIOM
-throw (me|you|him|her|us|them|[^.!?, ]+) to the lions	IDIOM
+throw (me|you|him|her|us|them|[^.!?,]+) to the lions	IDIOM
 bite (my|your|his|her|our|their|its) lip	IDIOM
 curl (my|your|his|her|our|their|its) lip	IDIOM
-hang on (my|your|his|her|our|their|its|[^.!?, ]+) lips	IDIOM
+hang on (my|your|his|her|our|their|its|[^.!?,]+) lips	IDIOM
 pay lip service to (it|that|[^.!?,]+)	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) lips are sealed	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) lips are sealed	IDIOM
 little stranger	IDIOM
-quite the little [^.,!?:; ]+	IDIOM
+quite the little [^.,!?:;]+	IDIOM
 live and breathe (it|that|[^.!?,]+)	IDIOM
 live and learn	IDIOM
 live and let live	IDIOM
@@ -2729,11 +2729,11 @@ within living memory	IDIOM
 the living image of	IDIOM
 (get|got) a load of	IDIOM
 (get|got) a load on	IDIOM
-load the dice against (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-load the dice in favor of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+load the dice against (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+load the dice in favor of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 take a load off (my|your|his|her|our|their|its) feet	IDIOM
 take the load off (my|your|his|her|our|their|its) feet	IDIOM
-take a load off (my|your|his|her|our|their|its|[^.!?, ]+) mind	IDIOM
+take a load off (my|your|his|her|our|their|its|[^.!?,]+) mind	IDIOM
 (have|has|had) a lock on	IDIOM
 lock horns	IDIOM
 lock, stock, and barrel	IDIOM
@@ -2752,15 +2752,15 @@ for the long haul	IDIOM
 look before you leap	IDIOM
 look lively	IDIOM
 look the part	IDIOM
-look (me|you|him|her|us|them|[^.!?, ]+) in the eye	IDIOM
-look (me|you|him|her|us|them|[^.!?, ]+) in the face	IDIOM
-look (me|you|him|her|us|them|[^.!?, ]+) up and down	IDIOM
+look (me|you|him|her|us|them|[^.!?,]+) in the eye	IDIOM
+look (me|you|him|her|us|them|[^.!?,]+) in the face	IDIOM
+look (me|you|him|her|us|them|[^.!?,]+) up and down	IDIOM
 look the other way	IDIOM
 look sharp	IDIOM
 be on the lookout	IDIOM
 in the loop	IDIOM
 out of the loop	IDIOM
-throw (me|you|him|her|us|them|[^.!?, ]+) for a loop	IDIOM
+throw (me|you|him|her|us|them|[^.!?,]+) for a loop	IDIOM
 hang loose	IDIOM
 stay loose	IDIOM
 a loose cannon	IDIOM
@@ -2773,9 +2773,9 @@ a losing battle	IDIOM
 all is not lost	IDIOM
 be lost for words	IDIOM
 at a loss for words	IDIOM
-be lost on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+be lost on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 (get|got) lost	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) up for lost	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) up for lost	IDIOM
 make up for lost time	IDIOM
 all over the lot	IDIOM
 throw in (my|your|his|her|our|their|its) lot with	IDIOM
@@ -2807,7 +2807,7 @@ what you are made of	IDIOM
 wave a magic wand	IDIOM
 wave (my|your|his|her|our|their|its) magic wand	IDIOM
 by main force	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) day	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) day	IDIOM
 make a day of it	IDIOM
 make a night of it	IDIOM
 make do	IDIOM
@@ -2816,8 +2816,8 @@ make nothing of	IDIOM
 not make anything of	IDIOM
 make or break	IDIOM
 meet (my|your|his|her|our|their|its) maker	IDIOM
-be the making of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-as [^.,!?:; ]+ as the next man	IDIOM
+be the making of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+as [^.,!?:;]+ as the next man	IDIOM
 man about town	IDIOM
 the man in the moon	IDIOM
 man of the cloth	IDIOM
@@ -2872,11 +2872,11 @@ not know the meaning of the word	IDIOM
 for good measure	IDIOM
 a dose of (my|your|his|her|our|their|its) own medicine	IDIOM
 a taste of (my|your|his|her|our|their|its) own medicine	IDIOM
-meet (my|your|his|her|our|their|its|[^.!?, ]+) eye	IDIOM
-meet (my|your|his|her|our|their|its|[^.!?, ]+) eyes	IDIOM
-meet (my|your|his|her|our|their|its|[^.!?, ]+) gaze	IDIOM
-meet (me|you|him|her|us|them|[^.!?, ]+) halfway	IDIOM
-there's more to (me|you|him|her|us|them|it|[^.!?, ]+) than meets the eye	IDIOM
+meet (my|your|his|her|our|their|its|[^.!?,]+) eye	IDIOM
+meet (my|your|his|her|our|their|its|[^.!?,]+) eyes	IDIOM
+meet (my|your|his|her|our|their|its|[^.!?,]+) gaze	IDIOM
+meet (me|you|him|her|us|them|[^.!?,]+) halfway	IDIOM
+there's more to (me|you|him|her|us|them|it|[^.!?,]+) than meets the eye	IDIOM
 a meeting of minds	IDIOM
 melt in the mouth	IDIOM
 take a trip down memory lane	IDIOM
@@ -2885,13 +2885,13 @@ mend fences	IDIOM
 mend (my|your|his|her|our|their|its) fences	IDIOM
 on the mend	IDIOM
 the more the merrier	IDIOM
-mess with (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
+mess with (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
 (get|got) the message	IDIOM
 send the right message	IDIOM
 send the wrong message	IDIOM
 shoot the messenger	IDIOM
 kill the messenger	IDIOM
-there is method in (my|your|his|her|our|their|its|[^.!?, ]+) madness	IDIOM
+there is method in (my|your|his|her|our|their|its|[^.!?,]+) madness	IDIOM
 under the microscope	IDIOM
 the Midas touch	IDIOM
 the middle of nowhere	IDIOM
@@ -2911,7 +2911,7 @@ cry over spilled milk	IDIOM
 milk and honey	IDIOM
 milk the bull	IDIOM
 the milk of human kindness	IDIOM
-a [^.,!?:; ]+ in a million	IDIOM
+a [^.,!?:;]+ in a million	IDIOM
 look a million dollars	IDIOM
 look like a million dollars	IDIOM
 feel like a million dollars	IDIOM
@@ -2936,8 +2936,8 @@ mind over matter	IDIOM
 midn (my|your|his|her|our|their|its) Ps and Qs	IDIOM
 mind the shop	IDIOM
 never mind	IDIOM
-not pay (me|you|him|her|us|them|[^.!?, ]+) any mind	IDIOM
-on (my|your|his|her|our|their|its|[^.!?, ]+) mind	IDIOM
+not pay (me|you|him|her|us|them|[^.!?,]+) any mind	IDIOM
+on (my|your|his|her|our|their|its|[^.!?,]+) mind	IDIOM
 open (my|your|his|her|our|their|its) mind to	IDIOM
 out of (my|your|his|her|our|their|its) mind	IDIOM
 put (my|your|his|her|our|their|its) mind to (it|that|[^.!?,]+)	IDIOM
@@ -2945,7 +2945,7 @@ in mint condition	IDIOM
 one minute to midnight	IDIOM
 all done with mirrors	IDIOM
 make mischief	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) out of their misery	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) out of their misery	IDIOM
 put (it|that|[^.!?,]+) out of its misery	IDIOM
 miss a beat	IDIOM
 miss the boat	IDIOM
@@ -2953,7 +2953,7 @@ miss the bus	IDIOM
 not miss much	IDIOM
 make no mistake	IDIOM
 make no mistake about it	IDIOM
-there is no mistaking (me|you|him|her|us|them|it|[^.!?, ]+)	IDIOM
+there is no mistaking (me|you|him|her|us|them|it|[^.!?,]+)	IDIOM
 mix and match	IDIOM
 a mixed bag	IDIOM
 a mixed blessing	IDIOM
@@ -2972,8 +2972,8 @@ put (my|your|his|her|our|their|its) money on	IDIOM
 put (my|your|his|her|our|their|its) money where (my|your|his|her|our|their|its) mouth is	IDIOM
 throw money at (it|that|[^.!?,]+)	IDIOM
 I'll be a monkey's uncle	IDIOM
-make a monkey of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-make a monkey out of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+make a monkey of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+make a monkey out of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 monkey see, monkey do	IDIOM
 the full monty	IDIOM
 many moons ago	IDIOM
@@ -2981,7 +2981,7 @@ over the moon	IDIOM
 morning, noon, and night	IDIOM
 like a moth to the flame	IDIOM
 in mothballs	IDIOM
-the mother of all [^.,!?:; ]+	IDIOM
+the mother of all [^.,!?:;]+	IDIOM
 (went|go) through the motions	IDIOM
 break the mold	IDIOM
 (have|has|had) a mountain to climb	IDIOM
@@ -2989,10 +2989,10 @@ make a mountain out of a molehill	IDIOM
 move mountains	IDIOM
 a better mousetrap	IDIOM
 be all mouth	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) mouth water	IDIOM
-put words in (my|your|his|her|our|their|its|[^.!?, ]+) mouth	IDIOM
-put words into (my|your|his|her|our|their|its|[^.!?, ]+) mouth	IDIOM
-take the words out of (my|your|his|her|our|their|its|[^.!?, ]+) mouth	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) mouth water	IDIOM
+put words in (my|your|his|her|our|their|its|[^.!?,]+) mouth	IDIOM
+put words into (my|your|his|her|our|their|its|[^.!?,]+) mouth	IDIOM
+take the words out of (my|your|his|her|our|their|its|[^.!?,]+) mouth	IDIOM
 say a mouthful	IDIOM
 (get|got) a move on	IDIOM
 make a move	IDIOM
@@ -3018,7 +3018,7 @@ music to (my|your|his|her|our|their|its) ears	IDIOM
 a nail in the coffin	IDIOM
 right on the nail	IDIOM
 the naked truth	IDIOM
-call (me|you|him|her|us|them|[^.!?, ]+) names	IDIOM
+call (me|you|him|her|us|them|[^.!?,]+) names	IDIOM
 drop names	IDIOM
 give (my|your|his|her|our|their|its) name to	IDIOM
 (have|has|had) to (my|your|his|her|our|their|its) name	IDIOM
@@ -3035,7 +3035,7 @@ to name a few	IDIOM
 to name but a few	IDIOM
 what's in a name	IDIOM
 you name it	IDIOM
-catch (me|you|him|her|us|them|[^.!?, ]+) napping	IDIOM
+catch (me|you|him|her|us|them|[^.!?,]+) napping	IDIOM
 a nasty piece of work	IDIOM
 a nasty bit of work	IDIOM
 one nation	IDIOM
@@ -3059,7 +3059,7 @@ up to (my|your|his|her|our|their|its) neck in	IDIOM
 win by a neck	IDIOM
 a needle in a haystack	IDIOM
 not on (my|your|his|her|our|their|its) nelly	IDIOM
-(get|got) on (my|your|his|her|our|their|its|[^.!?, ]+) nerves	IDIOM
+(get|got) on (my|your|his|her|our|their|its|[^.!?,]+) nerves	IDIOM
 (have|has|had) nerves of steel	IDIOM
 strain every nerve	IDIOM
 hit a nerve	IDIOM
@@ -3078,7 +3078,7 @@ make nice	IDIOM
 nice one	IDIOM
 no more Mr Nice Guy	IDIOM
 in the nick of time	IDIOM
-nick (me|you|him|her|us|them|[^.!?, ]+) for	IDIOM
+nick (me|you|him|her|us|them|[^.!?,]+) for	IDIOM
 accept a wooden nickel	IDIOM
 night and day	IDIOM
 nine to five	IDIOM
@@ -3091,9 +3091,9 @@ the noes(have|has|had) it	IDIOM
 not take no for an answer	IDIOM
 never take no for an answer	IDIOM
 no way	IDIOM
-[^.,!?:; ]+ or no [^.,!?:; ]+	IDIOM
+[^.,!?:;]+ or no [^.,!?:;]+	IDIOM
 (get|got) the nod	IDIOM
-give (me|you|him|her|us|them|it|[^.!?, ]+) the nod	IDIOM
+give (me|you|him|her|us|them|it|[^.!?,]+) the nod	IDIOM
 a no-(went|go) area	IDIOM
 make a noise	IDIOM
 will(have|has|had) none of (it|that|[^.!?,]+)	IDIOM
@@ -3105,19 +3105,19 @@ by a nose	IDIOM
 cannot see further than (my|your|his|her|our|their|its) nose	IDIOM
 cannot see further than the end of (my|your|his|her|our|their|its) nose	IDIOM
 count noses	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) a bloody nose	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) a bloody nose	IDIOM
 (have|has|had) a nose for	IDIOM
 keep (my|your|his|her|our|their|its) nose clean	IDIOM
 keep (my|your|his|her|our|their|its) nose out of	IDIOM
 turn up (my|your|his|her|our|their|its) nose at	IDIOM
-under (my|your|his|her|our|their|its|[^.!?, ]+) nose	IDIOM
+under (my|your|his|her|our|their|its|[^.!?,]+) nose	IDIOM
 with (my|your|his|her|our|their|its) nose in the air	IDIOM
 not in my back yard	IDIOM
 hit the right note	IDIOM
 hit the wrong note	IDIOM
 be as nothing to	IDIOM
 be as nothing compared to	IDIOM
-(have|has|had) nothing on (me|you|him|her|us|them|it|[^.!?, ]+)	IDIOM
+(have|has|had) nothing on (me|you|him|her|us|them|it|[^.!?,]+)	IDIOM
 nothing less than	IDIOM
 nothing to it	IDIOM
 sweet nothings	IDIOM
@@ -3133,8 +3133,8 @@ nuff said	IDIOM
 make a nuisance of (myself|yourself|himeself|herself|ourselves|yourselves|themselves)	IDIOM
 by numbers	IDIOM
 do a number on	IDIOM
-(have|has|had) (my|your|his|her|our|their|its|[^.!?, ]+) number	IDIOM
-(have|has|had) (my|your|his|her|our|their|its|[^.!?, ]+) number on it	IDIOM
+(have|has|had) (my|your|his|her|our|their|its|[^.!?,]+) number	IDIOM
+(have|has|had) (my|your|his|her|our|their|its|[^.!?,]+) number on it	IDIOM
 take care of number one	IDIOM
 look after number one	IDIOM
 without number	IDIOM
@@ -3157,23 +3157,23 @@ just another day at the office	IDIOM
 oil and water	IDIOM
 of the old school	IDIOM
 the old days	IDIOM
-old enough to be (my|your|his|her|our|their|its|[^.!?, ]+) fater	IDIOM
-old enough to be (my|your|his|her|our|their|its|[^.!?, ]+) mother	IDIOM
+old enough to be (my|your|his|her|our|their|its|[^.!?,]+) fater	IDIOM
+old enough to be (my|your|his|her|our|their|its|[^.!?,]+) mother	IDIOM
 old hat	IDIOM
 an old wives' tale	IDIOM
 hold out an olive branch	IDIOM
 offer an olive branch	IDIOM
-be on to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+be on to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 be on to (it|that|[^.!?,]+)	IDIOM
 on and off	IDIOM
 you're on	IDIOM
-once a [^.,!?:; ]+, always a [^.,!?:; ]+	IDIOM
+once a [^.,!?:;]+, always a [^.,!?:;]+	IDIOM
 once and for all	IDIOM
 once and future	IDIOM
 once bitten, twice shy	IDIOM
 once in a while	IDIOM
 every once in a while	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) one and only	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) one and only	IDIOM
 one on one	IDIOM
 the one that got away	IDIOM
 one-horse race	IDIOM
@@ -3196,7 +3196,7 @@ out and about	IDIOM
 out for	IDIOM
 be out of here	IDIOM
 out of it	IDIOM
-out with (me|you|him|her|us|them|it|[^.!?, ]+)	IDIOM
+out with (me|you|him|her|us|them|it|[^.!?,]+)	IDIOM
 out with it	IDIOM
 the great outdoors	IDIOM
 on the outside looking in	IDIOM
@@ -3206,8 +3206,8 @@ throw (it|that|[^.!?,]+) overboard	IDIOM
 overplay (my|your|his|her|our|their|its) hand	IDIOM
 overshoot the mark	IDIOM
 overstep the mark	IDIOM
-owe (me|you|him|her|us|them|[^.!?, ]+) one	IDIOM
-(me|you|him|her|us|them|it|[^.!?, ]+) owes you a living	IDIOM
+owe (me|you|him|her|us|them|[^.!?,]+) one	IDIOM
+(me|you|him|her|us|them|it|[^.!?,]+) owes you a living	IDIOM
 as if you own the place	IDIOM
 be (my|your|his|her|our|their|its) own man	IDIOM
 be (my|your|his|her|our|their|its) own woman	IDIOM
@@ -3221,7 +3221,7 @@ pack (my|your|his|her|our|their|its) bag	IDIOM
 pack (my|your|his|her|our|their|its) bags	IDIOM
 pack heat	IDIOM
 pack a punch	IDIOM
-send (me|you|him|her|us|them|[^.!?, ]+) packing	IDIOM
+send (me|you|him|her|us|them|[^.!?,]+) packing	IDIOM
 paddle (my|your|his|her|our|their|its) own canoe	IDIOM
 on the same page	IDIOM
 no pain, no gain	IDIOM
@@ -3230,16 +3230,16 @@ like watching paint dry	IDIOM
 paint the town red	IDIOM
 I(have|has|had) only got one pair of hands	IDIOM
 pair of hands	IDIOM
-(have|has|had) (me|you|him|her|us|them|[^.!?, ]+) in the palm of (my|your|his|her|our|their|its) hand	IDIOM
-hold (me|you|him|her|us|them|[^.!?, ]+) in the palm of (my|your|his|her|our|their|its) hand	IDIOM
+(have|has|had) (me|you|him|her|us|them|[^.!?,]+) in the palm of (my|your|his|her|our|their|its) hand	IDIOM
+hold (me|you|him|her|us|them|[^.!?,]+) in the palm of (my|your|his|her|our|their|its) hand	IDIOM
 a Pandora's box	IDIOM
 press the panic button	IDIOM
 hit the panic button	IDIOM
 push the panic button	IDIOM
-catch (me|you|him|her|us|them|[^.!?, ]+) with their pants down	IDIOM
-catch (me|you|him|her|us|them|[^.!?, ]+) with their trousers down	IDIOM
-scare the pants off (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-bore the pants off (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+catch (me|you|him|her|us|them|[^.!?,]+) with their pants down	IDIOM
+catch (me|you|him|her|us|them|[^.!?,]+) with their trousers down	IDIOM
+scare the pants off (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+bore the pants off (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 make the papers	IDIOM
 not worth the paper it is written on	IDIOM
 on paper	IDIOM
@@ -3255,17 +3255,17 @@ a parting of the ways	IDIOM
 the parting of the ways	IDIOM
 party animal	IDIOM
 the party's over	IDIOM
-head (me|you|him|her|us|them|it|[^.!?, ]+) off at the pass	IDIOM
-cut (me|you|him|her|us|them|it|[^.!?, ]+) off at the pass	IDIOM
+head (me|you|him|her|us|them|it|[^.!?,]+) off at the pass	IDIOM
+cut (me|you|him|her|us|them|it|[^.!?,]+) off at the pass	IDIOM
 make a pass at	IDIOM
-not put it past (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+not put it past (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 past it	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) out to pasture	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) out to pasture	IDIOM
 (have|has|had) (it|that|[^.!?,]+) down pat	IDIOM
-pat (me|you|him|her|us|them|[^.!?, ]+) on the back	IDIOM
-give pause to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+pat (me|you|him|her|us|them|[^.!?,]+) on the back	IDIOM
+give pause to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 pave the way for	IDIOM
-it pays to [^.,!?:; ]+	IDIOM
+it pays to [^.,!?:;]+	IDIOM
 pay its way	IDIOM
 pay the piper	IDIOM
 pay (my|your|his|her|our|their|its) respects	IDIOM
@@ -3280,20 +3280,20 @@ throw pearls before swine	IDIOM
 pearly whites	IDIOM
 pecking order	IDIOM
 with the pedal to the metal	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) on the pedestal	IDIOM
-take (me|you|him|her|us|them|[^.!?, ]+) down a peg or two	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) on the pedestal	IDIOM
+take (me|you|him|her|us|them|[^.!?,]+) down a peg or two	IDIOM
 the pen is mightier than the sword	IDIOM
 in for a penny, in for a pound	IDIOM
 a penny for (my|your|his|her|our|their|its) thoughts	IDIOM
-knock (me|you|him|her|us|them|[^.!?, ]+) off their perch	IDIOM
+knock (me|you|him|her|us|them|[^.!?,]+) off their perch	IDIOM
 perish the thought	IDIOM
-[^.,!?:; ]+ permitting	IDIOM
+[^.,!?:;]+ permitting	IDIOM
 in perspective	IDIOM
 out of perspective	IDIOM
 (get|got) physical	IDIOM
 pick and choose	IDIOM
-pick (my|your|his|her|our|their|its|[^.!?, ]+) brains	IDIOM
-pick (my|your|his|her|our|their|its|[^.!?, ]+) brains	IDIOM
+pick (my|your|his|her|our|their|its|[^.!?,]+) brains	IDIOM
+pick (my|your|his|her|our|their|its|[^.!?,]+) brains	IDIOM
 pick (it|that|[^.!?,]+) clean	IDIOM
 pick up the pieces	IDIOM
 pick up the threads	IDIOM
@@ -3301,19 +3301,19 @@ be no picnic	IDIOM
 (get|got) the picture	IDIOM
 in the picture	IDIOM
 out of the picture	IDIOM
-a picture of [^.,!?:; ]+	IDIOM
+a picture of [^.,!?:;]+	IDIOM
 a piece of the pie	IDIOM
 a slice of the pie	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) a piece of (my|your|his|her|our|their|its) mind	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) a piece of (my|your|his|her|our|their|its) mind	IDIOM
 (went|go) to pieces	IDIOM
 in one piece	IDIOM
-pick (me|you|him|her|us|them|it|[^.!?, ]+) to pieces	IDIOM
-pull (me|you|him|her|us|them|it|[^.!?, ]+) to pieces	IDIOM
-tear (me|you|him|her|us|them|it|[^.!?, ]+) to pieces	IDIOM
+pick (me|you|him|her|us|them|it|[^.!?,]+) to pieces	IDIOM
+pull (me|you|him|her|us|them|it|[^.!?,]+) to pieces	IDIOM
+tear (me|you|him|her|us|them|it|[^.!?,]+) to pieces	IDIOM
 a piece of the action	IDIOM
 a slice of the action	IDIOM
 say (my|your|his|her|our|their|its) piece	IDIOM
-pierce (my|your|his|her|our|their|its|[^.!?, ]+) heart	IDIOM
+pierce (my|your|his|her|our|their|its|[^.!?,]+) heart	IDIOM
 bleed like a stuck pig	IDIOM
 bring (my|your|his|her|our|their|its) pigs to market	IDIOM
 drive (my|your|his|her|our|their|its) pigs to market	IDIOM
@@ -3351,7 +3351,7 @@ play fair	IDIOM
 play favorites	IDIOM
 play for keeps	IDIOM
 play for time	IDIOM
-play into (my|your|his|her|our|their|its|[^.!?, ]+) hands	IDIOM
+play into (my|your|his|her|our|their|its|[^.!?,]+) hands	IDIOM
 play it cool	IDIOM
 play safe	IDIOM
 play it safe	IDIOM
@@ -3367,32 +3367,32 @@ take the plunge	IDIOM
 plus-minus	IDIOM
 (have|has|had) deep pockets	IDIOM
 in pocket	IDIOM
-in (my|your|his|her|our|their|its|[^.!?, ]+) pocket	IDIOM
-live in (my|your|his|her|our|their|its|[^.!?, ]+) pocket	IDIOM
+in (my|your|his|her|our|their|its|[^.!?,]+) pocket	IDIOM
+live in (my|your|his|her|our|their|its|[^.!?,]+) pocket	IDIOM
 out of pocket	IDIOM
 pay out of pocket	IDIOM
 poetic justice	IDIOM
 point of no return	IDIOM
 score points	IDIOM
-ask (me|you|him|her|us|them|[^.!?, ]+) point-blank	IDIOM
-tell (me|you|him|her|us|them|[^.!?, ]+) point-blank	IDIOM
+ask (me|you|him|her|us|them|[^.!?,]+) point-blank	IDIOM
+tell (me|you|him|her|us|them|[^.!?,]+) point-blank	IDIOM
 what's (my|your|his|her|our|their|its) poison	IDIOM
 poke fun at	IDIOM
 poke (my|your|his|her|our|their|its) nose into	IDIOM
-take a poke at (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+take a poke at (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 be poles apart	IDIOM
 play politics	IDIOM
 pomp and circumstance	IDIOM
 poor as a church mouse	IDIOM
 poor as church mice	IDIOM
-the poor man's [^.,!?:; ]+	IDIOM
+the poor man's [^.,!?:;]+	IDIOM
 poor relation	IDIOM
-[^.,!?:; ]+ a pop	IDIOM
+[^.,!?:;]+ a pop	IDIOM
 pop the question	IDIOM
-like (me|you|him|her|us|them|[^.!?, ]+) possessed	IDIOM
+like (me|you|him|her|us|them|[^.!?,]+) possessed	IDIOM
 play possum	IDIOM
 (went|go) postal	IDIOM
-keep (me|you|him|her|us|them|[^.!?, ]+) posted	IDIOM
+keep (me|you|him|her|us|them|[^.!?,]+) posted	IDIOM
 the pot calling the kettle black	IDIOM
 (my|your|his|her|our|their|its) pound of flesh	IDIOM
 pound the pavement	IDIOM
@@ -3418,7 +3418,7 @@ pretty as a picture	IDIOM
 sitting pretty	IDIOM
 fall prey to	IDIOM
 everyone has their price	IDIOM
-a price on (my|your|his|her|our|their|its|[^.!?, ]+) head	IDIOM
+a price on (my|your|his|her|our|their|its|[^.!?,]+) head	IDIOM
 prick up (my|your|his|her|our|their|its) ears	IDIOM
 (my|your|his|her|our|their|its) pride and joy	IDIOM
 prisoner of conscience	IDIOM
@@ -3431,12 +3431,12 @@ maintain a low profile	IDIOM
 prolong the agony	IDIOM
 promises, promises	IDIOM
 under protest	IDIOM
-do (me|you|him|her|us|them|[^.!?, ]+) proud	IDIOM
+do (me|you|him|her|us|them|[^.!?,]+) proud	IDIOM
 (went|go) public	IDIOM
 in the public eye	IDIOM
 public enemy number one	IDIOM
 like pulling teeth	IDIOM
-pull (my|your|his|her|our|their|its|[^.!?, ]+) leg	IDIOM
+pull (my|your|his|her|our|their|its|[^.!?,]+) leg	IDIOM
 pull the plug	IDIOM
 pull strings	IDIOM
 pull the strings	IDIOM
@@ -3444,12 +3444,12 @@ pull together	IDIOM
 pull (my|your|his|her|our|their|its) punches	IDIOM
 pull (my|your|his|her|our|their|its) weight	IDIOM
 pull (myself|yourself|himeself|herself|ourselves|yourselves|themselves) together	IDIOM
-beat (me|you|him|her|us|them|[^.!?, ]+) to a pulp	IDIOM
-smash (me|you|him|her|us|them|[^.!?, ]+) to a pulp	IDIOM
+beat (me|you|him|her|us|them|[^.!?,]+) to a pulp	IDIOM
+smash (me|you|him|her|us|them|[^.!?,]+) to a pulp	IDIOM
 feel the pulse of	IDIOM
 take the pulse of	IDIOM
 pump iron	IDIOM
-beat (me|you|him|her|us|them|[^.!?, ]+) to the punch	IDIOM
+beat (me|you|him|her|us|them|[^.!?,]+) to the punch	IDIOM
 pleased as Punch	IDIOM
 punch the clock	IDIOM
 punch the time clock	IDIOM
@@ -3460,7 +3460,7 @@ at a push	IDIOM
 push (my|your|his|her|our|their|its) luck	IDIOM
 when push comes to shove	IDIOM
 if push comes to shove	IDIOM
-put it to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+put it to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 put one over on	IDIOM
 put (it|that|[^.!?,]+) behind you	IDIOM
 put up or shut up	IDIOM
@@ -3475,7 +3475,7 @@ quick on the draw	IDIOM
 quiet as a mouse	IDIOM
 quiet as a lamb	IDIOM
 call it quits	IDIOM
-quote [^.,!?:; ]+ unquote	IDIOM
+quote [^.,!?:;]+ unquote	IDIOM
 the three Rs	IDIOM
 breed like rabbits	IDIOM
 pull a rabbit out of the hat	IDIOM
@@ -3488,11 +3488,11 @@ rags to riches	IDIOM
 from rags to riches	IDIOM
 lose (my|your|his|her|our|their|its) rag	IDIOM
 all the rage	IDIOM
-run (me|you|him|her|us|them|[^.!?, ]+) ragged	IDIOM
+run (me|you|him|her|us|them|[^.!?,]+) ragged	IDIOM
 (went|go) off the rails	IDIOM
 it never rains but it pours	IDIOM
 rain cats and dogs	IDIOM
-rain on (my|your|his|her|our|their|its|[^.!?, ]+) parade	IDIOM
+rain on (my|your|his|her|our|their|its|[^.!?,]+) parade	IDIOM
 rain or shine	IDIOM
 come rain or shine	IDIOM
 right as rain	IDIOM
@@ -3500,7 +3500,7 @@ at the end of the rainbow	IDIOM
 chase rainbows	IDIOM
 take a rain check	IDIOM
 a rainy day	IDIOM
-raise (my|your|his|her|our|their|its) hat to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+raise (my|your|his|her|our|their|its) hat to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 raise the roof	IDIOM
 thin as a rake	IDIOM
 break rank	IDIOM
@@ -3510,32 +3510,32 @@ pull rank	IDIOM
 rank and file	IDIOM
 rise through the ranks	IDIOM
 rise from the ranks	IDIOM
-hold (me|you|him|her|us|them|it|[^.!?, ]+) to ransom	IDIOM
-rap (me|you|him|her|us|them|[^.!?, ]+) on the knuckles	IDIOM
+hold (me|you|him|her|us|them|it|[^.!?,]+) to ransom	IDIOM
+rap (me|you|him|her|us|them|[^.!?,]+) on the knuckles	IDIOM
 take the rap	IDIOM
 rare bird	IDIOM
 raring to go	IDIOM
 blow a raspberry	IDIOM
 rats deserting a sinking ship	IDIOM
-rattle (my|your|his|her|our|their|its|[^.!?, ]+) cage	IDIOM
+rattle (my|your|his|her|our|their|its|[^.!?,]+) cage	IDIOM
 in the raw	IDIOM
 ray of sunshine	IDIOM
 read between the lines	IDIOM
-read (me|you|him|her|us|them|[^.!?, ]+) like a book	IDIOM
+read (me|you|him|her|us|them|[^.!?,]+) like a book	IDIOM
 read my lips	IDIOM
 ready to roll	IDIOM
 for real	IDIOM
 (get|got) real!	IDIOM
 the real deal	IDIOM
 the real thing	IDIOM
-ream (my|your|his|her|our|their|its|[^.!?, ]+) ass	IDIOM
+ream (my|your|his|her|our|their|its|[^.!?,]+) ass	IDIOM
 reap the harvest of	IDIOM
 reap the fruits of	IDIOM
 you reap what you sow	IDIOM
 bring up the rear	IDIOM
 rear its head	IDIOM
 rear its ugly head	IDIOM
-rearrange (my|your|his|her|our|their|its|[^.!?, ]+) face	IDIOM
+rearrange (my|your|his|her|our|their|its|[^.!?,]+) face	IDIOM
 see reason	IDIOM
 see sense	IDIOM
 it stands to reason	IDIOM
@@ -3548,8 +3548,8 @@ be at the receiving end	IDIOM
 be on the receiving end	IDIOM
 recharge (my|your|his|her|our|their|its) batteries	IDIOM
 a recipe for disaster	IDIOM
-a [^.,!?:; ]+ to be reckoned with	IDIOM
-a [^.,!?:; ]+ to reckon with	IDIOM
+a [^.,!?:;]+ to be reckoned with	IDIOM
+a [^.,!?:;]+ to reckon with	IDIOM
 for the record	IDIOM
 off the record	IDIOM
 on the record	IDIOM
@@ -3585,18 +3585,18 @@ talk in riddles	IDIOM
 speak in riddles	IDIOM
 for the ride	IDIOM
 let (it|that|[^.!?,]+) ride	IDIOM
-[^.,!?:; ]+ rides again	IDIOM
+[^.,!?:;]+ rides again	IDIOM
 ride high	IDIOM
 ride off into the sunset	IDIOM
 ride the rails	IDIOM
 ride shotgun	IDIOM
 a rough ride	IDIOM
 an easy ride	IDIOM
-take (me|you|him|her|us|them|[^.!?, ]+) for a ride	IDIOM
+take (me|you|him|her|us|them|[^.!?,]+) for a ride	IDIOM
 in full rig	IDIOM
 full rig	IDIOM
-set (me|you|him|her|us|them|[^.!?, ]+) right	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) right	IDIOM
+set (me|you|him|her|us|them|[^.!?,]+) right	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) right	IDIOM
 right enough	IDIOM
 right on	IDIOM
 the right stuff	IDIOM
@@ -3604,7 +3604,7 @@ right you are	IDIOM
 too right	IDIOM
 ring in (my|your|his|her|our|their|its) ears	IDIOM
 ring in (my|your|his|her|our|their|its) head	IDIOM
-run rings round (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+run rings round (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 let rip	IDIOM
 let (it|that|[^.!?,]+) rip	IDIOM
 (get|got) a rise out of	IDIOM
@@ -3625,7 +3625,7 @@ on the rocks	IDIOM
 rock bottom	IDIOM
 off (my|your|his|her|our|their|its) rocker	IDIOM
 not rocket science	IDIOM
-a rocky road to [^.,!?:; ]+	IDIOM
+a rocky road to [^.,!?:;]+	IDIOM
 on a roll	IDIOM
 a roll in the hay	IDIOM
 a roll in the sack	IDIOM
@@ -3652,8 +3652,8 @@ put down roots	IDIOM
 strike at the roots of	IDIOM
 strike at the root of	IDIOM
 take root	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) enough rope	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) plenty of rope	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) enough rope	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) plenty of rope	IDIOM
 on the ropes	IDIOM
 come up roses	IDIOM
 everything's roses	IDIOM
@@ -3667,24 +3667,24 @@ rough edges	IDIOM
 a rough passage	IDIOM
 sleep rough	IDIOM
 rub (my|your|his|her|our|their|its) hands	IDIOM
-rub (my|your|his|her|our|their|its|[^.!?, ]+) nose in (it|that|[^.!?,]+)	IDIOM
+rub (my|your|his|her|our|their|its|[^.!?,]+) nose in (it|that|[^.!?,]+)	IDIOM
 rub it in	IDIOM
-rub (me|you|him|her|us|them|[^.!?, ]+) the wrong way	IDIOM
+rub (me|you|him|her|us|them|[^.!?,]+) the wrong way	IDIOM
 there's the rub	IDIOM
 here's the rub	IDIOM
 burn rubber	IDIOM
 rubber check	IDIOM
 a rude awakening	IDIOM
-ruffle (my|your|his|her|our|their|its|[^.!?, ]+) feathers	IDIOM
-smooth (my|your|his|her|our|their|its|[^.!?, ]+) ruffled feathers	IDIOM
+ruffle (my|your|his|her|our|their|its|[^.!?,]+) feathers	IDIOM
+smooth (my|your|his|her|our|their|its|[^.!?,]+) ruffled feathers	IDIOM
 pull the rug	IDIOM
-pull the rug from under (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+pull the rug from under (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 as a rule	IDIOM
 rule of thumb	IDIOM
 rumor has it	IDIOM
 on the run	IDIOM
-give (me|you|him|her|us|them|it|[^.!?, ]+) a good run for their money	IDIOM
-give (me|you|him|her|us|them|it|[^.!?, ]+) a run for their money	IDIOM
+give (me|you|him|her|us|them|it|[^.!?,]+) a good run for their money	IDIOM
+give (me|you|him|her|us|them|it|[^.!?,]+) a run for their money	IDIOM
 (have|has|had) a run for (my|your|his|her|our|their|its) money	IDIOM
 (have|has|had) a good run for (my|your|his|her|our|their|its) money	IDIOM
 run before you can walk	IDIOM
@@ -3695,9 +3695,9 @@ make a run for it	IDIOM
 run foul of	IDIOM
 run off at the mouth	IDIOM
 run of the mill	IDIOM
-run (me|you|him|her|us|them|[^.!?, ]+) out of town	IDIOM
-run (it|that|[^.!?,]+) past (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the runaround	IDIOM
+run (me|you|him|her|us|them|[^.!?,]+) out of town	IDIOM
+run (it|that|[^.!?,]+) past (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the runaround	IDIOM
 read the runes	IDIOM
 in the running	IDIOM
 out of the running	IDIOM
@@ -3714,7 +3714,7 @@ there's safety in numbers	IDIOM
 when all is said and done	IDIOM
 after all is said and done	IDIOM
 rub salt into the wound	IDIOM
-rub salt into (my|your|his|her|our|their|its|[^.!?, ]+) wound	IDIOM
+rub salt into (my|your|his|her|our|their|its|[^.!?,]+) wound	IDIOM
 the salt of the earth	IDIOM
 take (it|that|[^.!?,]+) with a pinch of salt	IDIOM
 take (it|that|[^.!?,]+) with a grain of salt	IDIOM
@@ -3726,9 +3726,9 @@ same here	IDIOM
 packed like sardines	IDIOM
 (have|has|had) eyes like saucers	IDIOM
 save the day	IDIOM
-save (my|your|his|her|our|their|its|[^.!?, ]+) skin	IDIOM
-save (my|your|his|her|our|their|its|[^.!?, ]+) neck	IDIOM
-save (my|your|his|her|our|their|its|[^.!?, ]+) bacon	IDIOM
+save (my|your|his|her|our|their|its|[^.!?,]+) skin	IDIOM
+save (my|your|his|her|our|their|its|[^.!?,]+) neck	IDIOM
+save (my|your|his|her|our|their|its|[^.!?,]+) bacon	IDIOM
 to save (my|your|his|her|our|their|its) life	IDIOM
 saved by the bell	IDIOM
 (have|has|had) (it|that|[^.!?,]+) to say for (myself|yourself|himeself|herself|ourselves|yourselves|themselves)	IDIOM
@@ -3745,8 +3745,8 @@ change of scenery	IDIOM
 not (my|your|his|her|our|their|its) scene	IDIOM
 set the scene	IDIOM
 on the scent	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) off the scent	IDIOM
-throw (me|you|him|her|us|them|[^.!?, ]+) off the scent	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) off the scent	IDIOM
+throw (me|you|him|her|us|them|[^.!?,]+) off the scent	IDIOM
 the scheme of things	IDIOM
 the school of hard knocks	IDIOM
 school of thought	IDIOM
@@ -3781,20 +3781,20 @@ on second thoughts	IDIOM
 second nature	IDIOM
 a second thought	IDIOM
 second to none	IDIOM
-see (me|you|him|her|us|them|[^.!?, ]+) coming	IDIOM
+see (me|you|him|her|us|them|[^.!?,]+) coming	IDIOM
 see (it|that|[^.!?,]+) coming	IDIOM
 be seeing things	IDIOM
 seeing is believing	IDIOM
 seize the day	IDIOM
-sell (me|you|him|her|us|them|it|[^.!?, ]+) short	IDIOM
+sell (me|you|him|her|us|them|it|[^.!?,]+) short	IDIOM
 sell (my|your|his|her|our|their|its) soul	IDIOM
 sell (my|your|his|her|our|their|its) soul to the devil	IDIOM
-send (me|you|him|her|us|them|[^.!?, ]+) flying	IDIOM
+send (me|you|him|her|us|them|[^.!?,]+) flying	IDIOM
 senior moment	IDIOM
-bring (me|you|him|her|us|them|[^.!?, ]+) to their senses	IDIOM
+bring (me|you|him|her|us|them|[^.!?,]+) to their senses	IDIOM
 come to (my|your|his|her|our|their|its) senses	IDIOM
 (went|go) (my|your|his|her|our|their|its) separate ways	IDIOM
-serve (me|you|him|her|us|them|[^.!?, ]+) right	IDIOM
+serve (me|you|him|her|us|them|[^.!?,]+) right	IDIOM
 serve (my|your|his|her|our|their|its) time	IDIOM
 set (my|your|his|her|our|their|its) teeth	IDIOM
 set the wheels in motion	IDIOM
@@ -3809,8 +3809,8 @@ quake in (my|your|his|her|our|their|its) shoes	IDIOM
 quake in (my|your|his|her|our|their|its) boots	IDIOM
 shake a leg	IDIOM
 (get|got) into shape	IDIOM
-(get|got) (me|you|him|her|us|them|[^.!?, ]+) into shape	IDIOM
-whip (me|you|him|her|us|them|it|[^.!?, ]+) into shape	IDIOM
+(get|got) (me|you|him|her|us|them|[^.!?,]+) into shape	IDIOM
+whip (me|you|him|her|us|them|it|[^.!?,]+) into shape	IDIOM
 the shape of things to come	IDIOM
 shape up or ship out	IDIOM
 sharp as a needle	IDIOM
@@ -3853,7 +3853,7 @@ give it (my|your|his|her|our|their|its) best shot	IDIOM
 not by a long shot	IDIOM
 shot to pieces	IDIOM
 shot to hell	IDIOM
-be on (my|your|his|her|our|their|its|[^.!?, ]+) shoulder	IDIOM
+be on (my|your|his|her|our|their|its|[^.!?,]+) shoulder	IDIOM
 look over (my|your|his|her|our|their|its) shoulder	IDIOM
 a shoulder to cry on	IDIOM
 shoulder to shoulder	IDIOM
@@ -3862,8 +3862,8 @@ keep the show on the road	IDIOM
 show (my|your|his|her|our|their|its) face	IDIOM
 show of hands	IDIOM
 show (my|your|his|her|our|their|its) teeth	IDIOM
-show (me|you|him|her|us|them|[^.!?, ]+) the door	IDIOM
-send (me|you|him|her|us|them|[^.!?, ]+) to the showers	IDIOM
+show (me|you|him|her|us|them|[^.!?,]+) the door	IDIOM
+send (me|you|him|her|us|them|[^.!?,]+) to the showers	IDIOM
 be lost in the shuffle	IDIOM
 (get|got) lost in the shuffle	IDIOM
 sick and tired	IDIOM
@@ -3887,7 +3887,7 @@ significant other	IDIOM
 silence is golden	IDIOM
 the silent majority	IDIOM
 the silent treatment	IDIOM
-[^.,!?:; ]+ (myself|yourself|himeself|herself|ourselves|yourselves|themselves) silly	IDIOM
+[^.,!?:;]+ (myself|yourself|himeself|herself|ourselves|yourselves|themselves) silly	IDIOM
 be born with a silver spoon in (my|your|his|her|our|their|its) mouth	IDIOM
 (have|has|had) a silver tongue	IDIOM
 on a silver platter	IDIOM
@@ -3902,7 +3902,7 @@ a sinking feeling	IDIOM
 that sinking feeling	IDIOM
 siren song	IDIOM
 siren call	IDIOM
-sit at (my|your|his|her|our|their|its|[^.!?, ]+) feet	IDIOM
+sit at (my|your|his|her|our|their|its|[^.!?,]+) feet	IDIOM
 sit next to Nellie	IDIOM
 sit on (my|your|his|her|our|their|its) hands	IDIOM
 sit on the stomach	IDIOM
@@ -3914,8 +3914,8 @@ six feet under	IDIOM
 a skeleton in the cupboard	IDIOM
 a skeleton in the closet	IDIOM
 by the skin of (my|your|his|her|our|their|its) teeth	IDIOM
-(get|got) under (my|your|his|her|our|their|its|[^.!?, ]+) skin	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) some skin	IDIOM
+(get|got) under (my|your|his|her|our|their|its|[^.!?,]+) skin	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) some skin	IDIOM
 (have|has|had) thick skin	IDIOM
 (have|has|had) thin skin	IDIOM
 it's no skin off my nose	IDIOM
@@ -3923,24 +3923,24 @@ under the skin	IDIOM
 out of (my|your|his|her|our|their|its) skull	IDIOM
 the sky is the limit	IDIOM
 to the skies	IDIOM
-cut (me|you|him|her|us|them|[^.!?, ]+) some slack	IDIOM
+cut (me|you|him|her|us|them|[^.!?,]+) some slack	IDIOM
 take up the slack	IDIOM
 pick up the slack	IDIOM
 a slap in the face	IDIOM
 slap on the wrist	IDIOM
-slap (me|you|him|her|us|them|[^.!?, ]+) on the back	IDIOM
+slap (me|you|him|her|us|them|[^.!?,]+) on the back	IDIOM
 on the slate	IDIOM
 on (my|your|his|her|our|their|its) slate	IDIOM
 put (it|that|[^.!?,]+) to sleep	IDIOM
 sleep like a log	IDIOM
 sleep with one eye open	IDIOM
-(me|you|him|her|us|them|[^.!?, ]+) could do (it|that|[^.!?,]+) in their sleep	IDIOM
+(me|you|him|her|us|them|[^.!?,]+) could do (it|that|[^.!?,]+) in their sleep	IDIOM
 let sleeping dogs lie	IDIOM
 up (my|your|his|her|our|their|its) sleeve	IDIOM
 sleight of hand	IDIOM
 a slice of the cake	IDIOM
 let (it|that|[^.!?,]+) slide	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the  slip	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the  slip	IDIOM
 let (it|that|[^.!?,]+) slip	IDIOM
 let (it|that|[^.!?,]+) slip through (my|your|his|her|our|their|its) fingers	IDIOM
 let (it|that|[^.!?,]+) slip through (my|your|his|her|our|their|its) grasp	IDIOM
@@ -3977,12 +3977,12 @@ up to snuff	IDIOM
 snug as a bug	IDIOM
 snug as a bug in a rug	IDIOM
 on (my|your|his|her|our|their|its) soapbox	IDIOM
-knock (my|your|his|her|our|their|its|[^.!?, ]+) socks off	IDIOM
-blow (my|your|his|her|our|their|its|[^.!?, ]+) socks off	IDIOM
-knock the socks off (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+knock (my|your|his|her|our|their|its|[^.!?,]+) socks off	IDIOM
+blow (my|your|his|her|our|their|its|[^.!?,]+) socks off	IDIOM
+knock the socks off (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 pull (my|your|his|her|our|their|its) socks up	IDIOM
 put a sock in it	IDIOM
-sock it to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+sock it to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 (have|has|had) a soft spot for	IDIOM
 and then some	IDIOM
 something else	IDIOM
@@ -4011,7 +4011,7 @@ speak (my|your|his|her|our|their|its) mind	IDIOM
 speak volumes	IDIOM
 on spec	IDIOM
 up to speed	IDIOM
-under (my|your|his|her|our|their|its|[^.!?, ]+) spell	IDIOM
+under (my|your|his|her|our|their|its|[^.!?,]+) spell	IDIOM
 spill the beans	IDIOM
 spill (my|your|his|her|our|their|its) guts	IDIOM
 the spirit is willing	IDIOM
@@ -4029,36 +4029,36 @@ split the difference	IDIOM
 split (my|your|his|her|our|their|its) sides	IDIOM
 win the wooden spoon	IDIOM
 a sporting chance	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) on the spot	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) on the spot	IDIOM
 spot on	IDIOM
 spread (myself|yourself|himeself|herself|ourselves|yourselves|themselves) too thin	IDIOM
 on the spur of the moment	IDIOM
 squeaky clean	IDIOM
-put the squeeze on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+put the squeeze on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 set the stage for	IDIOM
 (went|go) to the stake for	IDIOM
 pull up stakes	IDIOM
 stake a claim	IDIOM
-stand on (my|your|his|her|our|their|its|[^.!?, ]+) shoulders	IDIOM
+stand on (my|your|his|her|our|their|its|[^.!?,]+) shoulders	IDIOM
 stand on (my|your|his|her|our|their|its) own feet	IDIOM
 stand on (my|your|his|her|our|their|its) own two feet	IDIOM
 (have|has|had) stars in (my|your|his|her|our|their|its) eyes	IDIOM
 reach for the stars	IDIOM
 see stars	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) star is rising	IDIOM
-be staring (me|you|him|her|us|them|[^.!?, ]+) in the face	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) star is rising	IDIOM
+be staring (me|you|him|her|us|them|[^.!?,]+) in the face	IDIOM
 be staring (it|that|[^.!?,]+) in the face	IDIOM
 state of the art	IDIOM
 state of play	IDIOM
 stay the course	IDIOM
 stay the distance	IDIOM
-stay (my|your|his|her|our|their|its|[^.!?, ]+) hand	IDIOM
+stay (my|your|his|her|our|their|its|[^.!?,]+) hand	IDIOM
 a stay of execution	IDIOM
 stay put	IDIOM
 (went|go) steady	IDIOM
 steady as she goes	IDIOM
 steal the show	IDIOM
-steal (my|your|his|her|our|their|its|[^.!?, ]+) thunder	IDIOM
+steal (my|your|his|her|our|their|its|[^.!?,]+) thunder	IDIOM
 pick up steam	IDIOM
 (have|has|had) steam coming out of (my|your|his|her|our|their|its) ears	IDIOM
 let off steam	IDIOM
@@ -4072,9 +4072,9 @@ step up to the plate	IDIOM
 take steps	IDIOM
 stick (my|your|his|her|our|their|its) chin out	IDIOM
 stick 'em up!	IDIOM
-stick it to (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+stick it to (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 stick (my|your|his|her|our|their|its) neck out	IDIOM
-a stick to beat (me|you|him|her|us|them|it|[^.!?, ]+) with	IDIOM
+a stick to beat (me|you|him|her|us|them|it|[^.!?,]+) with	IDIOM
 sticky fingers	IDIOM
 a stiff upper lip	IDIOM
 still waters run deep	IDIOM
@@ -4089,7 +4089,7 @@ an army marches on its stomach	IDIOM
 on a full stomach	IDIOM
 on an empty stomach	IDIOM
 a strong stomach	IDIOM
-turn (my|your|his|her|our|their|its|[^.!?, ]+) stomach	IDIOM
+turn (my|your|his|her|our|their|its|[^.!?,]+) stomach	IDIOM
 be carved in stone	IDIOM
 be set in stone	IDIOM
 be written in stone	IDIOM
@@ -4137,7 +4137,7 @@ by no stretch of the imagination	IDIOM
 stretch (my|your|his|her|our|their|its) legs	IDIOM
 stricken in years	IDIOM
 take (it|that|[^.!?,]+) in (my|your|his|her|our|their|its) stride	IDIOM
-[^.,!?:; ]+ strikes again	IDIOM
+[^.,!?:;]+ strikes again	IDIOM
 strike it rich	IDIOM
 strike oil	IDIOM
 strike while the iron is hot	IDIOM
@@ -4146,7 +4146,7 @@ on a string	IDIOM
 stroke of genius	IDIOM
 stroke of luck	IDIOM
 stroke of good luck	IDIOM
-stroke (me|you|him|her|us|them|[^.!?, ]+) the wrong way	IDIOM
+stroke (me|you|him|her|us|them|[^.!?,]+) the wrong way	IDIOM
 come on strong	IDIOM
 going strong	IDIOM
 strut (my|your|his|her|our|their|its) stuff	IDIOM
@@ -4155,10 +4155,10 @@ stubborn as a mule	IDIOM
 (get|got) stuck into	IDIOM
 do (my|your|his|her|our|their|its) stuff	IDIOM
 that's the stuff	IDIOM
-knock the stuffing out of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-suck (me|you|him|her|us|them|[^.!?, ]+) dry	IDIOM
+knock the stuffing out of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+suck (me|you|him|her|us|them|[^.!?,]+) dry	IDIOM
 all of a sudden	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) sun is set	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) sun is set	IDIOM
 sunny side up	IDIOM
 sure thing	IDIOM
 surf the net	IDIOM
@@ -4181,7 +4181,7 @@ swing both ways	IDIOM
 beat swords into ploughshares	IDIOM
 turn swords into ploughshares	IDIOM
 he who lives by the sword dies by the sword	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) to the sword	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) to the sword	IDIOM
 in sync	IDIOM
 out of sync	IDIOM
 all systems go	IDIOM
@@ -4199,7 +4199,7 @@ chase (my|your|his|her|our|their|its) own tail	IDIOM
 the tail wags the dog	IDIOM
 with (my|your|his|her|our|their|its) tail between (my|your|his|her|our|their|its) legs	IDIOM
 with (my|your|his|her|our|their|its) tail up	IDIOM
-take (me|you|him|her|us|them|it|[^.!?, ]+) apart	IDIOM
+take (me|you|him|her|us|them|it|[^.!?,]+) apart	IDIOM
 take the cake	IDIOM
 take it	IDIOM
 take it from me	IDIOM
@@ -4212,31 +4212,31 @@ talk big	IDIOM
 talk the talk	IDIOM
 talk through (my|your|his|her|our|their|its) hat	IDIOM
 a tall order	IDIOM
-tan (my|your|his|her|our|their|its|[^.!?, ]+) hide	IDIOM
+tan (my|your|his|her|our|their|its|[^.!?,]+) hide	IDIOM
 in tandem	IDIOM
 a tangled web	IDIOM
 it takes two to tango	IDIOM
 on tap	IDIOM
 beat the tar out of	IDIOM
 tar and feather	IDIOM
-take (me|you|him|her|us|them|[^.!?, ]+) to task	IDIOM
+take (me|you|him|her|us|them|[^.!?,]+) to task	IDIOM
 a bad taste in the mouth	IDIOM
-a bad taste in (my|your|his|her|our|their|its|[^.!?, ]+) mouth	IDIOM
+a bad taste in (my|your|his|her|our|their|its|[^.!?,]+) mouth	IDIOM
 a bitter taste in the mouth	IDIOM
-a bitter taste in (my|your|his|her|our|their|its|[^.!?, ]+) mouth	IDIOM
+a bitter taste in (my|your|his|her|our|their|its|[^.!?,]+) mouth	IDIOM
 tear (my|your|his|her|our|their|its) hair out	IDIOM
-tear (me|you|him|her|us|them|it|[^.!?, ]+) to shreds	IDIOM
-tear (me|you|him|her|us|them|it|[^.!?, ]+) to pieces	IDIOM
+tear (me|you|him|her|us|them|it|[^.!?,]+) to shreds	IDIOM
+tear (me|you|him|her|us|them|it|[^.!?,]+) to pieces	IDIOM
 teeter on the edge	IDIOM
 (get|got) (my|your|his|her|our|their|its) teeth into	IDIOM
 sink (my|your|his|her|our|their|its) teeth into	IDIOM
-set (my|your|his|her|our|their|its|[^.!?, ]+) teeth on edge	IDIOM
+set (my|your|his|her|our|their|its|[^.!?,]+) teeth on edge	IDIOM
 teething troubles	IDIOM
 tell it like it is	IDIOM
 tell me about it	IDIOM
 tell me another	IDIOM
-tell (me|you|him|her|us|them|[^.!?, ]+) where to (get|got) off	IDIOM
-tell (me|you|him|her|us|them|[^.!?, ]+) where they (get|got) off	IDIOM
+tell (me|you|him|her|us|them|[^.!?,]+) where to (get|got) off	IDIOM
+tell (me|you|him|her|us|them|[^.!?,]+) where they (get|got) off	IDIOM
 that would be telling	IDIOM
 there's no telling	IDIOM
 you're telling me!	IDIOM
@@ -4254,7 +4254,7 @@ thanks for nothing	IDIOM
 and all that	IDIOM
 that's that	IDIOM
 been there, done that	IDIOM
-be there for (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+be there for (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 (have|has|had) been there before	IDIOM
 (have|has|had) been here before	IDIOM
 there you are	IDIOM
@@ -4273,33 +4273,33 @@ see things	IDIOM
 just one of those things	IDIOM
 one of those things	IDIOM
 make a thing of	IDIOM
-tell (me|you|him|her|us|them|[^.!?, ]+) a thing or two	IDIOM
-teach (me|you|him|her|us|them|[^.!?, ]+) a thing or two	IDIOM
+tell (me|you|him|her|us|them|[^.!?,]+) a thing or two	IDIOM
+teach (me|you|him|her|us|them|[^.!?,]+) a thing or two	IDIOM
 things that (went|go) bump in the night	IDIOM
 think nothing of	IDIOM
 think nothing of it	IDIOM
 think on (my|your|his|her|our|their|its) feet	IDIOM
 think twice	IDIOM
 put on (my|your|his|her|our|their|its) thinking cap	IDIOM
-a thorn in (my|your|his|her|our|their|its|[^.!?, ]+) side	IDIOM
+a thorn in (my|your|his|her|our|their|its|[^.!?,]+) side	IDIOM
 hang by a thread	IDIOM
 three musketeers	IDIOM
 be at each other's throats	IDIOM
 cut (my|your|his|her|our|their|its) own throat	IDIOM
-force (it|that|[^.!?,]+) down (my|your|his|her|our|their|its|[^.!?, ]+) throat	IDIOM
-ram (it|that|[^.!?,]+) down (my|your|his|her|our|their|its|[^.!?, ]+) throat	IDIOM
-shove (it|that|[^.!?,]+) down (my|your|his|her|our|their|its|[^.!?, ]+) throat	IDIOM
+force (it|that|[^.!?,]+) down (my|your|his|her|our|their|its|[^.!?,]+) throat	IDIOM
+ram (it|that|[^.!?,]+) down (my|your|his|her|our|their|its|[^.!?,]+) throat	IDIOM
+shove (it|that|[^.!?,]+) down (my|your|his|her|our|their|its|[^.!?,]+) throat	IDIOM
 stick in (my|your|his|her|our|their|its) throat	IDIOM
 throw in the towel	IDIOM
 throw in the sponge	IDIOM
 throw stones	IDIOM
 throw (my|your|his|her|our|their|its) weight around	IDIOM
-throw (my|your|his|her|our|their|its) weight behind (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+throw (my|your|his|her|our|their|its) weight behind (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 thumb (my|your|his|her|our|their|its) nose at	IDIOM
 thumbs up	IDIOM
 thumbs down	IDIOM
-under (my|your|his|her|our|their|its|[^.!?, ]+) thumb	IDIOM
-what makes (me|you|him|her|us|them|[^.!?, ]+) tick	IDIOM
+under (my|your|his|her|our|their|its|[^.!?,]+) thumb	IDIOM
+what makes (me|you|him|her|us|them|[^.!?,]+) tick	IDIOM
 be tickled pink	IDIOM
 (went|go) with the tide	IDIOM
 swim with the tide	IDIOM
@@ -4309,7 +4309,7 @@ ride a tiger	IDIOM
 run a tight ship	IDIOM
 a tight spot	IDIOM
 for the time being	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the time of day	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the time of day	IDIOM
 in (my|your|his|her|our|their|its) own time	IDIOM
 know the time of day	IDIOM
 not before time	IDIOM
@@ -4323,10 +4323,10 @@ only time will tell	IDIOM
 be on the tip of (my|your|his|her|our|their|its) tongue	IDIOM
 tip (my|your|his|her|our|their|its) hat	IDIOM
 tip the scales	IDIOM
-(get|got) on (my|your|his|her|our|their|its|[^.!?, ]+) tits	IDIOM
+(get|got) on (my|your|his|her|our|their|its|[^.!?,]+) tits	IDIOM
 tit for tat	IDIOM
 be toast	IDIOM
-make (my|your|his|her|our|their|its|[^.!?, ]+) toes curl	IDIOM
+make (my|your|his|her|our|their|its|[^.!?,]+) toes curl	IDIOM
 on (my|your|his|her|our|their|its) toes	IDIOM
 a toe in the door	IDIOM
 toe the line	IDIOM
@@ -4336,7 +4336,7 @@ as though there were no tomorrow	IDIOM
 tomorrow is another day	IDIOM
 the gift of tongues	IDIOM
 set tongues wagging	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) tongue is hanging out	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) tongue is hanging out	IDIOM
 with tongue in cheek	IDIOM
 tongue in cheek	IDIOM
 fight tooth and nail	IDIOM
@@ -4360,7 +4360,7 @@ tough shit	IDIOM
 on the town	IDIOM
 the wrong side of the tracks	IDIOM
 shut (my|your|his|her|our|their|its) trap	IDIOM
-step on (my|your|his|her|our|their|its|[^.!?, ]+) toes	IDIOM
+step on (my|your|his|her|our|their|its|[^.!?,]+) toes	IDIOM
 tread water	IDIOM
 up a tree	IDIOM
 trial and error	IDIOM
@@ -4380,7 +4380,7 @@ come up trumps	IDIOM
 turn up trumps	IDIOM
 blow (my|your|his|her|our|their|its) own trumpet	IDIOM
 toot (my|your|his|her|our|their|its) own horn	IDIOM
-not trust (me|you|him|her|us|them|[^.!?, ]+) as far as you can throw them	IDIOM
+not trust (me|you|him|her|us|them|[^.!?,]+) as far as you can throw them	IDIOM
 the truth, the whole truth, and nothing but the truth	IDIOM
 try (it|that|[^.!?,]+) for size	IDIOM
 try (my|your|his|her|our|their|its) hand	IDIOM
@@ -4393,10 +4393,10 @@ talk out of turn	IDIOM
 turn the corner	IDIOM
 turn tail	IDIOM
 twenty-four seven	IDIOM
-be twice the man or woman that (me|you|him|her|us|them|[^.!?, ]+) is	IDIOM
+be twice the man or woman that (me|you|him|her|us|them|[^.!?,]+) is	IDIOM
 twiddle (my|your|his|her|our|their|its) thumbs	IDIOM
-a twinkle in (my|your|his|her|our|their|its|[^.!?, ]+) eye	IDIOM
-twist (my|your|his|her|our|their|its|[^.!?, ]+) arm	IDIOM
+a twinkle in (my|your|his|her|our|their|its|[^.!?,]+) eye	IDIOM
+twist (my|your|his|her|our|their|its|[^.!?,]+) arm	IDIOM
 no two ways about it	IDIOM
 put two and two together	IDIOM
 that makes two of us	IDIOM
@@ -4420,7 +4420,7 @@ up yours!	IDIOM
 gain the upper hand	IDIOM
 be quick on the uptake	IDIOM
 be slow on the uptake	IDIOM
-take (my|your|his|her|our|their|its|[^.!?, ]+) name in vain	IDIOM
+take (my|your|his|her|our|their|its|[^.!?,]+) name in vain	IDIOM
 variety is the spice of life	IDIOM
 beyond the veil	IDIOM
 with a vengeance	IDIOM
@@ -4439,13 +4439,13 @@ walk on eggs	IDIOM
 walk on eggshells	IDIOM
 walk (my|your|his|her|our|their|its) talk	IDIOM
 walk the talk	IDIOM
-drive (me|you|him|her|us|them|[^.!?, ]+) up the wall	IDIOM
+drive (me|you|him|her|us|them|[^.!?,]+) up the wall	IDIOM
 off the wall	IDIOM
 up against the wall	IDIOM
 wall-to-wall	IDIOM
 walls(have|has|had) ears	IDIOM
 a war to end all wars	IDIOM
-keep (it|that|[^.!?,]+) warm for (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+keep (it|that|[^.!?,]+) warm for (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 on the warpath	IDIOM
 warts and all	IDIOM
 come out in the wash	IDIOM
@@ -4455,7 +4455,7 @@ waste of space	IDIOM
 watch the time	IDIOM
 watch the world (went|go) by	IDIOM
 watch (my|your|his|her|our|their|its) back	IDIOM
-watch (my|your|his|her|our|their|its|[^.!?, ]+) back	IDIOM
+watch (my|your|his|her|our|their|its|[^.!?,]+) back	IDIOM
 water under the bridge	IDIOM
 watering hole	IDIOM
 make waves	IDIOM
@@ -4489,7 +4489,7 @@ wet behind the ears	IDIOM
 a wet blanket	IDIOM
 wet (my|your|his|her|our|their|its) whistle	IDIOM
 out of whack	IDIOM
-a whale of a [^.,!?:; ]+	IDIOM
+a whale of a [^.,!?:;]+	IDIOM
 wham-bam-thank-you-ma'am	IDIOM
 and what(have|has|had) you	IDIOM
 or what(have|has|had) you	IDIOM
@@ -4498,7 +4498,7 @@ what with	IDIOM
 wheel and deal	IDIOM
 the wheel of Fortune	IDIOM
 wheels within wheels	IDIOM
-whet (my|your|his|her|our|their|its|[^.!?, ]+) appetite	IDIOM
+whet (my|your|his|her|our|their|its|[^.!?,]+) appetite	IDIOM
 give it a whirl	IDIOM
 (have|has|had) whiskers	IDIOM
 (have|has|had) grown whiskers	IDIOM
@@ -4522,14 +4522,14 @@ you can't win them all	IDIOM
 win some, lose some	IDIOM
 (get|got) wind of	IDIOM
 gone with the wind	IDIOM
-take the wind out of (my|your|his|her|our|their|its|[^.!?, ]+) sails	IDIOM
+take the wind out of (my|your|his|her|our|their|its|[^.!?,]+) sails	IDIOM
 to the wind	IDIOM
 to the winds	IDIOM
 to the four winds	IDIOM
 (went|go) out the window	IDIOM
 (went|go) out of the window	IDIOM
 window of opportunity	IDIOM
-wine and dine (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+wine and dine (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 on a wing and a prayer	IDIOM
 spread (my|your|his|her|our|their|its) wings	IDIOM
 stretch (my|your|his|her|our|their|its) wings	IDIOM
@@ -4537,7 +4537,7 @@ under (my|your|his|her|our|their|its) wing	IDIOM
 in the wink of an eye	IDIOM
 wipe the floor with	IDIOM
 wipe the slate clean	IDIOM
-wipe the smile off (my|your|his|her|our|their|its|[^.!?, ]+) face	IDIOM
+wipe the smile off (my|your|his|her|our|their|its|[^.!?,]+) face	IDIOM
 down to the wire	IDIOM
 be none the wiser	IDIOM
 if wishes were horses, beggars would ride	IDIOM
@@ -4553,7 +4553,7 @@ witch hunt	IDIOM
 the witching hour	IDIOM
 wither on the vine	IDIOM
 cry wolf	IDIOM
-throw (me|you|him|her|us|them|[^.!?, ]+) to the wolves	IDIOM
+throw (me|you|him|her|us|them|[^.!?,]+) to the wolves	IDIOM
 a wolf in sheep's clothing	IDIOM
 work wonders	IDIOM
 do wonders	IDIOM
@@ -4564,23 +4564,23 @@ knock on wood	IDIOM
 vanish into the woodwork	IDIOM
 come out of the woodwork	IDIOM
 crawl out of the woodwork	IDIOM
-pull the wool over (my|your|his|her|our|their|its|[^.!?, ]+) eyes	IDIOM
+pull the wool over (my|your|his|her|our|their|its|[^.!?,]+) eyes	IDIOM
 (have|has|had) words	IDIOM
 a man of few words	IDIOM
 a woman of few words	IDIOM
 a man of his word	IDIOM
 a woman of her word	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) word is law	IDIOM
-(my|your|his|her|our|their|its|[^.!?, ]+) word is their bond	IDIOM
-take (me|you|him|her|us|them|[^.!?, ]+) at their word	IDIOM
-take (my|your|his|her|our|their|its|[^.!?, ]+) word	IDIOM
-take (my|your|his|her|our|their|its|[^.!?, ]+) word for it	IDIOM
-too [^.,!?:; ]+ for words	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) word is law	IDIOM
+(my|your|his|her|our|their|its|[^.!?,]+) word is their bond	IDIOM
+take (me|you|him|her|us|them|[^.!?,]+) at their word	IDIOM
+take (my|your|his|her|our|their|its|[^.!?,]+) word	IDIOM
+take (my|your|his|her|our|their|its|[^.!?,]+) word for it	IDIOM
+too [^.,!?:;]+ for words	IDIOM
 word for word	IDIOM
 word of mouth	IDIOM
 the word on the street	IDIOM
 a word to the wise	IDIOM
-give (me|you|him|her|us|them|[^.!?, ]+) the works	IDIOM
+give (me|you|him|her|us|them|[^.!?,]+) the works	IDIOM
 (have|has|had) (my|your|his|her|our|their|its) work cut out	IDIOM
 in the works	IDIOM
 work (my|your|his|her|our|their|its) ass off	IDIOM
@@ -4605,25 +4605,25 @@ do (my|your|his|her|our|their|its) worst	IDIOM
 (get|got) the worst of it	IDIOM
 (have|has|had) the worst of it	IDIOM
 if the worst comes to the worst	IDIOM
-for all (me|you|him|her|us|them|[^.!?, ]+) is worth	IDIOM
+for all (me|you|him|her|us|them|[^.!?,]+) is worth	IDIOM
 keep (it|that|[^.!?,]+) under wraps	IDIOM
-put (me|you|him|her|us|them|[^.!?, ]+) through the wringer	IDIOM
+put (me|you|him|her|us|them|[^.!?,]+) through the wringer	IDIOM
 writ large	IDIOM
 nothing to write home about	IDIOM
 the writing is on the wall	IDIOM
 be written all over (my|your|his|her|our|their|its) face	IDIOM
 (have|has|had) (it|that|[^.!?,]+) written all over (my|your|his|her|our|their|its) face	IDIOM
-(get|got) in wrong with (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-(get|got) on the wrong side of (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-(get|got) (me|you|him|her|us|them|[^.!?, ]+) wrong	IDIOM
+(get|got) in wrong with (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+(get|got) on the wrong side of (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+(get|got) (me|you|him|her|us|them|[^.!?,]+) wrong	IDIOM
 (went|go) down the wrong way	IDIOM
 (went|go) down the wrong pipe	IDIOM
 that's all she wrote	IDIOM
 and that's all she wrote	IDIOM
 wrote the book on	IDIOM
 spin a yarn	IDIOM
-put years on (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
-take years off (me|you|him|her|us|them|[^.!?, ]+)	IDIOM
+put years on (me|you|him|her|us|them|[^.!?,]+)	IDIOM
+take years off (me|you|him|her|us|them|[^.!?,]+)	IDIOM
 yes and no	IDIOM
 yesterday's news	IDIOM
 you and yours	IDIOM

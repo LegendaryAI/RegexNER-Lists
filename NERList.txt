@@ -5,12 +5,12 @@ car (brand|compan(y|ies))	Car_Brands.txt
 automakers?	Car_Brands.txt
 (certain|sure)	Certain.txt
 cheeses?	Cheeses.txt
-(chemical)? elements??	ChemicalElements.txt
+(chemical)? elements?	ChemicalElements.txt
 (chinese)? dialects?	Chinese_Dialect.txt
 colors?	Colors.txt
 continents?	Continents.txt
 countr(y|ies)	Countries.txt
-fields? of study	Field_of_Study.txt
+fields? of study	Fields_of_Study.txt
 (majors?|concentrations?)	Field_of_Study.txt
 fruits?	Fruits.txt
 furniture	Furniture.txt

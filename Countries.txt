@@ -91,7 +91,7 @@ India	COUNTRY
 Indonesia	COUNTRY
 Iran	COUNTRY
 Iraq	COUNTRY
-Ireland {Republic}	COUNTRY
+Republic of Ireland	COUNTRY
 Ireland	COUNTRY
 Republic of Ireland	COUNTRY
 South Ireland	COUNTRY
