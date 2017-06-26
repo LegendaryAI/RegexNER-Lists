@@ -1,4 +1,4 @@
-Achemon Sphinx Moth 	INSECT
+Achemon Sphinx Moth	INSECT
 Acorn Weevil	INSECT
 Ailanthus Webworm Moth	INSECT
 Ambush Bug	INSECT
