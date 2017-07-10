@@ -24,6 +24,7 @@ Jaguar	CAR_BRAND
 Jeep	CAR_BRAND
 Kia	CAR_BRAND
 Koenigsegg	CAR_BRAND
+Lada  CAR_BRAND
 Lamborghini	CAR_BRAND
 Land Rover	CAR_BRAND
 Lexus	CAR_BRAND
@@ -33,10 +34,11 @@ McLaren	CAR_BRAND
 Mercedes-Benz	CAR_BRAND
 Mini	CAR_BRAND
 Mitsubishi	CAR_BRAND
-Nissan	CAR_BRAND
+Nissan  CAR_BRAND
 Pagani	CAR_BRAND
 Peugeot	CAR_BRAND
-Porsche	CAR_BRAND
+Porsche CAR_BRAND
+Proton  CAR_BRAND
 Ram	CAR_BRAND
 Renault	CAR_BRAND
 Rolls Royce	CAR_BRAND
@@ -48,3 +50,4 @@ Tesla	CAR_BRAND
 Toyota	CAR_BRAND
 Volkswagen	CAR_BRAND
 Volvo	CAR_BRAND
+Yugo	CAR_BRAND
