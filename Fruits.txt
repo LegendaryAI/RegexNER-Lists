@@ -87,4 +87,5 @@ Strawberry	FRUIT
 Tamarillo	FRUIT
 Tamarind	FRUIT
 Ugli fruit	FRUIT
+Vietnamese Pear	FRUIT
 Yuzu	FRUIT
