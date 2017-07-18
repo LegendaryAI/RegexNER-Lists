@@ -1,3 +1,4 @@
+names?	All_Names.txt
 (drink|beverage)s?	BeveragesWithoutAlcohol.txt
 alcoholic beverages?	BeveragesWithAlcohol.txt
 (board)? games?	BoardGames.txt
@@ -12,6 +13,7 @@ continents?	Continents.txt
 countr(y|ies)	Countries.txt
 fields? of study	Fields_of_Study.txt
 (majors?|concentrations?)	Field_of_Study.txt
+first names?	First_Names.txt
 fruits?	Fruits.txt
 furniture	Furniture.txt
 (characteristics?|feelings?|moods?)	Human_Characteristics.txt
@@ -20,6 +22,7 @@ figures? of speech	Idioms.txt
 (insects?|bugs?)	Insects.txt
 lakes?	Lakes.txt
 languages?	Languages.txt
+last names?	Last_Names.txt
 mammals?	Mammal.txt
 maybe	Maybe.txt
 weapons?	Medieval_Weapons.txt
