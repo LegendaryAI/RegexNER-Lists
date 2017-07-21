@@ -1,3 +1,4 @@
+where	Proper_Places.txt
 names?	All_Names.txt
 (drink|beverage)s?	BeveragesWithoutAlcohol.txt
 alcoholic beverages?	BeveragesWithAlcohol.txt
@@ -8,6 +9,7 @@ automakers?	Car_Brands.txt
 cheeses?	Cheeses.txt
 (chemical)? elements?	ChemicalElements.txt
 (chinese)? dialects?	Chinese_Dialect.txt
+cit(y|ies)	Cities_4000.txt
 colors?	Colors.txt
 continents?	Continents.txt
 countr(y|ies)	Countries.txt
