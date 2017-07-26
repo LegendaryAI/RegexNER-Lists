@@ -14,7 +14,7 @@ colors?	Colors.txt
 continents?	Continents.txt
 countr(y|ies)	Countries.txt
 fields? of study	Fields_of_Study.txt
-(majors?|concentrations?)	Field_of_Study.txt
+(majors?|concentrations?)	Fields_of_Study.txt
 first names?	First_Names.txt
 fruits?	Fruits.txt
 furniture	Furniture.txt
